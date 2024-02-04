@@ -1,24 +1,22 @@
-###### Repellat
-Fugit velit est.
-#### Soluta#### Eum
-Ipsum officia voluptas.
-Quos omnis possimus. _Ut_ ipsam sequi. Voluptatem corporis qui.#### Et
-Qui modi dolores.
-* Eos. 
-* Omnis. 
-* Minima. 
-* Doloremque. 
-* Nam. 
-* Odit. 
-* Nostrum. 
-# Consequatur
-Quasi qui excepturi.
-##### Et
-Nemo nobis harum. Est aut quaerat. Nemo autem ut.
-##### Quis
-Reiciendis aliquam alias. Sunt expedita veritatis. Laboriosam commodi et.
-Qui sit temporibus. Aperiam iusto _magni._ Occaecati repellat placeat.### Ea
-Culpa velit eligendi.
-###### Molestias
-Consequatur quia est. Autem itaque et. Ipsum est suscipit.
-`Neque.`
+---
+# 新能源科学与工程看过来！
+
+# 新能源科学与工程看过来！
+
+# 新能源科学与工程看过来！
+
+## 你还在为了半导体物理和单片机而苦恼吗
+
+## 你还在为了课设、论文而焦虑吗？
+
+### 注意！注意！注意！这是一个开源资料站：
+
+> #### 我能搜集到的资料就这些了（就算MIN来了都没用）
+---
+# 注意法律意识，注意版权保护（仅本声明遵循MIT规则）
+---
+# 不急，小白看这里：First 好的 issue.
+
+# 紧急，哥们看这里：论文救急，3小时——最后的论文与速通
+
+代码、论文、模型......
