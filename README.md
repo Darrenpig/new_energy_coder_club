@@ -33,6 +33,7 @@
 ---
 
 # 不急，小白看这里：First 好的 issue.
+![image](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/89abb1f3-b108-4ebc-b08b-693412b475bd)
 
 
 # 紧急，哥们看这里：论文救急，3小时——最后的论文与速通
