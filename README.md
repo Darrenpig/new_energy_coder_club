@@ -6,7 +6,8 @@
 
 # 新能源科学与工程看过来！
 
-## 项目成员：@DarrenPig @chuangyt
+## 项目成员：
+@DarrenPig @chuangyt
 - 记得按时打卡
 - 有空多多传库
 
