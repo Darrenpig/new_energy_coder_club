@@ -14,13 +14,12 @@
 ## GitHub本仓库的基础用法
 ![如何创建文件夹，和上传文件](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/f23e9721-96a6-46bb-b121-e76c907d58c7)
 > 如何创建文件夹，和上传文件
-![如何更改Readme](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/a997dff6-64bc-4343-bef1-6be4dad92522)
-> 如何更改Readme
-
-
 
 ## 你还在为了半导体物理和单片机而苦恼吗
-![半导体物理和单片机](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/284f2ffa-7bcb-44f2-a1c4-bedaefed3856)
+![logo (7)](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/35e38938-d76c-434a-8fa2-5c46879585db)
+
+![如何更改Readme](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/a997dff6-64bc-4343-bef1-6be4dad92522)
+> 如何更改Readme
 
 ## 你还在为了课设、论文而焦虑吗？
 ![课设、论文](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/7e8167f0-1749-4baf-b304-cac3805509a9)
