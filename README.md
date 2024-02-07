@@ -39,3 +39,4 @@
 # 紧急，哥们看这里：论文救急，3小时——最后的论文与速通
 
 代码、论文、模型......
+![image](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/3545edca-5ed4-4da1-a6d5-f8b9158e3c53)
