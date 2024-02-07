@@ -20,8 +20,10 @@
 
 
 ## 你还在为了半导体物理和单片机而苦恼吗
+![半导体物理和单片机](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/284f2ffa-7bcb-44f2-a1c4-bedaefed3856)
 
 ## 你还在为了课设、论文而焦虑吗？
+![课设、论文](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/7e8167f0-1749-4baf-b304-cac3805509a9)
 
 ### 注意！注意！注意！这是一个开源资料站：
 
