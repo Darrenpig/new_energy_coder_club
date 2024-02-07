@@ -18,8 +18,6 @@
 ## 你还在为了半导体物理和单片机而苦恼吗
 ![logo (7)](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/35e38938-d76c-434a-8fa2-5c46879585db)
 
-![如何更改Readme](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/a997dff6-64bc-4343-bef1-6be4dad92522)
-> 如何更改Readme
 
 ## 你还在为了课设、论文而焦虑吗？
 ![课设、论文](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/7e8167f0-1749-4baf-b304-cac3805509a9)
