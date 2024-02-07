@@ -32,7 +32,7 @@
 
 ---
 
-# 不急，小白看这里：First 好的 issue.
+# 不急，小白看这里：[First 好的 issue.](https://github.com/Darrenpig/new_energy_coder_club/issues/2)
 ![image](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/89abb1f3-b108-4ebc-b08b-693412b475bd)
 
 
