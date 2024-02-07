@@ -1,8 +1,8 @@
 # 新能源科学与工程看过来！
-
 # 新能源科学与工程看过来！
-
 # 新能源科学与工程看过来！
+![如何学习Github](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/078df1bc-d576-4c17-9882-b9c9174d844c)
+
 
 ## 项目成员：
 @DarrenPig @chuangyt
