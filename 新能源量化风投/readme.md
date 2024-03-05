@@ -1,6 +1,7 @@
 # Fortrader操作应用指南
 ## Fortrader是什么
 相信大家为什么来到训练营学习量化，很大的原因就是因为计算机可以快速高效的选股，择时，准确无感情地实现自己的交易想法，避免贪婪恐惧所带来的追涨杀跌，卖飞踩空。
+![image](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/689236a5-548f-496b-9968-e85ef23569a9)
 
 而想要实现量化交易，好用的工具是必不可少的。Fortrader也是为此而生的。
 
