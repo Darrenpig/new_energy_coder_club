@@ -49,7 +49,8 @@ https://www.fortrader.cn/index/
  
 
 7.如果觉得策略结果不符合自己的预期，可以通过修改参数来优化策略
- 
+ ![image](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/03f1c8c5-b9dd-444f-8f0d-c6ae05d54a8d)
+
 
 ## 总结
 恭喜你已经完成了一次量化回测优化的过程。
