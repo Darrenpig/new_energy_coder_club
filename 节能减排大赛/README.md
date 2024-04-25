@@ -53,60 +53,19 @@
 - 2.通讯模块
 
 
----
-### 成员的空余时间表：
-
-![image](https://github.com/Darrenpig/openEuler_Tutorial/assets/121377489/62ed178a-f259-4b1c-b8f7-0bbb3c05b174)
-
-
 这就是近期的大体分工
 
 ### 项目成员分工:
  @和尚 ROS，PWM； @徐逸凡 硬件； @徐欣晨 文档维护
----
-<table>
-    <tr>
-      <td ><img src="image/ROS%E5%B9%B3%E5%8F%B0.png" width=200/>
-      <td ><img src="image/Tree.png" width=200/>
-      <td ><img src="image/%E5%AE%98%E6%96%B9%E7%9A%84%E8%B5%84%E6%96%99%E5%8C%85%E6%88%AA%E5%9B%BE.png" width=200/>
-      <td ><img src="image/FAQ%E6%88%AA%E5%9B%BE.png" width=200/>
-    </tr>
 
-   <tr>  
-      <td ><img src="image/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.png" width=200/>
-      <td ><img src="image/Nearlink.png" width=200/>
-      <td ><img src="image/SegonUIScript%20%20aim.png" width=200/>
-      <td ><img src="image/duibitu.png" width=200/>
-   
-    </tr>
-</table>
 
 # https://lierda.feishu.cn/wiki/VBoPwV3oRiJRjWkb1ZkcgVMynmg
+
 ### 以下是大家可以轻松编辑交流的文档区：（提交方法在Readme结尾~~~）
 
  @和尚 【ROS开发板】https://www.yahboom.com/study/ROS-Driver-Board
 
-
-#### 介绍
-
-常工院的一个[Nearlink](https://www.hisilicon.com/cn/techtalk/nearlink)兴趣小组，想在openEuler\Rt-Thread上混合编译Nearlink接口，达到有即插即用的Nearlink硬件目的
-
-
-## 我们的主要利用[这个仓库](https://gitee.com/darrenpig/openeuler-nearlink)的方式：更新readme
-
-
-#### 项目结构说明
-我们能用Gitee做啥子？
-共享文件、项目进度
-
-
-
 #### 资料共享
-
-##### 1.使用手册：https://lierda.feishu.cn/wiki/VBoPwV3oRiJRjWkb1ZkcgVMynmg
-
-
-##### 2.网址：https://lierda.feishu.cn/wiki/X360wInOjihWzukypNzc0Df5nHf?utm_source=pocket_saves
 
 
 #### 项目成员： @DarrenPig 、 @徐逸凡 、 @徐欣晨 ， @和尚 （大佬）
