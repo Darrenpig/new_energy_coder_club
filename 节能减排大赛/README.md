@@ -16,7 +16,7 @@
 下面为：![省赛](https://dczx.czu.cn/2024/0315/c1781a137446/page.htm)、![国赛](https://dczx.czu.cn/2024/0408/c1781a138356/page.htm) 的 校园网链接
 
 #### 我们下面还不知道能不能及时的做好，但我们可以尝试！
-![2024年5月20日前请各参赛小组](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/f8da9517-d06b-45d7-b2bb-2d568fa90459)
+% ! [2024年5月20日前请各参赛小组](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/f8da9517-d06b-45d7-b2bb-2d568fa90459)
 
 
 ### @郝磊 我们硬件在就是小车，基础是加上视觉和通讯（也可以供电如果有时间也可能优化）上面基础上改，具体方向你再细化一下，我晚上发给顾老师
