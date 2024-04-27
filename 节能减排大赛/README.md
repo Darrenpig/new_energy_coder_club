@@ -1,4 +1,5 @@
-希望大家能更快的行动起来
+
+![image](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/ecd2a89c-face-451a-95ea-eb4952b8e508)
 
 
 # 节能减排大赛，最近打算稍作准备:———— 【源头治理-智慧化工】低成本 节能的工厂巡检方案
@@ -95,4 +96,7 @@
 #### 4.21 @ 和尚 板子上电成功
 #### 4.22 @ 和尚 换板子 国信长天Cortex-M4、@ 徐欣晨 Matlab 公式、竞赛交流
 #### 4.25 @ DarrenPig 维护项目进度、守护进程
+#### 4.27 @ DarrenPig 更新Readme
 ---
+
+希望大家能更快的行动起来！
