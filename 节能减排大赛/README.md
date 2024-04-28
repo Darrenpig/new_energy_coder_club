@@ -1,4 +1,34 @@
 
+![屏幕截图 2024-04-28 213038](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/605cff17-8048-409c-bafc-a0d6350f4196)
+
+![屏幕截图 2024-04-28 213105](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/a032d240-8cda-4da2-853e-0deaf01fc275)
+
+![屏幕截图 2024-04-28 213119](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/2ceb57b3-3175-406e-8b28-1289d8235a7c)
+
+
+---
+## 成员分工：
+![image](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/d95f33f4-3b26-4cf4-a5b3-404deb9e21b9)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## 以下为 24.4.28之前的内容
+---
 ![image](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/ecd2a89c-face-451a-95ea-eb4952b8e508)
 
 
