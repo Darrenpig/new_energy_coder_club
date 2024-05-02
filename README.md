@@ -3,6 +3,7 @@
 ## 项目简洁版Readme:
 我们的小车大概长这样：
 ![image](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/d83ede20-9fef-4100-9e7a-c19c13c8c2cf)
+![image](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/5d35dedd-cf85-4a77-a2d4-14479c70a5d9)
 
 Q&A
 - 1.这个仓库怎么用？
