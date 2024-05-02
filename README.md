@@ -1,6 +1,9 @@
 # 仓库主线：节能减排大赛
 点击上面的文件内容即可
 ## 项目简洁版Readme:
+我们的小车大概长这样：
+![image](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/d83ede20-9fef-4100-9e7a-c19c13c8c2cf)
+
 Q&A
 - 1.这个仓库怎么用？
 - - 通过更新Readme的方式实时跟进进度
