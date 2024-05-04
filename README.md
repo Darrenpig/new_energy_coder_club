@@ -52,3 +52,4 @@ http://t.csdnimg.cn/Tyjwy
 【调研的横向对比思路给的是 张若璐】（也有她来负责）
 
 ## 2.相较于财务其实跟需要的是详尽的调研（可以看我发在仓库里的节能减排文件夹-可以看一下），是否可以真的节能减排[要靠题]
+![image](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/0bc704bf-ab0b-47e8-a064-36c063fc72df)
