@@ -1,4 +1,3 @@
-![image](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/edcd5d03-6302-4b3d-a101-c7996590ace7)
 
 ##### https://iot.sjtu.edu.cn/show.aspx?info_lb=34&info_id=3962&flag=2
 
@@ -10,7 +9,7 @@
 - 【机器人】地平线赛道 https://iot.sjtu.edu.cn/ueditor/net/upload/file/20240327/6384717450570366672613528.pdf
 
 - 指导老师：
-孙潇楠老师、贾渊老师
+孙潇楠老师
 
 - 核心成员：
 朱佩韦（上位机、组织）、闻志伟（下位机）
@@ -33,3 +32,6 @@
 - 小组成员（技术支撑）：
 许陇译、顾舒腾
 ......
+
+  ![image](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/edcd5d03-6302-4b3d-a101-c7996590ace7)
+
