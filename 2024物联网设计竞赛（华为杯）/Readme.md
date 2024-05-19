@@ -25,5 +25,5 @@
 顾舒腾
 ......
 
-  ![image](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/edcd5d03-6302-4b3d-a101-c7996590ace7)
+//-- [image](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/edcd5d03-6302-4b3d-a101-c7996590ace7)
 
