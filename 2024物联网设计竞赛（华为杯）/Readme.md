@@ -1,7 +1,5 @@
 
 ##### https://iot.sjtu.edu.cn/show.aspx?info_lb=34&info_id=3962&flag=2
-![AR502](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/6904c605-7ece-4581-b66c-2e5d40a97d54)
-
 
 ## 赛题在线链接：我们选择命题三：华为数通（数据网关）做我们的“端-边-云”架构计算————结合智能工厂巡检系统
 
@@ -31,3 +29,4 @@
 
 //-- [image](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/edcd5d03-6302-4b3d-a101-c7996590ace7)
 
+![AR502](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/6904c605-7ece-4581-b66c-2e5d40a97d54)
