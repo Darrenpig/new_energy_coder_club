@@ -30,6 +30,7 @@
 
 ### 小组队长（技术支撑）：@顾舒腾
 -小组成员 （技术支撑）：
+![ZH-CN_IMAGE_0000001128692146](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/f96deabf-d2ad-4f49-ae67-1429fe083967)
 
 ### note
 - 5.22 @许子涵涵 resume 
