@@ -20,6 +20,7 @@
 ## 小组队长（技术支撑）：@顾舒腾
 ![ZH-CN_IMAGE_0000001128692146](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/f96deabf-d2ad-4f49-ae67-1429fe083967)
 ## 【项目进度】：
+### 顾舒腾
 - 5.25 @顾舒腾 配置进度：M2 环境（Mac-mini）配置部署 M2 的 pip \ python 路径
 
 ## 【成员进度}：
