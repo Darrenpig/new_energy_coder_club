@@ -7,6 +7,9 @@
 ## 【资料共享】：
 - 【AR502H-CN文档】：https://support.huawei.com/enterprise/zh/routers/ar500-pid-21247181
 - 【嵌入式、服务器、产品】华为命题 https://iot.sjtu.edu.cn/ueditor/net/upload/file/20240327/6384717615388308323667272.pdf
+- 【文档】：https://bbs.huaweicloud.com/forum/thread-0296147346866118020-1-1.html
+- 【】
+
 
 ## 指导老师（光电/电气）：孙潇楠(小车)、于敏昌（网关）
 数据网关组长：@顾舒腾
