@@ -9,44 +9,37 @@
 
 
 - 【嵌入式、服务器、产品】华为命题 https://iot.sjtu.edu.cn/ueditor/net/upload/file/20240327/6384717615388308323667272.pdf
-## 我们已有指导老师（一位/二位）
+## 我们已有指导老师（一位/二位）：孙潇楠(小车)、于敏昌（网关）
 数据网关组长：@顾舒腾
 -- 
 
-- 核心成员：
+- 小车核心成员：
 朱佩韦（上位机、组织）、闻志伟（下位机）
 [ 指导老师：孙潇楠]
 ---
-以下为团队成员（从4个小组中抽调）最终确定10人
----
-- 小组成员（组织材料）：
-@郝磊 、 @周潮
-
-- 小组成员（财务衡算）：
- @张若璐 、 @DarrenPig 
-
-- 小组成员（硬件选型）：
- @张奕泽 、 @灼华 
-
 ### 小组队长（技术支撑）：@顾舒腾
 -小组成员 （技术支撑）：
 ![ZH-CN_IMAGE_0000001128692146](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/f96deabf-d2ad-4f49-ae67-1429fe083967)
 
+- 5.25 @顾舒腾 配置进度：M2 环境（Mac-mini）配置部署 M2 的 pip \ python 路径
 
-### 成员进度
+## 成员进度
 
 ### 崔正阳
-- @N 5.26根据参考手册，上电AR502H-CN，console口无法识别，准备通过U盘启动解决
+- 5.26 @N 根据参考手册，上电AR502H-CN，console口无法识别，准备通过U盘启动解决
+### 朱佩韦
+- 5.26 @DarrenPig 上传所有培训视频到qq群，U盘开局文件的制作方法： https://support.huawei.com/hedex/hdx.do?docid=EDOC1100247454&id=ZH-CN_TOPIC_0000001121575890
+### 许子涵
+- ......
+
+![屏幕截图 2024-05-24 213700](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/7d0ab8dd-dd18-4bd3-9dc0-f894d524487e)
 
 
 
 
-
-
-
-### note
-- 5.22 @许子涵涵 resume 
-- 5.26  @NANA 更新readme和个人进度
+### 维护记录
+- 5.22 @许子涵涵 Readme
+- 5.26 @NANA 更新readme和个人进度
 //-- [image](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/edcd5d03-6302-4b3d-a101-c7996590ace7)
 
-![AR502](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/6904c605-7ece-4581-b66c-2e5d40a97d54)
+
