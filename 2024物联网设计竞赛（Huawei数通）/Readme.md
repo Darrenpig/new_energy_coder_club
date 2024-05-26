@@ -8,7 +8,7 @@
 - 【AR502H-CN文档】：https://support.huawei.com/enterprise/zh/routers/ar500-pid-21247181
 - 【嵌入式、服务器、产品】华为命题 https://iot.sjtu.edu.cn/ueditor/net/upload/file/20240327/6384717615388308323667272.pdf
 - 【文档】：https://bbs.huaweicloud.com/forum/thread-0296147346866118020-1-1.html
-- 【】
+- 【。。。】
 
 
 ## 指导老师（光电/电气）：孙潇楠(小车)、于敏昌（网关）
@@ -32,7 +32,7 @@
 ### 朱佩韦
 - 5.26 @DarrenPig 上传所有培训视频到qq群，U盘开局文件的制作方法： https://support.huawei.com/hedex/hdx.do?docid=EDOC1100247454&id=ZH-CN_TOPIC_0000001121575890
 ### 许子涵
-- ......
+- 5.26 @许子涵涵 更新readme,了解项目进程......
 
 ![屏幕截图 2024-05-24 213700](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/7d0ab8dd-dd18-4bd3-9dc0-f894d524487e)
 
