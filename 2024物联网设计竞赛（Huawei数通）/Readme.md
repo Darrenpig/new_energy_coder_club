@@ -32,8 +32,21 @@
 -小组成员 （技术支撑）：
 ![ZH-CN_IMAGE_0000001128692146](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/f96deabf-d2ad-4f49-ae67-1429fe083967)
 
+
+### 成员进度
+
+### 崔正阳
+- @N 5.26根据参考手册，上电AR502H-CN，console口无法识别，准备通过U盘启动解决
+
+
+
+
+
+
+
 ### note
 - 5.22 @许子涵涵 resume 
+- 5.26  @NANA 更新readme和个人进度
 //-- [image](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/edcd5d03-6302-4b3d-a101-c7996590ace7)
 
 ![AR502](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/6904c605-7ece-4581-b66c-2e5d40a97d54)
