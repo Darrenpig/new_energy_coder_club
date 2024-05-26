@@ -4,11 +4,11 @@
 ## 赛题在线链接：我们选择命题三：华为数通（数据网关）做我们的“端-边-云”架构计算————结合智能工厂巡检系统
 
 
-## 资料共享：
-- 文档：https://support.huawei.com/enterprise/zh/routers/ar500-pid-21247181
-
-
+## 【资料共享】：
+- 【AR502H-CN文档】：https://support.huawei.com/enterprise/zh/routers/ar500-pid-21247181
 - 【嵌入式、服务器、产品】华为命题 https://iot.sjtu.edu.cn/ueditor/net/upload/file/20240327/6384717615388308323667272.pdf
+- ![image](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/4ec5eca2-0e92-4264-81b1-244bd099d9ae)
+
 ## 我们已有指导老师（一位/二位）：孙潇楠(小车)、于敏昌（网关）
 数据网关组长：@顾舒腾
 -- 
@@ -37,7 +37,7 @@
 
 
 
-### 维护记录
+## 【维护记录】：
 #### 5.22 @许子涵涵 Readme
 #### 5.25 @DarrenPig Readme 报名进度
 #### 5.26 @NANA 更新 readme 和个人进度
