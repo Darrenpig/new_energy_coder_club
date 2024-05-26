@@ -17,13 +17,12 @@
 朱佩韦（上位机、组织）、闻志伟（下位机）
 [ 指导老师：孙潇楠]
 ---
-### 小组队长（技术支撑）：@顾舒腾
--小组成员 （技术支撑）：
+## 小组队长（技术支撑）：@顾舒腾
 ![ZH-CN_IMAGE_0000001128692146](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/f96deabf-d2ad-4f49-ae67-1429fe083967)
-
+## 【项目进度】：
 - 5.25 @顾舒腾 配置进度：M2 环境（Mac-mini）配置部署 M2 的 pip \ python 路径
 
-## 成员进度
+## 【成员进度}：
 
 ### 崔正阳
 - 5.26 @N 根据参考手册，上电AR502H-CN，console口无法识别，准备通过U盘启动解决
@@ -38,8 +37,9 @@
 
 
 ### 维护记录
-- 5.22 @许子涵涵 Readme
-- 5.26 @NANA 更新readme和个人进度
+#### 5.22 @许子涵涵 Readme
+#### 5.25 @DarrenPig Readme 报名进度
+#### 5.26 @NANA 更新 readme 和个人进度
 //-- [image](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/edcd5d03-6302-4b3d-a101-c7996590ace7)
 
 
