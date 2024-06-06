@@ -37,12 +37,60 @@
 ![屏幕截图 2024-05-24 213700](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/7d0ab8dd-dd18-4bd3-9dc0-f894d524487e)
 
 
-
+```mermaid
+graph TB  
+  AR502H-CN("AR502H-CN")  
+  KeyFeatures("关键特性与价值")  
+  TechnicalSpecs("技术规格")  
+  Application("应用场景")  
+  Development("二次开发支持")  
+  Warranty("保修与服务")  
+  
+  AR502H-CN --> KeyFeatures  
+  KeyFeatures --> EdgeComputing("边缘计算")  
+  KeyFeatures --> IndustrialDesign("工业级设计")  
+  KeyFeatures --> RichInterfaces("丰富接口")  
+  AR502H-CN --> TechnicalSpecs  
+  AR502H-CN --> Application  
+  AR502H-CN --> Development  
+  AR502H-CN --> Warranty  
+  Warranty --> WarrantyPolicy("保修政策")  
+  Warranty --> CustomerService("客户服务")  
+  
+  subgraph "关键特性与价值"  
+    EdgeComputing  
+    IndustrialDesign  
+    RichInterfaces  
+  end  
+  
+  subgraph "技术规格"  
+    Processor("处理器")  
+    Memory("内存")  
+    Power("电源功率")  
+    Environment("环境标准")  
+  end  
+  
+  subgraph "应用场景"  
+    SmartLighting("智能灯控网关")  
+    EnergyManagement("智慧用能物联网关")  
+  end  
+  
+  subgraph "二次开发支持"  
+    DevelopmentEnvironment("开发环境")  
+    ProgrammingLanguages("编程语言")  
+  end  
+  
+  subgraph "保修与服务"  
+    WarrantyPolicy  
+    CustomerService  
+  end
+```
 
 ## 【维护记录】：
 #### 5.22 @许子涵涵 Readme
 #### 5.25 @DarrenPig Readme 报名进度
 #### 5.26 @NANA 更新 readme 和个人进度
+#### 6.6  @许子涵涵 更新 readme 和 Mermaid
 //-- [image](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/edcd5d03-6302-4b3d-a101-c7996590ace7)
 
 
