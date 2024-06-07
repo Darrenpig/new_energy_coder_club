@@ -91,6 +91,5 @@ graph TB
 #### 5.25 @DarrenPig Readme 报名进度
 #### 5.26 @NANA 更新 readme 和个人进度
 #### 6.6  @许子涵涵 更新 readme 和 Mermaid
-//-- [image](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/edcd5d03-6302-4b3d-a101-c7996590ace7)
 
 
