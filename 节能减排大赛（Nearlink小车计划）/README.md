@@ -141,8 +141,3 @@ EB25 SIG
 #### 5.19 @ 和尚 修改 Readme 确定暑期方案
 #### 5.23 @DarrenPig 报备组队留校信息
 #### 5.24 @DarrenPig 提交国赛材料
----
-###### @所有人 修改Readme方法：
->>> ![修改方式](image/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E5%8A%A0%E9%80%9F.gif)
-##### 设计效果图：
->>> ![视觉光伏巡检小车设计图](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/2cbceb48-069a-4b0c-bf33-f78f11b897b0)
