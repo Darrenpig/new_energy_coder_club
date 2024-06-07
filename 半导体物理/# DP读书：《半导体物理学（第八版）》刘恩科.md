@@ -1,14 +1,8 @@
 # DP读书：《半导体物理学（第八版）》刘恩科
-![半导体物理学](https://img-blog.csdnimg.cn/direct/ce0f7a557aac4936898ed6873fe5d943.png#pic_center)
-
 
 @[TOC](3min速通半导体物理之绪论)
 
 # 绪论
-
-![半导体物理](https://img-blog.csdnimg.cn/direct/eb3914b2ae48433e86c8c8cad18a662d.png)
-
-
 ## 第一章 半导体中的电子状态
 
 ### 1.1 半导体的晶格结构和结合性质
