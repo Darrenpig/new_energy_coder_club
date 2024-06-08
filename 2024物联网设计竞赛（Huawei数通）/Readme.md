@@ -35,7 +35,10 @@
 - 5.26 @许子涵涵 更新readme,了解项目进程......
 
 ![屏幕截图 2024-05-24 213700](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/7d0ab8dd-dd18-4bd3-9dc0-f894d524487e)
-
+###崔正阳
+- 6.8 @NANA 首次登陆配置；
+登录名:admin  密码：Sad123456
+huawei登录名：AR502H-CN  密码：Sad123456
 
 ```mermaid
 graph TB  
@@ -91,5 +94,4 @@ graph TB
 #### 5.25 @DarrenPig Readme 报名进度
 #### 5.26 @NANA 更新 readme 和个人进度
 #### 6.6  @许子涵涵 更新 readme 和 Mermaid
-
-
+#### 6.8   @NANA 更新 readme和环境配置进度
