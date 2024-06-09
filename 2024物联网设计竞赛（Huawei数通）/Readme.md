@@ -24,7 +24,7 @@
 
 #### 成员进度
 - **崔正阳**：5月26日，根据参考手册上电AR502H-CN，但console口无法识别，计划通过U盘启动解决。
-- **朱佩韦（@DarrenPig）**：5月26日，上传了所有培训视频到qq群，并分享了U盘开局文件的制作方法。
+- **朱佩韦**：5月26日，上传了所有培训视频到qq群，并分享了U盘开局文件的制作方法。
 - **许子涵**：5月26日，更新了项目readme文件，并了解项目进程。
 
 #### AR502H-CN路由器概述（基于提供的Mermaid图表）
@@ -67,64 +67,13 @@ graph TB
   end
 ```
 **注意**：以上概述基于提供的Mermaid图表和文档信息。实际应用场景和技术规格可能根据具体项目需求有所不同。
-![屏幕截图 2024-05-24 213700](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/7d0ab8dd-dd18-4bd3-9dc0-f894d524487e)
+![报名信息](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/7d0ab8dd-dd18-4bd3-9dc0-f894d524487e)
 
-```mermaid
-graph TB  
-  AR502H-CN("AR502H-CN")  
-  KeyFeatures("关键特性与价值")  
-  TechnicalSpecs("技术规格")  
-  Application("应用场景")  
-  Development("二次开发支持")  
-  Warranty("保修与服务")  
-  
-  AR502H-CN --> KeyFeatures  
-  KeyFeatures --> EdgeComputing("边缘计算")  
-  KeyFeatures --> IndustrialDesign("工业级设计")  
-  KeyFeatures --> RichInterfaces("丰富接口")  
-  AR502H-CN --> TechnicalSpecs  
-  AR502H-CN --> Application  
-  AR502H-CN --> Development  
-  AR502H-CN --> Warranty  
-  Warranty --> WarrantyPolicy("保修政策")  
-  Warranty --> CustomerService("客户服务")  
-  
-  subgraph "关键特性与价值"  
-    EdgeComputing  
-    IndustrialDesign  
-    RichInterfaces  
-  end  
-  
-  subgraph "技术规格"  
-    Processor("处理器")  
-    Memory("内存")  
-    Power("电源功率")  
-    Environment("环境标准")  
-  end  
-  
-  subgraph "应用场景"  
-    SmartLighting("智能灯控网关")  
-    EnergyManagement("智慧用能物联网关")  
-  end  
-  
-  subgraph "二次开发支持"  
-    DevelopmentEnvironment("开发环境")  
-    ProgrammingLanguages("编程语言")  
-  end  
-  
-  subgraph "保修与服务"  
-    WarrantyPolicy  
-    CustomerService  
-  end
-```
-## 赛题在线链接：我们选择命题三：华为数通（数据网关）做我们的“端-边-云”架构计算————结合智能工厂巡检系统
-
-
+> 赛题在线链接：我们选择命题三：华为数通（数据网关）做我们的“端-边-云”架构计算————结合智能工厂巡检系统
 
 ## 小组队长（技术支撑）：@顾舒腾
 
-
-###崔正阳
+### 崔正阳
 - 6.8 @NANA 首次登陆配置；
 登录名:admin  密码：Sad123456
    huawei登录名：AR502H-CN  密码：Sad123456
@@ -134,4 +83,5 @@ graph TB
 #### 5.25 @DarrenPig Readme 报名进度
 #### 5.26 @NANA 更新 readme 和个人进度
 #### 6.6  @许子涵涵 更新 readme 和 Mermaid
-#### 6.8   @NANA 更新 readme和环境配置进度
+#### 6.8  @NANA 更新 readme和环境配置进度
+#### 6.9  @DarrenPig 更新整理Readme
