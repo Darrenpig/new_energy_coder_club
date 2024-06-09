@@ -43,7 +43,45 @@
 画好所有的图，差不都到了4:30，时间过的可快了。我标好的所有图在Visio里，其他别无二致。写好了大部分的内容，夜幕悄悄的淹没在黎明之前......
     
     
-    
+## Project Source: A promise with @haolei, 2024 we have to do a good project!
+We hit it off right away, prepared the materials on the same day, and had the enrollment form ready by the end of the night.
+However, the reality is incredibly cruel, our one-two punch could not defeat our past selves, and the chemical design materials we made were handed in intact, and according to our teacher's words, we flopped ^ ......
+
+Thanks to Ms. Dai Orchid (the teacher who taught me my introduction to new energy science and engineering in my freshman year), we didn't give up under her encouragement, and after many contacts and discussions with our instructors and teammates, we decided to compete for the recommended place in the national competition directly --- to reach the top 15 in the school competition. -Reaching the top 15 in the school competition.                    
+                    
+
+## Then we played our asses off. For 20 hours on that May 12, we didn't stop.                    
+
+I arrived at the lab at 12:15pm (thanks to Ms. Yi-Wen Gu for her support), and after reporting my progress, I was very nervous, but Ms. Gu gave me two words back: "Go for it!
+Our board has just arrived, at this time, my entire account is still left my 200 living expenses, but we all moved, try to do a good job, make up two Word ---- declarations, instructions.
+
+The main difficulty lies in the instructions, all this knowledge is basically what I have learned in the past six months, many aspects of which I still do not know how to express professionally and accurately, not to mention the teammates will be told to understand. @Choochow Trying to wait for me to write a clear explanation of what's going on and how we're dividing up the labor when it comes to this thing.
+
+At that time, I was counting on my teammates: Zhang Ruolu - research, Ji Boqing - photovoltaic circuits, Wen Zhiwei - motor control, Zhou Chao - summarization, and me - top position. -summarization, me - upper computer (control program), Zhang Wangwang - wheat wheel base plate, Hao Lei - battery design.
+
+That day, I went to see my engineering thermodynamics teacher, Ms. Zheng Min, in the afternoon. Her office, sitting in a bunch of teachers who made me shiver, I only dared to keep my head down, answering the teacher's questions in a low voice, feeling that although I am an adult, I still subconsciously fall into this scenario. After it was over the homeroom teacher also approached me and talked to me for quite a long time, I was autistic.
+
+Friends are an interesting force, Zhang Ruolu was the only one who came to see me in the afternoon after doing the research report. Close to 1/3 of the content, we peeled off from the financial report, became to a similar industry positioning like the text - industry research.                   
+
+In less than, 8 o'clock, we successfully transplanted the content of the research report to the application form, while the description of the report has not moved.
+
+At this time, Wen Zhiwei need my help, his motor all successful control, the motor can successfully turn in one direction. But the reality was clearly harsh, spinning in place. The cart was like a flying spinning gyroscope. We tried modifying the source code, wiring the motors, but the reality was obviously much harsher, the board's firmware had been modified and the original instruction set was not the same, which was a rather frustrating scenario. Two boards became bricks in less than two minutes ...... Then the esp32 didn't run, and at 11:00 there was really no way he was going to go.
+
+Fortunately, we did not just give up, I said, it's okay Lao Wen, you tried your best.
+
+Zhang Ruolu actually came at 10:30, to modify some of my hardware selection document, moved to the manual. I stayed, this is probably the MVP teammate tonight .
+
+Hao Lei brought a few cups of milk tea, and our work was done. When I came back, Hao Lei legs bumped, alcohol rubbed down, to give him to the international exchange center to open a room, I continue to start writing data validation, and let Ji Boqing first send Hao Lei rest to go.
+
+Lights, in the all-night laboratory seems to never go out, time as ants crawl hard on the ground.
+
+Strongly supporting the spirit, Zhang Ruolu snored next to me. It seems that I am the only person in the world, a lamp, a laptop.
+
+Hao Lei and the other two came back, refreshed. I was kicked out to take a shower, but was uneasy, it was only 3:00, I'll go back at 4:30, turned around and went back to the lab, sat down at the table, and continued to draw the diagram.
+
+The three of them, full of spirit, chatting about why they came to the Changsha Institute of Technology's load-bearing topics, that kind of happiness, anyway, let the drawing of the map I can not help but spirit of a vibration of a baffled.
+
+Drawing all the diagrams, almost to 4:30, time passes quickly. I labeled all the diagrams in Visio, but nothing else. Wrote most of it, the night quietly drowned before the dawn ......    
     
     
     
@@ -65,7 +103,16 @@
 - 模块八：嵌入式底软(YOCTO)，闻志伟、朱佩韦负责
     
     
-    
+Technical inspection trolley research mainly by - Zhang Ruolu to provide initial ideas
+Technical support, by the host computer (as the main control, connected to the following modules)
+- Module 1: Star Flash (module), as communication, completed by Wen Zhiwei testing, AT commands
+- Module 2: Vision (module), as monitoring, completed by Zhu Peiwei openMV, connected to the host computer
+- Module 3: Battery (module), as a power supply, completed by Hao Lei 12V power supply to the host computer without power supply
+- Module 4: Photovoltaic (module), to charge the power supply, completed by Boqing Ji 5 W x 9
+- Module 5: Wheel (wheat wheel), pay attention to the axle connector connection, by Zhang Wangwang is responsible for the host computer imx 8 burn openEuler_embedded image, come back to the serial port to be through
+- Module 6: Software (Android\iOS\HarmonyOS\Win.NT), Xu Zihan, Cui Zhengyang, Gu Shuteng, Wen Zhiwei, Zhu Peiwei is responsible for the
+- Module 7: Data Gateway (AR502H-CN), under the responsibility of Cui Zhengyang, Gu Shuteng, Xu Zhan
+- Module 8: Embedded Base Software (YOCTO), under the responsibility of Mr. Wen Zhiwei and Mr. Zhu Peiwei.    
     
                      木兰宽松许可证, 第2版
 
