@@ -50,6 +50,16 @@ http://t.csdnimg.cn/Tyjwy
 
 ## 1.智能巡检小车的场景：需要切实可行的对比数据
 【调研的横向对比思路给的是 张若璐】（也有她来负责）
+[![节能减排大赛](https://img.shields.io/badge/节能减排大赛-仓库-blue)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/%E8%8A%82%E8%83%BD%E5%87%8F%E6%8E%92%E5%A4%A7%E8%B5%9B%EF%BC%88Nearlink%E5%B0%8F%E8%BD%A6%E8%AE%A1%E5%88%92%EF%BC%89)         [![物联网设计竞赛-meta_freescale](https://img.shields.io/badge/物联网设计竞赛-仓库-brightgreen)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E7%89%A9%E8%81%94%E7%BD%91%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B%EF%BC%88Huawei%E6%95%B0%E9%80%9A%EF%BC%89)
+
+
+
+[![lisence.md-meta_freescale](https://img.shields.io/badge/lisence.md-Markdown-violet
+)](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/LICENSE.md)
+[![Readme.md meta-imx](https://img.shields.io/badge/Readme.md-Markdown-8A2BE2
+)](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/README.md)
+
+![240522Coder_Club团队初步构成](Image/240522Coder_Club%E5%9B%A2%E9%98%9F%E5%88%9D%E6%AD%A5%E6%9E%84%E6%88%90.png)
 
 ## 2.相较于财务其实跟需要的是详尽的调研（可以看我发在仓库里的节能减排文件夹-可以看一下），是否可以真的节能减排[要靠题]
 ![image](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/0bc704bf-ab0b-47e8-a064-36c063fc72df)
