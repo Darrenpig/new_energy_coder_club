@@ -65,3 +65,4 @@ http://t.csdnimg.cn/Tyjwy
 ![image](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/0bc704bf-ab0b-47e8-a064-36c063fc72df)
 ## 5.19 @和尚 小车串口通讯故障，排查中
 ## 5.20 @和尚 小车串口通讯问题解决，正在调试方向控制和调速功能
+![输入图片说明](%E5%90%8D%E5%AD%97.png)
