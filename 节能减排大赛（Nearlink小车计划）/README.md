@@ -1,4 +1,14 @@
 ### 节能减排大赛
+[![节能减排大赛](https://img.shields.io/badge/节能减排大赛-仓库-blue)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/%E8%8A%82%E8%83%BD%E5%87%8F%E6%8E%92%E5%A4%A7%E8%B5%9B%EF%BC%88Nearlink%E5%B0%8F%E8%BD%A6%E8%AE%A1%E5%88%92%EF%BC%89)         [![物联网设计竞赛-meta_freescale](https://img.shields.io/badge/物联网设计竞赛-仓库-brightgreen)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E7%89%A9%E8%81%94%E7%BD%91%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B%EF%BC%88Huawei%E6%95%B0%E9%80%9A%EF%BC%89)
+
+
+
+[![lisence.md-meta_freescale](https://img.shields.io/badge/lisence.md-Markdown-violet
+)](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/LICENSE.md)
+[![Readme.md meta-imx](https://img.shields.io/badge/Readme.md-Markdown-8A2BE2
+)](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/README.md)
+
+![240522Coder_Club团队初步构成](Image/240522Coder_Club%E5%9B%A2%E9%98%9F%E5%88%9D%E6%AD%A5%E6%9E%84%E6%88%90.png)
 
 #### 项目介绍
 - **标题**：源头治理-智慧化工
