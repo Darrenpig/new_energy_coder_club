@@ -1,7 +1,7 @@
 # Nearlink EB25 SIG
 ---
 目前仓库的现状是：
-初步维护状态_
+寻找维护者状态_
 
 项目整体思路：
 - 1.造车
@@ -30,7 +30,7 @@
       <td ><img src="image/Nearlink.png" width=200/>
       <td ><img src="image/SegonUIScript%20%20aim.png" width=200/>
       <td ><img src="image/duibitu.png" width=200/>
-   
+
     </tr>
 </table>
 
