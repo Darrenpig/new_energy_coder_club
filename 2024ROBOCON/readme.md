@@ -10,6 +10,10 @@
 - 电控组  @杨鑫海 组长 + RM组员
 - 视觉组  @许子涵涵  @DarrenPig 
 - 机械组  @buquandesky 组长（负责RM相关）
+- -  @Justin Tianyang 
+- -  @Makarov 
+- -  @SaNgZi 
+- -  @薛陈豪 
 - 上位机组  @单广志  @DarrenPig 
 
 # 资料共享
