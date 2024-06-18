@@ -13,6 +13,8 @@
 Arduino 控制
 ![输入图片说明](../image/Arduino%20and%20PlatformlO.png)
 ## 参考资料
-- https://docs.espressif.com/projects/arduino-esp32/en/latest/getting_started.html
+- esp_32_环境部署指南 https://docs.espressif.com/projects/arduino-esp32/en/latest/getting_started.html
 
-- https://github.com/espressif/arduino-esp32?tab=readme-ov-file#supported-chips
+- esp_Github文档 https://github.com/espressif/arduino-esp32?tab=readme-ov-file#supported-chips
+
+- esp论坛支持 https://esp32.com/viewforum.php?f=12
