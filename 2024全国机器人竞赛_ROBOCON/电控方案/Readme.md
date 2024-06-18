@@ -1,5 +1,8 @@
 # 目前现阶段的方案有
 
+
+## @杨鑫海 与esp32交互环境安装指南 https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html
+
 ## 1. ROS开发板方案 X esp8266
 ![ROS开发板方案](../image/ROS%E5%BC%80%E5%8F%91%E6%9D%BFX8266.jpg)
 ## 2. esp32 X Pi5
