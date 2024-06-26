@@ -10,7 +10,6 @@
 [![Readme.md meta-imx](https://img.shields.io/badge/Readme.md-Markdown-8A2BE2
 )](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/README.md)
 
-![240522Coder_Club团队初步构成](Image/240522Coder_Club%E5%9B%A2%E9%98%9F%E5%88%9D%E6%AD%A5%E6%9E%84%E6%88%90.png)
 
 #### 项目介绍
 - **标题**：源头治理-智慧化工
