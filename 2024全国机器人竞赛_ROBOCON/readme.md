@@ -119,6 +119,5 @@ ROS-12v、esp32-7.3v
 ![输入图片说明](../Image/R2%201.png)
 ## 场地设计
 ![输入图片说明](../Image/%E5%9C%BA%E5%9C%B0%E8%AE%BE%E8%AE%A1.png)
-
-![输入图片说明](image/1336e4c055c90321cff842d5416707bc.png)
+g)
 
