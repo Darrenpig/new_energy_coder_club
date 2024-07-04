@@ -21,5 +21,5 @@
 )](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/LICENSE.md)
 [![Readme.md meta-imx](https://img.shields.io/badge/Readme.md-Markdown-8A2BE2
 )](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/README.md)
-
+![研究过程](../Image/1.1%E9%A1%B9%E7%9B%AE%E8%83%8C%E6%99%AF.png)
 
