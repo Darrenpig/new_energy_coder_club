@@ -27,5 +27,5 @@ Arduino 控制
 - esp_Github文档 https://github.com/espressif/arduino-esp32?tab=readme-ov-file#supported-chips
 
 - esp论坛支持 https://esp32.com/viewforum.php?f=12
-
+3D打印机步进电机组安装
 ![输入图片说明](../image/3D%E6%89%93%E5%8D%B0%E6%9C%BA%E6%AD%A5%E8%BF%9B%E7%94%B5%E6%9C%BA%E7%BB%84%E5%AE%89%E8%A3%85.JPG)
