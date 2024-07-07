@@ -59,4 +59,19 @@ ROBOCON 2024组委会将于7月8日进行开幕式彩排，请各校参赛队务
 【仿生足式比赛时间调整】由于场地原因，原定7月9日进行的仿生足式机器人越野赛调整到7月11日进行，竞速赛和障碍赛于9日和10日进行。
 - 开票信息汇总表[输入链接说明](http://【腾讯文档】开票信息汇总表
 https://docs.qq.com/sheet/DUWpKTVdWS0dWRlpS)
-- 参赛队编号及规范队名对照
+- 参赛队编号及规范队名对照[输入链接说明](http://【腾讯文档】参赛队编号及规范队名对照
+https://docs.qq.com/sheet/DREFZZXJTekR2cGph?tab=000001)
+- 2024ROBOCON赛事单项奖申评通知[输入链接说明](http://https://mp.weixin.qq.com/s/Kixa5WDLqUsIl2lo7Je8iQ)
+- RC2024工具备件互助[输入链接说明](http://【腾讯文档】RC2024工具备件互助
+https://docs.qq.com/sheet/DQnRpYWVrZUNUR3hP)
+- 颗粒归仓秧苗示意图
+- ![输入图片说明](2024%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B_ROBOCON/image/WechatIMG4.jpg)
+- RC2024场地道具示意图
+- ![输入图片说明](2024%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B_ROBOCON/image/WechatIMG10.jpg)
+- 颗粒归仓赛试运行场序表
+- ![输入图片说明](2024%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B_ROBOCON/image/WechatIMG24.jpg)
+- 比赛场地布局
+- ![输入图片说明](2024%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B_ROBOCON/image/WechatIMG31.jpg)
+- ![输入图片说明](2024%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B_ROBOCON/image/WechatIMG33.jpg)
+- 赛事安排表
+- ![输入图片说明](2024%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B_ROBOCON/image/WechatIMG34.jpg)
