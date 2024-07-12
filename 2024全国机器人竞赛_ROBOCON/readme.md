@@ -1,6 +1,7 @@
 # 欢迎来到 常工光电 Robocon 的 Gitee 仓库
 ---
 
+![旗手入场](image/%E5%B8%B8%E5%B7%9E%E5%B7%A5%E5%AD%A6%E9%99%A2.png)
 
 
 
@@ -12,6 +13,10 @@
 ### 7.4完成R1底盘的吕方组装
 ### 7.5早上8:00步进电机调试
 ### 7.6凌晨R2小车完成主要部分的完成，准备出发
+### 7.7早晨报道检录
+### 7.8完成两辆车的简单搭建
+### 7.9预选赛2场
+### 7.10最后两场预算赛
 ---
 
 [![节能减排大赛](https://img.shields.io/badge/节能减排大赛-仓库-blue)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/%E8%8A%82%E8%83%BD%E5%87%8F%E6%8E%92%E5%A4%A7%E8%B5%9B%EF%BC%88Nearlink%E5%B0%8F%E8%BD%A6%E8%AE%A1%E5%88%92%EF%BC%89)         [![物联网设计竞赛-meta_freescale](https://img.shields.io/badge/物联网设计竞赛-仓库-brightgreen)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E7%89%A9%E8%81%94%E7%BD%91%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B%EF%BC%88Huawei%E6%95%B0%E9%80%9A%EF%BC%89)
@@ -144,3 +149,9 @@ g)
 - 7.7  @许子涵涵 esp32USB结点绑定
 - 7.7  @周潮 搭建搬运铝材，设计R1发射器结构
 - 7.7  @许子涵涵 PY-install完成环境搭建
+
+---
+## 团队合影
+![校旗合影](image/%E6%A0%A1%E6%97%97%E5%90%88%E5%BD%B1.JPG)
+
+
