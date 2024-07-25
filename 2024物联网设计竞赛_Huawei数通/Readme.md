@@ -9,6 +9,10 @@
 [![Readme.md meta-imx](https://img.shields.io/badge/Readme.md-Markdown-8A2BE2
 )](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/README.md)
 
+#### 我们的项目PPT
+- https://low-power-inspection-veh-95gmidb.gamma.site/
+- ![输入图片说明](%E2%80%9C%E5%9F%BA%E4%BA%8EopenEulerd%E7%9A%84%E4%BD%8E%E5%8A%9F%E8%80%97%E5%B7%A1%E6%A3%80%E5%B0%8F%E8%BD%A6%E8%AE%BE%E8%AE%A1%E2%80%9DPPT%E5%B0%81%E9%9D%A2.png)
+
 
 #### 赛题链接
 - 在线链接：[https://iot.sjtu.edu.cn/show.aspx?info_lb=34&info_id=3962&flag=2](https://iot.sjtu.edu.cn/show.aspx?info_lb=34&info_id=3962&flag=2)
@@ -97,3 +101,4 @@ graph TB
 #### 6.8  @NANA 更新 readme和环境配置进度
 #### 6.9  @DarrenPig 更新整理Readme
 #### 6.14 @许子涵涵 提交作品创意表
+#### 7.25 已上交作品完整设计方案和实物演示视频
