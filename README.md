@@ -7,8 +7,8 @@
 [![Readme.md meta-imx](https://img.shields.io/badge/Readme.md-Markdown-8A2BE2
 )](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/README.md)
 
-![输入图片说明](Image/240801%E4%BB%93%E5%BA%93%E7%BB%84%E6%88%90.png)
 
+![输入图片说明](Image/240802Coder_Club%E5%9B%A2%E9%98%9F%E5%88%9D%E6%AD%A5%E6%9E%84%E6%88%90%20%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%20DarrenPig%20%E7%9A%84%E4%BB%93%E5%BA%93%EF%BC%81.png)
 
 
 <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-new_energy_coder_club-blue?logo=github" style="margin: 0 2px -4px 2px ">
