@@ -2,9 +2,6 @@
 ## 仓库复线：物联网大赛
 ## 动力学建模初步收工
 我们的小车大概长这样：
-![image](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/d83ede20-9fef-4100-9e7a-c19c13c8c2cf)
-![image](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/62f9c881-dd44-4818-a45c-eb3be9803b80)
-
 Q&A
 - 1.这个仓库怎么用？
 - - 通过更新Readme的方式实时跟进进度
@@ -59,7 +56,6 @@ http://t.csdnimg.cn/Tyjwy
 [![Readme.md meta-imx](https://img.shields.io/badge/Readme.md-Markdown-8A2BE2
 )](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/README.md)
 
-![240522Coder_Club团队初步构成](Image/240522Coder_Club%E5%9B%A2%E9%98%9F%E5%88%9D%E6%AD%A5%E6%9E%84%E6%88%90.png)
 
 ## 2.相较于财务其实跟需要的是详尽的调研（可以看我发在仓库里的节能减排文件夹-可以看一下），是否可以真的节能减排[要靠题]
 ![image](https://github.com/Darrenpig/new_energy_coder_club/assets/121377489/0bc704bf-ab0b-47e8-a064-36c063fc72df)
