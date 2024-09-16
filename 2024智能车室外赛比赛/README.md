@@ -29,6 +29,10 @@ https://www.czu.cn/2024/0910/c6a145099/page.htm
 ### ROS扩展板 https://www.yahboom.com/study/ROS-Driver-Board 提取码：o8jw
 ### MicroROS Robot官网资料：https://www.yahboom.com/study/MicroROS-ESP32 提取码：ypom
 ### MicroROS-Pi5官网资料：https://www.yahboom.com/study/MicroROS-Pi5 提取码：sfah
+### http://wiki.ros.org/
+### https://zhuanlan.zhihu.com/p/154515490?utm_medium=social&utm_oi=39962221215744
+### https://www.ruanyifeng.com/blog/2020/12/ssh-tutorial.html
+### https://liaoxuefeng.com/books/git/introduction/index.html
 
 ## 个人进度
 ##  @Pony17  9.16
