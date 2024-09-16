@@ -30,5 +30,16 @@ https://www.czu.cn/2024/0910/c6a145099/page.htm
 ### MicroROS Robot官网资料：https://www.yahboom.com/study/MicroROS-ESP32 提取码：ypom
 ### MicroROS-Pi5官网资料：https://www.yahboom.com/study/MicroROS-Pi5 提取码：sfah
 
+# 个人进度
+##  @Pony17  9.16
+#### 9.16 虚拟机连接 虚拟机环境安装完成 esp32拓展板出厂固件烧录成功 
+#### 9.16 esp32 虚拟机UDP，过程无响应，冒烟，更换一块，ROS拓展板 和 esp32拓展板 
+
+
+
+
+---
+
 # 维护记录
-#### 240916  @Pony17 更新readme
+#### 240916  @Pony17 更新readme、个人进度
+
