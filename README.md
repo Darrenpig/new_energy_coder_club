@@ -16,3 +16,8 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-new_energy_coder_club-blue?logo=github" style="margin: 0 2px -4px 2px ">
                         
 [badage教程链接](https://blog.csdn.net/m0_74037814/article/details/139511804)
+
+## NEC团队企业百度网盘资料共享：
+链接: https://pan.baidu.com/s/1W2RayBVYXKY17Z5m9e7jlA?pwd=veww
+提取码: veww
+复制这段内容后打开百度网盘手机App，操作更方便哦
