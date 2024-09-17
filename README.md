@@ -20,4 +20,3 @@
 ## NEC团队企业百度网盘资料共享：
 链接: https://pan.baidu.com/s/1W2RayBVYXKY17Z5m9e7jlA?pwd=veww
 提取码: veww
-复制这段内容后打开百度网盘手机App，操作更方便哦
