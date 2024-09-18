@@ -30,7 +30,7 @@
 ##### ROS扩展板 https://www.yahboom.com/study/ROS-Driver-Board 提取码：o8jw
 ##### MicroROS-Pi5官网资料：https://www.yahboom.com/study/MicroROS-Pi5 提取码：sfah
 ### 【2.要求22日之前看完】ROS官方文档 http://wiki.ros.org/
-##### https://zhuanlan.zhihu.com/p/154515490?utm_medium=social&utm_oi=39962221215744
+##### JupyterLab 教程 https://zhuanlan.zhihu.com/p/154515490?utm_medium=social&utm_oi=39962221215744
 ##### SSH 教程 https://www.ruanyifeng.com/blog/2020/12/ssh-tutorial.html
 ##### Git 教程 https://liaoxuefeng.com/books/git/introduction/index.html
 ##### 比赛规则网址：https://www.smartcar.zone/contents/1132/1109.html
