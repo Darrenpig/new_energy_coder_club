@@ -43,7 +43,7 @@ https://www.czu.cn/2024/0910/c6a145099/page.htm
 
 ## 个人进度
 ##  @单广志 
-#### 9.16 microROS代理连接成功， 
+#### 9.16 microROS代理连接成功
 
 
 
