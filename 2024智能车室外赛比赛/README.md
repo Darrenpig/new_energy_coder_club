@@ -1,6 +1,3 @@
-## 9 月 22 日晚正式开始
-2024第十九届智能车室外赛比赛相关资料查看： 大赛官方网站：www.smartcar.zone
-
 [![全国大学生智能车竞赛](https://img.shields.io/badge/2024全国大学生智能车竞赛-智能车室外赛比赛-green)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E6%99%BA%E8%83%BD%E8%BD%A6%E5%AE%A4%E5%A4%96%E8%B5%9B%E6%AF%94%E8%B5%9B)
 
 [![节能减排大赛](https://img.shields.io/badge/节能减排大赛-仓库-blue)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E8%8A%82%E8%83%BD%E5%87%8F%E6%8E%92%E5%A4%A7%E8%B5%9B_Nearlink%E5%B0%8F%E8%BD%A6)         [![物联网设计竞赛-meta_freescale](https://img.shields.io/badge/物联网设计竞赛-仓库-brightgreen)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E7%89%A9%E8%81%94%E7%BD%91%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B_Huawei%E6%95%B0%E9%80%9A)
@@ -11,9 +8,10 @@
 )](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/LICENSE.md)
 [![Readme.md meta-imx](https://img.shields.io/badge/Readme.md-Markdown-8A2BE2
 )](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/README.md)
+## NEC_Car小组 9 月 22 日 晚正式开始
+### 2024第十九届智能车室外赛比赛相关资料查看： 大赛官方网站：www.smartcar.zone
+# 第十九届全国大学生智能汽车竞赛 https://www.czu.cn/2024/0910/c6a145099/page.htm
 
-# 第十九届全国大学生智能汽车竞赛
-https://www.czu.cn/2024/0910/c6a145099/page.htm
 ## 我们是一只跨学院队伍，来自光电、汽车。
 ### 汽车院的天权 2 楼 C208 智能车实验室提供场地，以及基础 ROS 车，NEC提供开发板
 ## 团队组成：
@@ -36,14 +34,8 @@ https://www.czu.cn/2024/0910/c6a145099/page.htm
 ##### SSH 教程 https://www.ruanyifeng.com/blog/2020/12/ssh-tutorial.html
 ##### Git 教程 https://liaoxuefeng.com/books/git/introduction/index.html
 ##### 比赛规则网址：https://www.smartcar.zone/contents/1132/1109.html
-
-### 【3.开始开发需要看的主机资料】 链接：https://pan.baidu.com/s/1MWCZ9siXVzbo5FwMuML2dw?pwd=po56
-## 提取码：po56 i5-4200H工控机学习资料
-
-###【原主机所需的镜像】链接：https://pan.baidu.com/s/1sVVRGg8MxfxSahkiKd_rSw?pwd=4za5
-### 提取码：4za5 i5-4200H工控机镜像
-
-
+### 【3.开始开发需要看的主机资料】 i5-4200H工控机学习资料 链接：https://pan.baidu.com/s/1MWCZ9siXVzbo5FwMuML2dw?pwd=po56
+### 【原主机所需的镜像】i5-4200H工控机镜像 链接：https://pan.baidu.com/s/1sVVRGg8MxfxSahkiKd_rSw?pwd=4za5
 ##### altas200i dk A2工控机学习资料 链接：https://pan.baidu.com/s/12WCaEZfCkk4PjTPxQnY2ug?pwd=c49d
 ##### altas200i dk a2工控机镜像 链接：https://pan.baidu.com/s/1r_x2szKCRAl87x26pw_GPA?pwd=u2z6
 
