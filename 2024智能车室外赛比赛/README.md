@@ -35,6 +35,7 @@
 ##### Git 教程 https://liaoxuefeng.com/books/git/introduction/index.html
 ##### 比赛规则网址：https://www.smartcar.zone/contents/1132/1109.html
 ### 【3.开始开发需要看的主机资料】 i5-4200H工控机学习资料 链接：https://pan.baidu.com/s/1MWCZ9siXVzbo5FwMuML2dw?pwd=po56
+![输入图片说明](%E9%9C%80%E8%A6%81%E7%9C%8B%E7%9A%84%E6%95%99%E7%A8%8B.png)
 ### 【原主机所需的镜像】i5-4200H工控机镜像 链接：https://pan.baidu.com/s/1sVVRGg8MxfxSahkiKd_rSw?pwd=4za5
 ##### altas200i dk A2工控机学习资料 链接：https://pan.baidu.com/s/12WCaEZfCkk4PjTPxQnY2ug?pwd=c49d
 ##### altas200i dk a2工控机镜像 链接：https://pan.baidu.com/s/1r_x2szKCRAl87x26pw_GPA?pwd=u2z6
