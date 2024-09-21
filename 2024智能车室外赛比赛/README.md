@@ -19,26 +19,31 @@
  @Pony17  @单广志  @杨鑫海 
 ### 上位机 2 人
  @DarrenPig  @许子涵涵 
-# 指导老师：顾偲雯、王树磊
-！！！
+#### 指导老师：顾偲雯、王树磊
 # 请队员们完全仓库建仓和自主环境搭建的准备：
-## 参考资料：（请使用PC端打开，无线端无法打开下载）
+> （请使用PC端打开，无线端无法打开下载）
 ### 【1.首先通过1-4历程，到键盘控制】MicroROS Robot官网资料：https://www.yahboom.com/study/MicroROS-ESP32 提取码：ypom
-### MicroROS机器人控制板 https://www.yahboom.com/study/MicroROS-Board 提取码：dsaf
-### 树莓派5主板：https://www.yahboom.com/study/raspberry5 提取码：erwp
-##### 520编码器减速电机 https://www.yahboom.com/study/MD520 提取码：sdfa
-##### ROS扩展板 https://www.yahboom.com/study/ROS-Driver-Board 提取码：o8jw
-##### MicroROS-Pi5官网资料：https://www.yahboom.com/study/MicroROS-Pi5 提取码：sfah
+> MicroROS机器人控制板 https://www.yahboom.com/study/MicroROS-Board 提取码：dsaf
+> 树莓派5主板：https://www.yahboom.com/study/raspberry5 提取码：erwp
+> 520编码器减速电机 https://www.yahboom.com/study/MD520 提取码：sdfa
+> ROS扩展板 https://www.yahboom.com/study/ROS-Driver-Board 提取码：o8jw
+> MicroROS-Pi5官网资料：https://www.yahboom.com/study/MicroROS-Pi5 提取码：sfah
 ### 【2.要求22日之前看完】ROS官方文档 http://wiki.ros.org/
-##### JupyterLab 教程 https://zhuanlan.zhihu.com/p/154515490?utm_medium=social&utm_oi=39962221215744
-##### SSH 教程 https://www.ruanyifeng.com/blog/2020/12/ssh-tutorial.html
-##### Git 教程 https://liaoxuefeng.com/books/git/introduction/index.html
+> JupyterLab 教程 https://zhuanlan.zhihu.com/p/154515490?utm_medium=social&utm_oi=39962221215744
+> SSH 教程 https://www.ruanyifeng.com/blog/2020/12/ssh-tutorial.html
+> Git 教程 https://liaoxuefeng.com/books/git/introduction/index.html
 ##### 比赛规则网址：https://www.smartcar.zone/contents/1132/1109.html
 ### 【3.开始开发需要看的主机资料】 i5-4200H工控机学习资料 链接：https://pan.baidu.com/s/1MWCZ9siXVzbo5FwMuML2dw?pwd=po56
-![输入图片说明](%E9%9C%80%E8%A6%81%E7%9C%8B%E7%9A%84%E6%95%99%E7%A8%8B.png)
 ### 【原主机所需的镜像】i5-4200H工控机镜像 链接：https://pan.baidu.com/s/1sVVRGg8MxfxSahkiKd_rSw?pwd=4za5
-##### altas200i dk A2工控机学习资料 链接：https://pan.baidu.com/s/12WCaEZfCkk4PjTPxQnY2ug?pwd=c49d
-##### altas200i dk a2工控机镜像 链接：https://pan.baidu.com/s/1r_x2szKCRAl87x26pw_GPA?pwd=u2z6
+ altas200i dk A2工控机学习资料 链接：https://pan.baidu.com/s/12WCaEZfCkk4PjTPxQnY2ug?pwd=c49d
+ altas200i dk a2工控机镜像 链接：https://pan.baidu.com/s/1r_x2szKCRAl87x26pw_GPA?pwd=u2z6
+| 参考资料  | MicroROS Robot官网资料  |  https://www.yahboom.com/study/MicroROS-ESP32 提取码：ypom | 1.首先通过1-4历程，到键盘控制  |
+|---|---|---|---|
+|  1 | ROS扩展板  |  https://www.yahboom.com/study/ROS-Driver-Board 提取码：o8jw |   |
+|  2 | MicroROS-Pi5官网资料  |  https://www.yahboom.com/study/MicroROS-Pi5 提取码：sfah |   |
+|  3 | i5-4200H工控机学习资料  |  https://pan.baidu.com/s/1MWCZ9siXVzbo5FwMuML2dw?pwd=po56 |   |
+|  4 | i5-4200H工控机镜像  | https://pan.baidu.com/s/1sVVRGg8MxfxSahkiKd_rSw?pwd=4za5  |   |
+|  5 | 树莓派5主板  | https://www.yahboom.com/study/raspberry5 提取码：erwp |   |
 
 
 ## 个人进度
