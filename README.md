@@ -10,7 +10,7 @@
 )](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/README.md)
 
 
-![输入图片说明](Image/240802Coder_Club%E5%9B%A2%E9%98%9F%E5%88%9D%E6%AD%A5%E6%9E%84%E6%88%90%20%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%20DarrenPig%20%E7%9A%84%E4%BB%93%E5%BA%93%EF%BC%81.png)
+![团队](Image/240802Coder_Club%E5%9B%A2%E9%98%9F%E5%88%9D%E6%AD%A5%E6%9E%84%E6%88%90%20%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%20DarrenPig%20%E7%9A%84%E4%BB%93%E5%BA%93%EF%BC%81.png)
 
 
 <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-new_energy_coder_club-blue?logo=github" style="margin: 0 2px -4px 2px ">
@@ -21,6 +21,5 @@
 链接: https://pan.baidu.com/s/1W2RayBVYXKY17Z5m9e7jlA?pwd=veww
 提取码: veww
 
-<img alt="Static Badge" src="https://embed.figma.com/design/FmNvTJubMVs66FVBWoehhL/Untitled?node-id=0-1&embed-host=share-blue?logo=github" style="margin: 0 2px -4px 2px ">
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/FmNvTJubMVs66FVBWoehhL/Untitled?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+<iframe src="https://gamma.app/embed/cl7qnbjvzcqzgtw" style="width: 700px; max-width: 100%; height: 450px" allow="fullscreen" title="在实现中国梦的生动实践中放飞青春梦想"></iframe>
