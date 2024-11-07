@@ -76,27 +76,6 @@
 </details>
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project 关于项目
-
-![product-screenshot](Image/240802Coder_Club%E5%9B%A2%E9%98%9F%E5%88%9D%E6%AD%A5%E6%9E%84%E6%88%90%20%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%20DarrenPig%20%E7%9A%84%E4%BB%93%E5%BA%93%EF%BC%81.png)
-
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
 https://gitee.com/darrenpig/new_energy_coder_club
 
 <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-new_energy_coder_club-blue?logo=github" style="margin: 0 2px -4px 2px ">
@@ -110,10 +89,6 @@ https://gitee.com/darrenpig/new_energy_coder_club
 提取码: veww
 
 <iframe src="https://gamma.app/embed/cl7qnbjvzcqzgtw" style="width: 700px; max-width: 100%; height: 450px" allow="fullscreen" title="在实现中国梦的生动实践中放飞青春梦想"></iframe>
-
-
-
-
 
 
 ---
