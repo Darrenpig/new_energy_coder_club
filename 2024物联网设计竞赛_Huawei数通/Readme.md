@@ -40,6 +40,21 @@
 - **朱佩韦**：5月26日，上传了所有培训视频到qq群，并分享了U盘开局文件的制作方法。
 - **许子涵**：5月26日，更新了项目readme文件，并了解项目进程。
 
+### Built With 技术层
+
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 #### AR502H-CN路由器概述（基于提供的Mermaid图表）
 ```mermaid
 graph TB
@@ -86,7 +101,6 @@ graph TB
 
 ### 许子涵
 - 6.8 更新两个仓库的readme进行相应的整理
-
 
 ### 崔正阳
 - 6.8 @NANA 首次登陆配置；
