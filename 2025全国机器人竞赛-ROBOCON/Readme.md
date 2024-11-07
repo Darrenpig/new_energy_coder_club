@@ -5,9 +5,7 @@
 *** that would make this better, please fork the repo and create a pull request
 *** or simply open an issue with the tag "enhancement".
 *** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
-***![团队240702fame](Image/240802Coder_Club%E5%9B%A2%E9%98%9F%E5%88%9D%E6%AD%A5%E6%9E%84%E6%88%90%20%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%20DarrenPig%20%E7%9A%84%E4%BB%93%E5%BA%93%EF%BC%81.png)
--->
+*** Thanks again! Now go create something AMAZING! :dancer: 
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -22,7 +20,7 @@
 <br />
 <div align="center">
   <a href="https://gitee.com/darrenpig/new_energy_coder_club">
-    <img src="Image/Logo.png" alt="Logo" width="80" height="80">
+    <img src="image/Logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center"># 2025赛季全国机器人竞赛-ROBOCON </h3>
