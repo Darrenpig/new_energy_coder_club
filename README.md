@@ -75,6 +75,10 @@
   </ol>
 </details>
 
+<!-- ABOUT THE PROJECT -->
+## About The Project 关于项目
+
+![product-screenshot](Image/240802Coder_Club%E5%9B%A2%E9%98%9F%E5%88%9D%E6%AD%A5%E6%9E%84%E6%88%90%20%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%20DarrenPig%20%E7%9A%84%E4%BB%93%E5%BA%93%EF%BC%81.png)
 
 https://gitee.com/darrenpig/new_energy_coder_club
 
