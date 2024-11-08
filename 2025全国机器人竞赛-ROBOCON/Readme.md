@@ -61,4 +61,4 @@
 ---
 ## 维护日志
 #### 241108 #IB2U72  @卢王淳  @7.  @李晨_innovation  @殷统创  @DarrenPig 讨论
-#### 241108 投票初期团队 @DarrenPig 
+#### 241108 投票初期团队 @DarrenPig  @Pony17 
