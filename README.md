@@ -38,3 +38,91 @@
    We are a group of active material stations, undergraduate competition scientific research organizations related to new energy, robotics, and topic discussions in China.我们是一只活跃在中国的新能源、机器人、话题相关的资料小站和本科生的比赛、科研组织，希望能给您的校园生活，以可以参考的实用价值 ！
     <br />
     <a href="https://gitee.com/darrenpig/new_energy_coder_club"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://dreary-lion-35y8cap.gamma.site/">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+  </p>
+</div>
+
+<!-- Follow is usage -->
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project关于项目">About The Project关于项目</a>
+      <ul>
+        <li><a href="#built-with技术层">Built With技术层</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+<!-- ABOUT THE PROJECT -->
+## About The Project 关于项目
+
+![product-screenshot](Image/240802Coder_Club%E5%9B%A2%E9%98%9F%E5%88%9D%E6%AD%A5%E6%9E%84%E6%88%90%20%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%20DarrenPig%20%E7%9A%84%E4%BB%93%E5%BA%93%EF%BC%81.png)
+
+https://gitee.com/darrenpig/new_energy_coder_club
+
+<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-new_energy_coder_club-blue?logo=github" style="margin: 0 2px -4px 2px ">
+                        
+[badage教程链接](https://blog.csdn.net/m0_74037814/article/details/139511804)
+
+---
+
+## NEC团队企业百度网盘资料共享：
+链接: https://pan.baidu.com/s/1W2RayBVYXKY17Z5m9e7jlA?pwd=veww
+提取码: veww
+
+<iframe src="https://gamma.app/embed/cl7qnbjvzcqzgtw" style="width: 700px; max-width: 100%; height: 450px" allow="fullscreen" title="在实现中国梦的生动实践中放飞青春梦想"></iframe>
+
+
+---
+
+
+
+<!-- CONTACT -->
+## Contact
+
+DarrenPig - [https://xiaohongshu.com/darrenpig](https://www.xiaohongshu.com/user/profile/62f2899b000000001f0074f1)- darrenpig@foxmail.com
+
+Project Link: [https://github.com/Darrenpig/new_energy_coder_club](https://github.com/Darrenpig/new_energy_coder_club)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+* [Malven's Grid Cheatsheet](https://grid.malven.co/)
+* [Img Shields](https://shields.io)
+* [GitHub Pages](https://pages.github.com)
+* [Font Awesome](https://fontawesome.com)
+* [React Icons](https://react-icons.github.io/react-icons/search)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
