@@ -24,7 +24,6 @@
   <a href="https://gitee.com/darrenpig/new_energy_coder_club">
     <img src="Image/Logo.png" alt="Logo" width="80" height="80">
   </a>
-
   <h3 align="center">new_energy_coder_club</h3>
 
 [![2025NEC_ROBOCON](https://img.shields.io/badge/2025NEC_全国机器人大赛ROBOCON-仓库-blue)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2025%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B-ROBOCON)  
@@ -91,7 +90,7 @@ https://gitee.com/darrenpig/new_energy_coder_club
 ---
 
 <!-- CONTACT -->
-## Contact
+## Contact 联系我们：直接发邮件最快，issue可以提建议和托管、项目合作需求，目前小组在 Gitee 和 WeChat 交流为主💬
 
 DarrenPig - [https://xiaohongshu.com/darrenpig](https://www.xiaohongshu.com/user/profile/62f2899b000000001f0074f1)- darrenpig@foxmail.com
 
@@ -101,16 +100,10 @@ Project Link: [https://github.com/Darrenpig/new_energy_coder_club](https://githu
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
+## Acknowledgments 致谢 📂
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!感谢以下开源组件、资料、资源库的帮助
+display: flex;
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
