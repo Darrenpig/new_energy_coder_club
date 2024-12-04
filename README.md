@@ -40,11 +40,11 @@
     <a href="https://gitee.com/darrenpig/new_energy_coder_club"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://dreary-lion-35y8cap.gamma.site/">View Demo</a>
+    <a href="https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2025%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B-ROBOCON">View NEC_RC 2025 赛季</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://pan.baidu.com/s/1zgAP8AmdhWhqjbqm_c0mog?pwd=v72M">82套2024FRC百度网盘链接 </a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://pan.baidu.com/s/1W2RayBVYXKY17Z5m9e7jlA?pwd=veww">NEC团队企业百度网盘资料</a>
   </p>
 </div>
 
@@ -87,17 +87,6 @@ https://gitee.com/darrenpig/new_energy_coder_club
 [badage教程链接](https://blog.csdn.net/m0_74037814/article/details/139511804)
 
 ---
-
-## NEC团队企业百度网盘资料共享：
-链接: https://pan.baidu.com/s/1W2RayBVYXKY17Z5m9e7jlA?pwd=veww
-提取码: veww
-
-<iframe src="https://gamma.app/embed/cl7qnbjvzcqzgtw" style="width: 700px; max-width: 100%; height: 450px" allow="fullscreen" title="在实现中国梦的生动实践中放飞青春梦想"></iframe>
-
-
----
-
-
 
 <!-- CONTACT -->
 ## Contact
