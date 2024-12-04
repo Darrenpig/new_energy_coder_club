@@ -103,10 +103,9 @@ Project Link: [https://github.com/Darrenpig/new_energy_coder_club](https://githu
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments 致谢 📂
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!感谢以下开源组件、资料、资源库的帮助
-display: flex;
+
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
