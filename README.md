@@ -93,17 +93,16 @@ Use this space to list resources you find helpful and would like to give credit 
 * [远景资源FRC图纸](http://pan.baidu.com/s/1zgAP8AmdhWhqjbqm_c0mog?pwd=v72M)
 * [机械智库SW标准库](https://shop128404759.taobao.com/)
 * [远景资源密码： www.yuanjingziyuan.com  ](https://yuanjingziyuan.com/)
-# 感谢以下赞助伙伴，以及全体开发者们
-# 贡献名单（捐助者）
+## 感谢以下赞助伙伴，以及全体开发者们
 
-# 【经费直供：电控】2024 节能减排团队🌱
-## @DarrenPig 3000元
-## @灼华 1500元
+## 【经费直供：电控】2024 节能减排团队🌱
+### @DarrenPig 3000元
+### @灼华 1500元
 ### @张奕泽 1000元
 ### @张若璐 800元
 ### @周潮 800元
 
-# 【经费直供：机械】 2024RC 机械团队⚙️（2024RM 全体）
+## 【经费直供：机械】 2024RC 机械团队⚙️（2024RM 全体）
 #### @Justin Tianyang 200 元
 #### @小谢 200 元
 #### @贺hh-h 200 元
@@ -112,6 +111,9 @@ Use this space to list resources you find helpful and would like to give credit 
 #### @Makarov 200 元  
 #### @LemmonDream 200 元
 ---
+<div align="center">  </p>
+
+
 ## 感谢：萝马车圈的纪念品
 ## 感谢：艾迈斯科技 600 元 连接器
 ## 感谢：深圳米尔电子 3200元 工业主板
@@ -120,5 +122,5 @@ Use this space to list resources you find helpful and would like to give credit 
 ## 感谢：NXP 社区 2 套 开发板
 ## 感谢：华为云社区 4000元 的服务器代金卷
 ---
-#感谢以下伙伴与开发者，是你们的贡献让项目质感更好：
-@SaNgZi   @朱建超  @许子涵涵  @殷统创  @郝磊  @黄子澄 
+# 感谢以下伙伴与开发者，是你们的贡献让项目质感更好：
+### @SaNgZi   @朱建超  @许子涵涵  @殷统创  @郝磊  @黄子澄 
