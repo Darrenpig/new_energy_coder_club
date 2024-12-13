@@ -28,7 +28,7 @@
 [![Readme.md meta-imx](https://img.shields.io/badge/Readme.md-Markdown-8A2BE2
 )](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/README.md)
 
-  <p align="left">
+  <p align="center">
    We are a group of active material stations, undergraduate competition scientific research organizations related to new energy, robotics, and topic discussions in China.我们是一只活跃在中国的新能源、机器人、话题相关的资料小站和本科生的比赛、科研组织，希望能给您的校园生活，以可以参考的实用价值 ！
     <br />
     <a href="https://gitee.com/darrenpig/new_energy_coder_club"><strong>Explore the docs »</strong></a>
@@ -54,8 +54,8 @@
 #### **项管（卢王淳）**：财务、宣传（殷子豪）、组会主持（李一楠）
 
 
-##项目成员
 
+ ## 项目成员
 |序号 |赛季 |班级 |职位 | 名称  | 
 |---|---|---|---|---|
 | 1 | 24  | 22 能源二  | 项目管理        | 朱佩韦  |
@@ -88,12 +88,13 @@
 ### 机械组：组长周鹏程 时间241120
 ---
 ## 项目进程
-
+<h1 align="center">
 -241120 完成初期团队投票，创建群聊，进行了第一次线下成员会议
 -241213 团队不断扩大，逐步进行底盘结构、战队经费、人员安排、采购环节等一系列问题的讨论
 
 
 ## 维护信息
+<h1 align="center">
 #### 维护日志：241108 #IB2U72  @卢王淳  @7.  @李晨_innovation  @殷统创  @DarrenPig 讨论
 #### 维护日志：241108 投票初期团队 @DarrenPig  @卢王淳  @殷子豪  @Pony17 
 #### 维护日志：241120 第一次线下会议 @DarrenPig @7. @Pony17 @卢王淳 @殷子豪 @Roc大头怪  @吴洛斌 ...
