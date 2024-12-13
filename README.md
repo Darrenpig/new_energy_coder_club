@@ -78,8 +78,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project 关于项目
+![输入图片说明](Image/NEC25RC%20start-up%20team.JPG)
+<!--![product-screenshot](Image/240802Coder_Club%E5%9B%A2%E9%98%9F%E5%88%9D%E6%AD%A5%E6%9E%84%E6%88%90%20%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%20DarrenPig%20%E7%9A%84%E4%BB%93%E5%BA%93%EF%BC%81.png)
+-->
 
-![product-screenshot](Image/240802Coder_Club%E5%9B%A2%E9%98%9F%E5%88%9D%E6%AD%A5%E6%9E%84%E6%88%90%20%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%20DarrenPig%20%E7%9A%84%E4%BB%93%E5%BA%93%EF%BC%81.png)
 
 https://gitee.com/darrenpig/new_energy_coder_club
 
@@ -111,4 +113,3 @@ Use this space to list resources you find helpful and would like to give credit 
 * [远景资源FRC图纸](http://pan.baidu.com/s/1zgAP8AmdhWhqjbqm_c0mog?pwd=v72M)
 * [机械智库SW标准库](https://shop128404759.taobao.com/)
 * [远景资源密码： www.yuanjingziyuan.com  ](https://yuanjingziyuan.com/)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
