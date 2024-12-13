@@ -51,13 +51,28 @@
 
 <!-- Follow is usage -->
 <!-- TABLE OF CONTENTS -->
+
+
+## 目录
+
+- [About The Project 关于项目](#About The Project 关于项目)
+- [项目里程碑](#项目里程碑)
+- [贡献指南](#贡献指南)
+- [代码和文档规范](#代码和文档规范)
+- [资源链接](#资源链接)
+- [常见问题解答](#常见问题解答)
+- [版权和许可证信息](#版权和许可证信息)
+
+
+
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project关于项目">About The Project关于项目</a>
+      <a href="#about-the-project关于项目">About The Project 关于项目</a>
       <ul>
-        <li><a href="#built-with技术层">Built With技术层</a></li>
+        <li><a href="#项目简介">Project Profile 项目简介</a></li>
       </ul>
     </li>
     <li>
@@ -78,7 +93,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project 关于项目
-![输入图片说明](Image/NEC25RC%20start-up%20team.JPG)
+
+### Project Profile 项目简介
+#### 我们是一个开源小仓库，目前主要工作聚焦在 全国大学生机器人大赛 2025 赛季的备赛中，有很多优秀的成员加入了我们，我们也在积极的参与开源社区 openEuler 和 Rt-theard 的基础设施和嵌入式项目的落地上，有 20 多位入门全栈机器人硬件与 BSP 底软的开发者小白。不断的学习，不断的走好脚下的路。
+
+![2025RCstartUp](Image/NEC25RC%20start-up%20team.JPG)
 <!--![product-screenshot](Image/240802Coder_Club%E5%9B%A2%E9%98%9F%E5%88%9D%E6%AD%A5%E6%9E%84%E6%88%90%20%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%20DarrenPig%20%E7%9A%84%E4%BB%93%E5%BA%93%EF%BC%81.png)
 -->
 
@@ -92,7 +111,9 @@ https://gitee.com/darrenpig/new_energy_coder_club
 ---
 
 <!-- CONTACT -->
-## Contact 联系我们：直接发邮件最快，issue可以提建议和托管、项目合作需求，目前小组在 Gitee 和 WeChat 交流为主💬
+## Contact 联系我们
+
+### 直接发邮件最快，issue可以提建议和托管、项目合作需求，目前小组在 Gitee 和 WeChat 交流为主💬
 
 DarrenPig - [https://xiaohongshu.com/darrenpig](https://www.xiaohongshu.com/user/profile/62f2899b000000001f0074f1)- darrenpig@foxmail.com
 
