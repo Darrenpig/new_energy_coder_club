@@ -14,8 +14,7 @@
 #### @贺hh-h 200 元
 #### @龙城大爹 200 元
 #### @薛陈豪  200 元    
-#### @Makarov 200 元
-#### @SaNgZi  200 元  
+#### @Makarov 200 元  
 #### @LemmonDream 200 元
 ---
 
@@ -23,11 +22,42 @@
 ## 感谢：深圳米尔电子 3200元 工业主板
 ## 感谢：易百纳社区  8 套 开发板
 ## 感谢：Rt-theard社区 3 套 开发板
+---
+#感谢以下伙伴与开发者，是你们的贡献让项目质感更好：
+@SaNgZi   @朱建超  @许子涵涵  @殷统创  @郝磊  @黄子澄 
 
+## 这是我们全体管理员的联系方式：
+管理员 (10) 
 
+### DarrenPig   仓库拥有者 
+darrenpig (22230635@czu.cn)
 
-
-
+### 许子涵涵  
+xu-zihanhan (14446840+xu-zihanhan@user.noreply.gitee.com)
+ 
+### NANA  
+ttkytu (14450677+ttkytu@user.noreply.gitee.com)
+ 
+### shan guangzhi 单广志  
+shan-guangzhi (2107997753@qq.com)
+ 
+### 杨鑫海  
+aaaxiyan (14565916+aaaxiyan@user.noreply.gitee.com)
+ 
+### 殷统创-yin-tongchuang	
+yin-tongchuang (2921064010@qq.com)
+ 
+### Pony17-pony17	
+pony17 (14913760+pony17@user.noreply.gitee.com)
+ 
+### 卢王淳-lu-wangchun	
+lu-wangchun (1824531269@qq.com)
+ 
+### 7.-Lnn-7	
+Lnn-7 (15125035+lnn-7@user.noreply.gitee.com)
+ 
+## 黄子澄-huang-zicheng111	
+huang-zicheng111 (2948382212@qq.com)
 
 ---
 
