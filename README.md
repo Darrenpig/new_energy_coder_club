@@ -53,44 +53,6 @@
 <!-- TABLE OF CONTENTS -->
 
 
-## 目录
-
-- [关于项目](#About_The_Project_关于项目)
-- [项目里程碑](#Project_Profile_项目简介)
-- [贡献指南](#贡献指南)
-- [代码和文档规范](#代码和文档规范)
-- [资源链接](#资源链接)
-- [常见问题解答](#常见问题解答)
-- [版权和许可证信息](#版权和许可证信息)
-
-
-
-
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project关于项目">About The Project 关于项目</a>
-      <ul>
-        <li><a href="#项目简介">Project Profile 项目简介</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project 关于项目
 
@@ -127,10 +89,35 @@ Project Link: [https://github.com/Darrenpig/new_energy_coder_club](https://githu
 ## Acknowledgments 致谢 📂
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!感谢以下开源组件、资料、资源库的帮助
 
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 * [远景资源FRC图纸](http://pan.baidu.com/s/1zgAP8AmdhWhqjbqm_c0mog?pwd=v72M)
 * [机械智库SW标准库](https://shop128404759.taobao.com/)
 * [远景资源密码： www.yuanjingziyuan.com  ](https://yuanjingziyuan.com/)
+# 感谢以下赞助伙伴，以及全体开发者们
+# 贡献名单（捐助者）
+
+# 【经费直供：电控】2024 节能减排团队🌱
+## @DarrenPig 3000元
+## @灼华 1500元
+### @张奕泽 1000元
+### @张若璐 800元
+### @周潮 800元
+
+# 【经费直供：机械】 2024RC 机械团队⚙️（2024RM 全体）
+#### @Justin Tianyang 200 元
+#### @小谢 200 元
+#### @贺hh-h 200 元
+#### @龙城大爹 200 元
+#### @薛陈豪  200 元    
+#### @Makarov 200 元  
+#### @LemmonDream 200 元
+---
+
+## 感谢：艾麦斯科技 600 元 连接器
+## 感谢：深圳米尔电子 3200元 工业主板
+## 感谢：易百纳社区  8 套 开发板
+## 感谢：Rt-theard社区 3 套 开发板
+## 感谢：NXP 社区 2 套 开发板
+---
+#感谢以下伙伴与开发者，是你们的贡献让项目质感更好：
+@SaNgZi   @朱建超  @许子涵涵  @殷统创  @郝磊  @黄子澄 
