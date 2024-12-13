@@ -112,12 +112,13 @@ Use this space to list resources you find helpful and would like to give credit 
 #### @Makarov 200 元  
 #### @LemmonDream 200 元
 ---
-
-## 感谢：艾麦斯科技 600 元 连接器
+## 感谢：萝马车圈的纪念品
+## 感谢：艾迈斯科技 600 元 连接器
 ## 感谢：深圳米尔电子 3200元 工业主板
 ## 感谢：易百纳社区  8 套 开发板
 ## 感谢：Rt-theard社区 3 套 开发板
 ## 感谢：NXP 社区 2 套 开发板
+## 感谢：华为云社区 4000元 的服务器代金卷
 ---
 #感谢以下伙伴与开发者，是你们的贡献让项目质感更好：
 @SaNgZi   @朱建超  @许子涵涵  @殷统创  @郝磊  @黄子澄 
