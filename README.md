@@ -55,8 +55,8 @@
 
 ## 目录
 
-- [About The Project 关于项目](#About The Project 关于项目)
-- [项目里程碑](#项目里程碑)
+- [关于项目](#About_The_Project_关于项目)
+- [项目里程碑](#Project_Profile_项目简介)
 - [贡献指南](#贡献指南)
 - [代码和文档规范](#代码和文档规范)
 - [资源链接](#资源链接)
@@ -97,7 +97,7 @@
 ### Project Profile 项目简介
 #### 我们是一个开源小仓库，目前主要工作聚焦在 全国大学生机器人大赛 2025 赛季的备赛中，有很多优秀的成员加入了我们，我们也在积极的参与开源社区 openEuler 和 Rt-theard 的基础设施和嵌入式项目的落地上，有 20 多位入门全栈机器人硬件与 BSP 底软的开发者小白。不断的学习，不断的走好脚下的路。
 
-![2025RCstartUp](Image/NEC25RC%20start-up%20team.JPG)
+![2025RCstartUp](Image/NEC25RC%20start-up%20team.JPG)2024.11.22NEC_25RC 筹备小组的第一次 MeetUp
 <!--![product-screenshot](Image/240802Coder_Club%E5%9B%A2%E9%98%9F%E5%88%9D%E6%AD%A5%E6%9E%84%E6%88%90%20%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%20DarrenPig%20%E7%9A%84%E4%BB%93%E5%BA%93%EF%BC%81.png)
 -->
 
