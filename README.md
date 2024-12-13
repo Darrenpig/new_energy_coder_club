@@ -94,7 +94,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [机械智库SW标准库](https://shop128404759.taobao.com/)
 * [远景资源密码： www.yuanjingziyuan.com  ](https://yuanjingziyuan.com/)
 ## 感谢以下赞助伙伴，以及全体开发者们
-
+![Vi2024](Image/Warehouse%20Member%20Advocacy%20Vi2024.png)
 ## 【经费直供：电控】2024 节能减排团队🌱
 ### @DarrenPig 3000元
 ### @灼华 1500元
@@ -110,9 +110,12 @@ Use this space to list resources you find helpful and would like to give credit 
 #### @薛陈豪  200 元    
 #### @Makarov 200 元  
 #### @LemmonDream 200 元
+
+
+
 ---
 <div align="center">  </p>
-![输入图片说明](Image/Warehouse%20Member%20Advocacy%20Vi2024.png)
+
 
 ## 感谢：萝马车圈的纪念品
 ## 感谢：艾迈斯科技 600 元 连接器
