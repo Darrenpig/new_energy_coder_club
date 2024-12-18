@@ -120,8 +120,8 @@ Use this space to list resources you find helpful and would like to give credit 
 ## 感谢：萝马车圈的纪念品
 ## 感谢：艾迈斯科技 600 元 连接器
 ## 感谢：深圳米尔电子 3200元 工业主板
-## 感谢：易百纳社区  8 套 开发板
-## 感谢：Rt-theard社区 3 套 开发板
+## 感谢：openEuler 社区  8 套 开发板
+## 感谢：Rt-theard 社区 3 套 开发板
 ## 感谢：NXP 社区 2 套 开发板
 ## 感谢：华为云社区 4000元 的服务器代金卷
 ---
