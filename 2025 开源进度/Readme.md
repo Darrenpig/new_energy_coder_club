@@ -38,13 +38,18 @@ RT-Thread负责实时控制，如电机驱动和传感器数据采集。
 本文基于国产Linux发行版[openEuler Embedded](http://openeuler.org/)和RTOS物联网系统RT-Thread进行设计。
 
 ### 树莓派5
+
+树莓派镜像构建指导：https://pages.openeuler.openatom.cn/embedded/docs/build/html/openEuler-22.03-LTS-SP2/bsp/arm64/raspberrypi4/build.html
+
 使用主控开发板[树莓派5](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)作为上位机。
+raspberrypi SIG 仓库：
+[使用指南](https://gitee.com/openeuler/raspberrypi/blob/master/documents/%E6%A0%91%E8%8E%93%E6%B4%BE%E4%BD%BF%E7%94%A8.md#gpio
 
 SBC(原 树莓派SIG)会议地址+Slack微型论坛
 https://etherpad.openeuler.org/p/sig-SBC-meetings
 
 https://app.slack.com/client/T0124132C20/C011R3Z6UPQ
-![输入图片说明](../Image/Slack.png)
+![论坛截图](../Image/Slack.png)
 ### ESP32-S3
 底层控制电机驱动板[ESP32-S3](https://www.espressif.com/en/products/socs/esp32-s3)。
 
@@ -59,3 +64,10 @@ https://app.slack.com/client/T0124132C20/C011R3Z6UPQ
 
 ### POE高压传输
 使用[POE高压传输](https://www.h3c.com/solution/technical/poe/)的方式进行高效控制与透传。
+
+
+
+## 参考文献：
+- openEuler Embedded在线文档【Sphinx构建】：https://pages.openeuler.openatom.cn/embedded/docs/build/html/openEuler-22.03-LTS-SP2/index.html
+- 基于openEuler Embedded树莓派使用：https://pages.openeuler.openatom.cn/embedded/docs/build/html/openEuler-22.03-LTS-SP2/bsp/arm64/raspberrypi4/build.html#openeuler-embedded
+![Pi4B 文档](../%E6%A0%91%E8%8E%93%E6%B4%BE%20Embedded%20%E6%96%87%E6%A1%A3.png)
