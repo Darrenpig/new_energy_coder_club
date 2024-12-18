@@ -40,6 +40,11 @@ RT-Thread负责实时控制，如电机驱动和传感器数据采集。
 ### 树莓派5
 使用主控开发板[树莓派5](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)作为上位机。
 
+SBC(原 树莓派SIG)会议地址+Slack微型论坛
+https://etherpad.openeuler.org/p/sig-SBC-meetings
+
+https://app.slack.com/client/T0124132C20/C011R3Z6UPQ
+![输入图片说明](../Image/Slack.png)
 ### ESP32-S3
 底层控制电机驱动板[ESP32-S3](https://www.espressif.com/en/products/socs/esp32-s3)。
 
