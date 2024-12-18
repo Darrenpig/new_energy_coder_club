@@ -54,7 +54,7 @@ RT-Thread负责实时控制，如电机驱动和传感器数据采集。
 ### 树莓派5
 
 树莓派镜像构建指导：https://pages.openeuler.openatom.cn/embedded/docs/build/html/openEuler-22.03-LTS-SP2/bsp/arm64/raspberrypi4/build.html
-
+重新编译内核：https://gitee.com/openeuler/raspberrypi-kernel/tree/OLK-6.6/
 使用主控开发板[树莓派5](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)作为上位机。
 raspberrypi SIG 仓库：
 [使用指南](https://gitee.com/openeuler/raspberrypi/blob/master/documents/%E6%A0%91%E8%8E%93%E6%B4%BE%E4%BD%BF%E7%94%A8.md#gpio
