@@ -63,7 +63,6 @@ SBC(原 树莓派SIG)会议地址+Slack微型论坛
 https://etherpad.openeuler.org/p/sig-SBC-meetings
 
 https://app.slack.com/client/T0124132C20/C011R3Z6UPQ
-![论坛截图](../Image/Slack.png)
 ### ESP32-S3
 底层控制电机驱动板[ESP32-S3](https://www.espressif.com/en/products/socs/esp32-s3)。
 
@@ -85,5 +84,4 @@ https://app.slack.com/client/T0124132C20/C011R3Z6UPQ
 - 亚博智能开源手柄🎮资料https://www.yahboom.com/study/USB-PS2 提取码：qscm
 - openEuler Embedded在线文档【Sphinx构建】：https://pages.openeuler.openatom.cn/embedded/docs/build/html/openEuler-22.03-LTS-SP2/index.html
 - 基于openEuler Embedded树莓派使用：https://pages.openeuler.openatom.cn/embedded/docs/build/html/openEuler-22.03-LTS-SP2/bsp/arm64/raspberrypi4/build.html#openeuler-embedded
-![Pi4B 文档](../%E6%A0%91%E8%8E%93%E6%B4%BE%20Embedded%20%E6%96%87%E6%A1%A3.png)
 https://gitee.com/darrenpig/new_energy_coder_club/blob/master/2025%20Hi-Car_Pi%205%20%E7%89%88%E6%9C%AC%20%E5%BC%80%E6%BA%90%E8%BF%9B%E5%BA%A6.md
