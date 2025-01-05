@@ -82,6 +82,7 @@ https://app.slack.com/client/T0124132C20/C011R3Z6UPQ
 
 
 ## 参考文献：
+- 亚博智能开源手柄🎮资料https://www.yahboom.com/study/USB-PS2 提取码：qscm
 - openEuler Embedded在线文档【Sphinx构建】：https://pages.openeuler.openatom.cn/embedded/docs/build/html/openEuler-22.03-LTS-SP2/index.html
 - 基于openEuler Embedded树莓派使用：https://pages.openeuler.openatom.cn/embedded/docs/build/html/openEuler-22.03-LTS-SP2/bsp/arm64/raspberrypi4/build.html#openeuler-embedded
 ![Pi4B 文档](../%E6%A0%91%E8%8E%93%E6%B4%BE%20Embedded%20%E6%96%87%E6%A1%A3.png)
