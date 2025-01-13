@@ -66,7 +66,6 @@
 
 https://gitee.com/darrenpig/new_energy_coder_club
 
-<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-new_energy_coder_club-blue?logo=github" style="margin: 0 2px -4px 2px ">
                         
 [badage教程链接](https://blog.csdn.net/m0_74037814/article/details/139511804)
 
