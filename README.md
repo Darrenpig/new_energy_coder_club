@@ -125,5 +125,5 @@ Use this space to list resources you find helpful and would like to give credit 
 ## 感谢：NXP 社区 2 套 开发板
 ## 感谢：华为云社区 4000元 的服务器代金卷
 ---
-# 感谢以下伙伴与开发者，是你们的贡献让项目质感更好：
+# 感谢以下伙伴与开发者，是你们的贡献让项目质感把握住灵魂：
 ### @SaNgZi   @朱建超  @许子涵涵  @殷统创  @郝磊  @黄子澄 
