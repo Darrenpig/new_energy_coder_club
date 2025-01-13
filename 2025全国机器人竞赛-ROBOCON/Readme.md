@@ -122,5 +122,12 @@
 
 ## 个人进度：
 
+### @DarrenPig EG
+1.29 ✅ubuntu 的镜像[ubuntu-22.04.3-desktop-amd64] VMware 安装, shell环境学习
+1.30 ✅啃 yocto 的文档，本地部署~/.bashrc-Linux环境变量（Day 1）
+1.31 ✅bitbake、vim、poky（Day 2）
+2.1 ✅Yocto部署笔记、sig组会（Day 3）
+2.3 ✅code、❌SSH到Ubuntu环境
+2.4 ✅报名表、Yocto文档到构建
 
-
+###  @单广志 
