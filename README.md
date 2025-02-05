@@ -76,7 +76,7 @@
 ![alt](https://img.shields.io/badge/license-CIT-green?logo=dark-green) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-success) ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github) [![GitHub contributors](https://img.shields.io/github/contributors/shravan20/github-readme-quotes.svg)](https://github.com/Darrenpig/new_energy_coder_club/graphs/contributors) 
 [![Pull Request Counts](https://img.shields.io/bitbucket/pr/darrenpig/new_energy_coder_club)](https://github.com/Darrenpig/new_energy_coder_club/pulls)
 ![last commit](https://img.shields.io/github/last-commit/Darrenpig/new_energy_coder_club) 
-[![Project](https://img.shields.io/github/project/Darrenpig/new_energy_coder_club)](https://github.com/users/Darrenpig/projects/3)
+[![Project](https://img.shields.io/badge/project-new_energy_coder_club-violet)](https://github.com/users/Darrenpig/projects/3)
 
 ### Project Profile 项目简介
 ![输入图片说明](Image/NEC%20roadmap.png)
