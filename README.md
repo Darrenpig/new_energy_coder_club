@@ -71,6 +71,12 @@
 
 这里是 **「技术宅的游乐场」** + **「竞赛党的弹药库」**，用开源精神点燃新能源与机器人的未来！🚀  
 （想一起造轮子or抱团打比赛？速戳：[仓库传送门](https://gitee.com/darrenpig/new_energy_coder_club)）
+
+
+![alt](https://img.shields.io/badge/license-CIT-green?logo=dark-green) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-success) ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github) [![GitHub contributors](https://img.shields.io/github/contributors/shravan20/github-readme-quotes.svg)](https://github.com/Darrenpig/new_energy_coder_club/graphs/contributors) 
+![Pull Request Counts](https://img.shields.io/bitbucket/pr/darrenpig/new_energy_coder_club)
+![last commit](https://img.shields.io/github/last-commit/Darrenpig/new_energy_coder_club) 
+![deployment-status](https://img.shields.io/website?url=https%3A%2F%2Darrenpig/new_energy_coder_club%2Fquote) [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/Darrenpig/new_energy_coder_club)
 ### Project Profile 项目简介
 ![输入图片说明](Image/NEC%20roadmap.png)
 ![输入图片说明](Image/2024%20Year-end%20group%20photo.png)
@@ -153,10 +159,12 @@ Use this space to list resources you find helpful and would like to give credit 
 -  感谢：Rt-theard 社区 3 套 开发板
 -  感谢：NXP 社区 2 套 开发板
 -  感谢：华为云社区 4000元 的服务器代金卷
+## 开发者Developer
+在这个充满温暖和感恩的仓库中，我们深深感受到了团队的力量和社区的温暖。🌱 2024年节能减排团队和机械团队的每一位成员，用他们的辛勤付出和无私奉献，为项目注入了无限的生命力。
+- 电控团队的@DarrenPig、@灼华、@张奕泽、@张若璐、@周潮，用他们的智慧和热情，点亮了项目的未来；
+- 机械团队的@Justin Tianyang、@小谢、@贺hh-h、@龙城大爹、@薛陈豪、@Makarov、@LemmonDream，用他们的巧手和创意，打造出了一个个精妙的机械奇迹。⚙️
 
-## 在这个充满温暖和感恩的仓库中，我们深深感受到了团队的力量和社区的温暖。🌱 2024年节能减排团队和机械团队的每一位成员，用他们的辛勤付出和无私奉献，为项目注入了无限的生命力。电控团队的@DarrenPig、@灼华、@张奕泽、@张若璐、@周潮，用他们的智慧和热情，点亮了项目的未来；机械团队的@Justin Tianyang、@小谢、@贺hh-h、@龙城大爹、@薛陈豪、@Makarov、@LemmonDream，用他们的巧手和创意，打造出了一个个精妙的机械奇迹。⚙️
-
-## 我们还要衷心感谢那些来自萝马车圈、艾迈斯科技、深圳米尔电子、openEuler社区、易百纳社区、Rt-theard社区、NXP社区、华为云社区的合作伙伴，他们的纪念品、连接器、工业主板、开发板和服务器代金券，为项目的进行提供了坚实的支持。
+## 我们衷心感谢那些来自萝马车圈、艾迈斯科技、深圳米尔电子、openEuler社区、易百纳社区、Rt-theard社区、NXP社区、华为云社区的合作伙伴，他们的软硬件支持，纪念品、连接器、工业主板、开发板和服务器代金券......为项目的进行提供了坚实的支持。
 ---
 <div align="center">  </p>
 
