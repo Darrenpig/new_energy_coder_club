@@ -22,7 +22,7 @@
 <br />
 <div align="center">
   <a href="https://gitee.com/darrenpig/new_energy_coder_club">
-    <img src="Image/Logo.png" alt="Logo" width="80" height="100">
+    <img src="Image/Logo.png" alt="Logo" width="80" height="90">
   </a>
   <h3 align="center">new_energy_coder_club</h3>
 
@@ -165,6 +165,8 @@ Use this space to list resources you find helpful and would like to give credit 
 我们衷心感谢那些来自萝马车圈、艾迈斯科技、深圳米尔电子、openEuler社区、易百纳社区、Rt-theard社区、NXP社区、华为云社区的合作伙伴，他们的软硬件支持，纪念品、连接器、工业主板、开发板和服务器代金券......为项目的进行提供了坚实的支持。
 
 ---
+
+
 <div align="center">  </p>
 
 
@@ -175,6 +177,8 @@ Thank you sincerely to the following partners and developers. It is your outstan
 
 ---
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 ## First good issue 小白看这里
 
 关于我们的故事，在Lisense里，而真正开始学习与研发的过程是快速而高度专注的
