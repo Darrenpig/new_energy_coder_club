@@ -42,7 +42,7 @@
 
 
     <br />
-    <a href="https://github.com/users/Darrenpig/projects/3/views/1"><strong>最新动态 后面是上述资料 »</strong></a>
+    <a href="https://github.com/users/Darrenpig/projects/3/views/1"><strong>最新动态 下面是上述资料 »</strong></a>
     <br />
     <br />
     <a href="https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2025%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B-ROBOCON">View NEC_RC 2025 赛季</a>
@@ -98,12 +98,12 @@
 - **🌐 社交阵地**：  
   - **Gitee 动态**：[项目主页](https://gitee.com/darrenpig/new_energy_coder_club ) 实时更新代码与公告  
   - **小红书达人**：关注 [DarrenPig](https://xiaohongshu.com/darrenpig ) 获取技术段子与新能源黑科技  
-  - **微信社群**：扫码加入开发者群（详情见私信或邮件），随时在线交流💬  
+  - **微信社群**：[扫码](darrenpig.blog.csdn.net)加入开发者群（详情边栏底部名片），随时在线交流💬  
 
 **🚀 小贴士**  
 
 - **项目双平台同步**：代码仓库同时在 [GitHub](https://github.com/Darrenpig/new_energy_coder_club ) 和 [Gitee](https://gitee.com/darrenpig/new_energy_coder_club) 维护，国内推荐用 [Gitee](https://gitee.com/darrenpig/new_energy_coder_club) 加速访问   
-- **赞助与合作**：企业级合作请联系邮箱，开源贡献者请直接提 PR，你的名字将闪耀在**致谢名单** 🌟  
+- **赞助与合作**：企业级合作请联系邮箱22230635@czu.cn，开源贡献者请直接提 PR，你的名字将闪耀在**致谢名单** 🌟  
 - **紧急问题**：邮件标题加注【紧急】，我们会优先处理！  
 
 **🙌 期待你的加入**  
@@ -172,3 +172,30 @@ Use this space to list resources you find helpful and would like to give credit 
 Thank you sincerely to the following partners and developers. It is your outstanding contributions that have endowed the project with a soul-like texture.
 
  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in)
+
+---
+
+## First good issue 小白看这里
+
+关于我们的故事，在Lisense里，而真正开始学习与研发的过程是快速而高度专注的
+
+你可以先看看我们已有的项目（在上述的文件夹里）或者比赛（也按照中文排序），这是一个主仓（放置了我接近2年以来所有的大大小小的竞赛资料）我在这个仓库学习（折腾）了两年的时间里，这里记录了我的成长轨迹，而大家不同的技术方向交流与碰壁，不断的优化和提高。
+在这里，通过快速上手项目，学习基础的环境配置、技术栈，或者单一的文档排查都能比较快的提高自己的能力，除了基础的介绍方向的帖子，列出探索表与技术路线图，我也会适当拉出小仓来控制整体大小，希望这里可以成为一个记录学习技能、不断发展的地方。
+
+话不多说，摈去当做托管项目的仓库功能，也可以使他成为项目流程管理基线，从而可视化进度。（当然这是Github里Project的功能）我们最基础的技能还是以，硬件、软件、运营（除去软硬件所需要的所有技能）来做相对简单的技能分割。
+
+翻开不同岗位的JD（岗位要求），不同的岗位职能与工作要求往往都会有软硬技能之分，（当然这里硬指向技术，软指向综合能力），我就简单分为三块介绍团队内的开发基线与我们的学习过程是怎样重合又相互促进紧密关联的。
+### 00机械（SW、成型、3D打印、CNC）
+机械是一个机器人队伍中最重要的存在，一个好的机械，上可手搓硬件到3D打印、CNC铝合金机床加工，下可根据软件算法优化机械结构，在一般的机器人团队中必不可缺。当然如果你只关注软件与运维请看下面。
+### 01硬件（嵌硬、电子、EDA）
+- 001单片机：推荐基础的蓝桥杯-电子类-单片机/嵌入式 ，[蚂蚁工厂科技](https://space.bilibili.com/41862605?spm_id_from=333.337.0.0)的课程（TB或者B站） 目前是我知道最好的（300课程+300硬件），当然自己像低点预算也可以野火电子、江科大...
+- 002画图DEA：推荐B站播放量最高的 [JHP硬件工作室](https://space.bilibili.com/497070717?spm_id_from=333.337.search-card.all.click) 我学长的课，非常容易懂（免费+自己画板）
+- 003硬件基础：推荐[香港大学的内训资料](https://docs.m2stud.io/ee/Necessary-Information-for-Electronics-Trainees/)（我提issue被拒了）但他们开源了，目前还能看也可以看我[Fork](https://github.com/Darrenpig/m2cs_ros_tutorial)的
+### 02软件（嵌软、纯软、上位机）
+- 004操作系统Liunx：在这之前都可以属于嵌入式领域（硬件到软件之间，也没有多清晰的定义），建议上手跟着项目做推荐开源社区openEuler、Rt-thread，Embedded（嵌入式）\ROS(机器人操作系统)\RTOS(实时操作系统)
+- 005【重要】C语言【单片机、嵌入式、Liunx基础】推荐CSDN技能树（基础语法）、[微软教程](https://learn.microsoft.com/zh-cn/cpp/c-language/?view=msvc-170)、[菜鸟教程](https://www.runoob.com/cprogramming/c-tutorial.html)
+- 006ROS操作系统-鱼香
+### 03运营（项管、设计、外包）
+- 高阶PPT制作[旁门左道PPT](https://www.pangmenzd.vip/)队内资料共享
+- 软件安装：[软件管家](https://mp.weixin.qq.com/s/8Oex_o6lQQPa1GsjLfRrBQ)
+- 各类外包、商务合作对接联系仓库管理员 @7. 微信号：L-Ch-2023-1124
