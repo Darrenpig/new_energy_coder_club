@@ -74,8 +74,9 @@
 
 
 ![alt](https://img.shields.io/badge/license-CIT-green?logo=dark-green) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-success) ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github) [![GitHub contributors](https://img.shields.io/github/contributors/shravan20/github-readme-quotes.svg)](https://github.com/Darrenpig/new_energy_coder_club/graphs/contributors) 
-![Pull Request Counts](https://img.shields.io/bitbucket/pr/darrenpig/new_energy_coder_club)
+[![Pull Request Counts](https://img.shields.io/bitbucket/pr/darrenpig/new_energy_coder_club)](https://github.com/Darrenpig/new_energy_coder_club/pulls)
 ![last commit](https://img.shields.io/github/last-commit/Darrenpig/new_energy_coder_club) 
+[![Project](https://img.shields.io/github/project/Darrenpig/new_energy_coder_club)](https://github.com/users/Darrenpig/projects/3)
 
 ### Project Profile 项目简介
 ![输入图片说明](Image/NEC%20roadmap.png)
@@ -102,7 +103,7 @@ https://gitee.com/darrenpig/new_energy_coder_club
 - **🌐 社交阵地**：  
   - **Gitee 动态**：[项目主页](https://gitee.com/darrenpig/new_energy_coder_club ) 实时更新代码与公告  
   - **小红书达人**：关注 [DarrenPig](https://xiaohongshu.com/darrenpig ) 获取技术段子与新能源黑科技  
-  - **微信社群**：扫码加入开发者群（详情见私信或邮件），随时水群交流💬  
+  - **微信社群**：扫码加入开发者群（详情见私信或邮件），随时在线交流💬  
 
 **🚀 小贴士**  
 
