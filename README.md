@@ -22,7 +22,7 @@
 <br />
 <div align="center">
   <a href="https://gitee.com/darrenpig/new_energy_coder_club">
-    <img src="Image/Logo.png" alt="Logo" width="80" height="80">
+    <img src="Image/Logo.png" alt="Logo" width="80" height="100">
   </a>
   <h3 align="center">new_energy_coder_club</h3>
 
@@ -42,7 +42,7 @@
 
 
     <br />
-    <a href="https://gitee.com/darrenpig/new_energy_coder_club"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/users/Darrenpig/projects/3/views/1"><strong>最新动态 后面是上述资料 »</strong></a>
     <br />
     <br />
     <a href="https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2025%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B-ROBOCON">View NEC_RC 2025 赛季</a>
@@ -63,7 +63,7 @@
 ## About The Project 关于项目
 #### **「DarrenPig新能源开发者社区」** 是一个以 **技术共享与实践成长为核心** 的开源协作平台，适合以下人群加入：  
 
-1. **竞赛科研党**：提供 **全国大学生机器人大赛** 全周期备赛资源，包括FRC图纸、硬件设计模板、嵌入式开发案例，助力从理论到落地的完整闭环。  
+1. **竞赛科研小白**：提供 **全国大学生机器人大赛** 全周期备赛资源，包括FRC图纸、硬件设计模板、嵌入式开发案例，助力从理论到落地的完整闭环。  
 2. **新能源与机器人爱好者**：聚焦新能源技术、IoT与自动化控制，结合openEuler等开源生态，探索智能硬件与可持续能源的交叉创新。  
 3. **全栈开发者训练营**：通过实际项目（如机器人BSP开发、MayCAD设计）积累经验，社区成员协作解决真实问题，打造可复用的技术模块。  
 4. **开源贡献者孵化地**：参与社区文档维护、代码提交，与20+开发者共同成长，你的每一行代码都可能成为他人眼中的「救命稻草」。  
@@ -84,12 +84,7 @@
 <!--![product-screenshot](Image/240802Coder_Club%E5%9B%A2%E9%98%9F%E5%88%9D%E6%AD%A5%E6%9E%84%E6%88%90%20%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%20DarrenPig%20%E7%9A%84%E4%BB%93%E5%BA%93%EF%BC%81.png)
 -->
 
-
-https://gitee.com/darrenpig/new_energy_coder_club
-
                         
-[badage教程链接](https://blog.csdn.net/m0_74037814/article/details/139511804)
-
 ---
 
 <!-- CONTACT -->
@@ -144,6 +139,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [远景资源FRC图纸](http://pan.baidu.com/s/1zgAP8AmdhWhqjbqm_c0mog?pwd=v72M)
 * [机械智库SW标准库](https://shop128404759.taobao.com/)
 * [远景资源密码： www.yuanjingziyuan.com  ](https://yuanjingziyuan.com/)
+* [badage教程链接](https://blog.csdn.net/m0_74037814/article/details/139511804)
 ## 感谢以下赞助伙伴，以及全体开发者们
 ![Vi2024](Image/Warehouse%20Member%20Advocacy%20Vi2024.png)
 ## 【经费直供：电控】2024 节能减排团队🌱
