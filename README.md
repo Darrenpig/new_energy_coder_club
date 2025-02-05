@@ -125,11 +125,10 @@ Use this space to list resources you find helpful and would like to give credit 
 
 ## 在这个充满温暖和感恩的仓库中，我们深深感受到了团队的力量和社区的温暖。🌱 2024年节能减排团队和机械团队的每一位成员，用他们的辛勤付出和无私奉献，为项目注入了无限的生命力。电控团队的@DarrenPig、@灼华、@张奕泽、@张若璐、@周潮，用他们的智慧和热情，点亮了项目的未来；机械团队的@Justin Tianyang、@小谢、@贺hh-h、@龙城大爹、@薛陈豪、@Makarov、@LemmonDream，用他们的巧手和创意，打造出了一个个精妙的机械奇迹。⚙️
 
-## 我们还要衷心感谢那些来自萝马车圈、艾迈斯科技、深圳米尔电子、openEuler社区、易百纳社区、Rt-theard社区、NXP社区、华为云社区的合作伙伴，他们的纪念品、连接器、工业主板、开发板和服务器代金券，为项目提供了坚实的支持。🎁 最后，我们要特别感谢那些为项目注入“灵魂”的伙伴和开发者们@SaNgZi、@朱建超、@许子涵涵、@殷统创、@郝磊、@黄子澄，你们的卓越贡献，让项目变得更加生动而有质感。🎨
-
+## 我们还要衷心感谢那些来自萝马车圈、艾迈斯科技、深圳米尔电子、openEuler社区、易百纳社区、Rt-theard社区、NXP社区、华为云社区的合作伙伴，他们的纪念品、连接器、工业主板、开发板和服务器代金券，为项目的进行提供了坚实的支持。
 ---
 <div align="center">  </p>
 
 
-# 我们要特别感谢那些为项目注入“灵魂”的伙伴和开发者们 @SaNgZi、@朱建超、@许子涵涵、@殷统创、@郝磊、@黄子澄，你们的卓越贡献，让项目变得更加生动而有质感。🎨
+# 🎁 最后，特别感谢那些为项目注入“灵魂”的开发者们 @SaNgZi、@朱建超、@许子涵涵、@殷统创、@郝磊、@黄子澄，你们的卓越贡献，让项目变得更加生动而有质感。🎨
 Thank you sincerely to the following partners and developers. It is your outstanding contributions that have endowed the project with a soul-like texture.
