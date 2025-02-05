@@ -34,7 +34,13 @@
 )](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/README.md)
 
   <p align="center">
-   We are a group of active material stations, undergraduate competition scientific research organizations related to new energy, robotics, and topic discussions in China.我们是一只活跃在中国的新能源、机器人、话题相关的资料小站和本科生的比赛、科研组织，希望能给您的校园生活，以可以参考的实用价值 ！
+欢迎来到 「DarrenPig的新能源极客俱乐部」 —— 一个充满活力和脑洞的「开源游乐园」这里不仅是新能源、机器人爱好者的秘密基地，更是大学生竞赛党的「宝藏地图」  
+
+- **「搞事情」属性拉满**：团队正在疯狂备战 **2025全国大学生机器人大赛**，囤积了82套FRC图纸、铝方型材设计库，甚至还有企业级网盘资料包，仿佛藏着一整个机器人军火库。  
+- **「极客风」代码狂欢**：20多位全栈小白在这里捣鼓嵌入式开发、BSP底软，一边玩转openEuler和Rt-thread开源社区，一边把代码写成「乐高积木」——模块化、可复用，拼出无限可能。  
+- **「野生导师」出没**：从机械设计到算法调参，从竞赛攻略到科研经验，这里的文档像「哆啦A梦的口袋」，随时掏出你需要的秘籍，助你从菜鸟进化成赛场扛把子。  
+
+
     <br />
     <a href="https://gitee.com/darrenpig/new_energy_coder_club"><strong>Explore the docs »</strong></a>
     <br />
@@ -55,8 +61,16 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project 关于项目
-#### 我们是一个开源小仓库，目前主要工作聚焦在 全国大学生机器人大赛 2025 赛季的备赛中，有很多优秀的成员加入了我们，我们也在积极的参与开源社区 openEuler 和 Rt-theard 的基础设施和嵌入式项目的落地上，有 20 多位入门全栈机器人硬件与 BSP 底软的开发者小白。不断的学习，不断的走好脚下的路。
+#### **「DarrenPig新能源开发者社区」** 是一个以 **技术共享与实践成长为核心** 的开源协作平台，适合以下人群加入：  
 
+1. **竞赛科研党**：提供 **全国大学生机器人大赛** 全周期备赛资源，包括FRC图纸、硬件设计模板、嵌入式开发案例，助力从理论到落地的完整闭环。  
+2. **新能源与机器人爱好者**：聚焦新能源技术、IoT与自动化控制，结合openEuler等开源生态，探索智能硬件与可持续能源的交叉创新。  
+3. **全栈开发者训练营**：通过实际项目（如机器人BSP开发、MayCAD设计）积累经验，社区成员协作解决真实问题，打造可复用的技术模块。  
+4. **开源贡献者孵化地**：参与社区文档维护、代码提交，与20+开发者共同成长，你的每一行代码都可能成为他人眼中的「救命稻草」。  
+### 一句话灵魂总结：  
+
+这里是 **「技术宅的游乐场」** + **「竞赛党的弹药库」**，用开源精神点燃新能源与机器人的未来！🚀  
+（想一起造轮子or抱团打比赛？速戳：[仓库传送门](https://gitee.com/darrenpig/new_energy_coder_club)）
 ### Project Profile 项目简介
 ![输入图片说明](Image/NEC%20roadmap.png)
 ![输入图片说明](Image/2024%20Year-end%20group%20photo.png)
