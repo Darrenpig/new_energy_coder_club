@@ -113,6 +113,15 @@ Use this space to list resources you find helpful and would like to give credit 
 
 ## 【经费直供：机械】 2024RC 机械团队⚙️（2024RM 全体 200 X 8）
  @Justin Tianyang @小谢 @贺hh-h @龙城大爹 @薛陈豪 @Makarov @LemmonDream......
+## 赞助商Sponsor
+-  感谢：萝马车圈的纪念品
+-  感谢：艾迈斯科技 600 元 连接器
+-  感谢：深圳米尔电子 3200元 工业主板
+-  感谢：openEuler 社区  8 套 开发板
+-  感谢：易百纳 社区 4 套海鸥派
+-  感谢：Rt-theard 社区 3 套 开发板
+-  感谢：NXP 社区 2 套 开发板
+-  感谢：华为云社区 4000元 的服务器代金卷
 
 ## 在这个充满温暖和感恩的仓库中，我们深深感受到了团队的力量和社区的温暖。🌱 2024年节能减排团队和机械团队的每一位成员，用他们的辛勤付出和无私奉献，为项目注入了无限的生命力。电控团队的@DarrenPig、@灼华、@张奕泽、@张若璐、@周潮，用他们的智慧和热情，点亮了项目的未来；机械团队的@Justin Tianyang、@小谢、@贺hh-h、@龙城大爹、@薛陈豪、@Makarov、@LemmonDream，用他们的巧手和创意，打造出了一个个精妙的机械奇迹。⚙️
 
@@ -122,14 +131,5 @@ Use this space to list resources you find helpful and would like to give credit 
 <div align="center">  </p>
 
 
--  感谢：萝马车圈的纪念品
--  感谢：艾迈斯科技 600 元 连接器
--  感谢：深圳米尔电子 3200元 工业主板
--  感谢：openEuler 社区  8 套 开发板
--  感谢：易百纳 社区 4 套海鸥派
--  感谢：Rt-theard 社区 3 套 开发板
--  感谢：NXP 社区 2 套 开发板
--  感谢：华为云社区 4000元 的服务器代金卷
----
 # 我们要特别感谢那些为项目注入“灵魂”的伙伴和开发者们 @SaNgZi、@朱建超、@许子涵涵、@殷统创、@郝磊、@黄子澄，你们的卓越贡献，让项目变得更加生动而有质感。🎨
 Thank you sincerely to the following partners and developers. It is your outstanding contributions that have endowed the project with a soul-like texture.
