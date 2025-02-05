@@ -86,13 +86,44 @@ https://gitee.com/darrenpig/new_energy_coder_club
 ---
 
 <!-- CONTACT -->
-## Contact 联系我们
+## 📬 **Contact 联系我们**  
+想和我们快速搭上线？看这里！  
 
-### 直接发邮件最快，issue可以提建议和托管、项目合作需求，目前小组在 Gitee 和 WeChat 交流为主💬
+**✨ 高效联系方式**  
 
-DarrenPig - [https://xiaohongshu.com/darrenpig](https://www.xiaohongshu.com/user/profile/62f2899b000000001f0074f1)- darrenpig@foxmail.com
+- **📩 邮件直通车**：直接发邮件到 [darrenpig@foxmail.com ](mailto:darrenpig@foxmail.com ) 最快！敲黑板——记得主题写清楚需求类型（合作/建议/托管），24 小时内必回   
+- **💡 建议 & 合作**：欢迎来 [Gitee Issues 区](https://gitee.com/darrenpig/new_energy_coder_club/issues ) 提需求！无论是项目合作还是功能建议，我们都会仔细阅读并标记为 `讨论中`/`已采纳`   
+- **🌐 社交阵地**：  
+  - **Gitee 动态**：[项目主页](https://gitee.com/darrenpig/new_energy_coder_club ) 实时更新代码与公告  
+  - **小红书达人**：关注 [DarrenPig](https://xiaohongshu.com/darrenpig ) 获取技术段子与新能源黑科技  
+  - **微信社群**：扫码加入开发者群（详情见私信或邮件），随时水群交流💬  
 
-Project Link: [https://github.com/Darrenpig/new_energy_coder_club](https://github.com/Darrenpig/new_energy_coder_club)
+**🚀 小贴士**  
+
+- **项目双平台同步**：代码仓库同时在 [GitHub](https://github.com/Darrenpig/new_energy_coder_club ) 和 [Gitee](https://gitee.com/darrenpig/new_energy_coder_club) 维护，国内推荐用 [Gitee](https://gitee.com/darrenpig/new_energy_coder_club) 加速访问   
+- **赞助与合作**：企业级合作请联系邮箱，开源贡献者请直接提 PR，你的名字将闪耀在**致谢名单** 🌟  
+- **紧急问题**：邮件标题加注【紧急】，我们会优先处理！  
+
+**🙌 期待你的加入**  
+无论是想托管项目、参与开发，还是单纯唠嗑技术，我们都敞开大门！用你的奇思妙想，点亮新能源编程社区吧～ 🚀  
+
+---
+
+**🔗 快速跳转**  
+
+- [项目主页](https://gitee.com/darrenpig/new_energy_coder_club ) | [GitHub 镜像](https://github.com/Darrenpig/new_energy_coder_club )  
+- 致谢开源组件：React Icons、远景资源库等（密码见仓库内文档）   
+
+---
+
+> 💌 邮件模板参考：  
+>
+> ```  
+> 主题：【合作/建议/托管】+ 需求简述  
+> 正文：附上项目背景、预期目标及联系方式，我们会火速响应！  
+> ```
+>
+> 使用生动的 README？试试 [GitHub Readme Quotes](https://gitcode.com/gh_mirrors/gi/github-readme-quotes ) 动态生成金句 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
