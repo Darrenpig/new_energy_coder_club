@@ -173,8 +173,6 @@ Use this space to list resources you find helpful and would like to give credit 
 🎁 最后，特别感谢那些为项目注入“灵魂”的开发者们 @SaNgZi、@朱建超、@许子涵涵、@殷统创、@郝磊、@黄子澄，你们的卓越贡献，让项目变得更加生动而有质感。🎨
 Thank you sincerely to the following partners and developers. It is your outstanding contributions that have endowed the project with a soul-like texture.
 
- ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in)
-
 ---
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
