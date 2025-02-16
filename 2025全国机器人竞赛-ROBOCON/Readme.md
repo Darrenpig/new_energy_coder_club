@@ -121,7 +121,7 @@
 </p>
 
 
-###资料链接
+### 资料链接
 http://support.fftai.cn/main/en/operation_guide/xbox/#8-press-emergency-stop-switch
 
 傅里叶文档开源
