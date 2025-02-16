@@ -120,9 +120,14 @@
 <div align="left">
 </p>
 
+
+###资料链接
+http://support.fftai.cn/main/en/operation_guide/xbox/#8-press-emergency-stop-switch
+
+傅里叶文档开源
+https://github.com/FFTAI
+
 ## 项目进程
-
-
 
 - 241120 完成初期团队投票，创建群聊，进行了第一次线下成员会议
 - 241213 团队不断扩大，逐步进行底盘结构、战队经费、人员安排、采购环节等一系列问题的讨论
