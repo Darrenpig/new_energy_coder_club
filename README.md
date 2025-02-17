@@ -157,25 +157,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [badage教程链接](https://blog.csdn.net/m0_74037814/article/details/139511804)
 ## 感谢以下赞助伙伴，以及全体开发者们
 ![Vi2024](Image/Warehouse%20Member%20Advocacy%20Vi2024.png)
-## 【经费直供：电控】2024 节能减排团队🌱
-@DarrenPig 3000元 @灼华 1500元 @张奕泽 1000元 @张若璐 800元 @周潮 800元
 
-## 【经费直供：机械】 2024RC 机械团队⚙️（2024RM 全体 200 X 8）
- @Justin Tianyang @小谢 @贺hh-h @龙城大爹 @薛陈豪 @Makarov @LemmonDream......
-## 赞助商Sponsor
--  感谢：萝马车圈的纪念品
--  感谢：艾迈斯科技 600 元 连接器
--  感谢：深圳米尔电子 3200元 工业主板
--  感谢：openEuler 社区  8 套 开发板
--  感谢：易百纳 社区 4 套海鸥派
--  感谢：Rt-theard 社区 3 套 开发板
--  感谢：NXP 社区 2 套 开发板
--  感谢：华为云社区 4000元 的服务器代金卷
-## 开发者Developer
-在这个充满温暖和感恩的仓库中，我们深深感受到了团队的力量和社区的温暖。🌱 2024年节能减排团队和机械团队的每一位成员，用他们的辛勤付出和无私奉献，为项目注入了无限的生命力。
-- 电控团队的@DarrenPig、@灼华、@张奕泽、@张若璐、@周潮，用他们的智慧和热情，点亮了项目的未来；
-- 机械团队的@Justin Tianyang、@小谢、@贺hh-h、@龙城大爹、@薛陈豪、@Makarov、@LemmonDream，用他们的巧手和创意，打造出了一个个精妙的机械奇迹。⚙️
----
 
 我们衷心感谢那些来自萝马车圈、艾迈斯科技、深圳米尔电子、openEuler社区、易百纳社区、Rt-theard社区、NXP社区、华为云社区的合作伙伴，他们的软硬件支持，纪念品、连接器、工业主板、开发板和服务器代金券......为项目的进行提供了坚实的支持。
 
