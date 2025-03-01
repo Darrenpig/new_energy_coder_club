@@ -1,4 +1,14 @@
     # 如果你对本项目还不是那么的了解，我希望你能好好看完下面这部分内容：
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/darrenpig/new_energy_coder_club/)
+[![Gitee](https://img.shields.io/badge/Gitee-C71D23?logo=gitee&logoColor=fff)](https://gitee.com/darrenpig/new_energy_coder_club/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/darrenpig/)
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=fff)](https://space.bilibili.com/438904165)
+[![Weibo](https://img.shields.io/badge/Weibo-E6162D?logo=sina-weibo&logoColor=fff)](https://weibo.com/u/5838027226)
+[![lisence.md-meta_freescale](https://img.shields.io/badge/lisence.md-Markdown-violet
+)](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/LICENSE.md)
+[![Readme.md meta-imx](https://img.shields.io/badge/Readme.md-Markdown-8A2BE2
+)](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/README.md)
+
 
 ## 项目来源：一次与 @郝磊 的约定，2024 我们要做好一个项目
 
