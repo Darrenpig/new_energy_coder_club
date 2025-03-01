@@ -124,15 +124,6 @@
 **🙌 期待你的加入**  
 无论是想托管项目、参与开发，还是单纯唠嗑技术，我们都敞开大门！用你的奇思妙想，点亮新能源编程社区吧～ 🚀  
 
----
-
-**🔗 快速跳转**  
-
-- [项目主页](https://gitee.com/darrenpig/new_energy_coder_club ) | [GitHub 镜像](https://github.com/Darrenpig/new_energy_coder_club )  
-- 致谢开源组件：React Icons、远景资源库等（密码见仓库内文档）   
-
----
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
