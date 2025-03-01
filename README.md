@@ -65,15 +65,6 @@
 | [2025全国大学生机器人竞赛-ROBOCON](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2025%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B-ROBOCON)     | 人形机器人开发 项目流程管理，项目基线  | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
 | [2024全国大学生节能减排大赛](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E8%8A%82%E8%83%BD%E5%87%8F%E6%8E%92%E5%A4%A7%E8%B5%9B_Nearlink%E5%B0%8F%E8%BD%A6)                              | 亚博智能 巡检小车Demo,研究esp32-UDP虚拟机   | <img src="https://img.shields.io/badge/license-MIT-red" alt="License">   |
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/darrenpig/new_energy_coder_club/)
-[![Gitee](https://img.shields.io/badge/Gitee-C71D23?logo=gitee&logoColor=fff)](https://gitee.com/darrenpig/new_energy_coder_club/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/darrenpig/)
-[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=fff)](https://space.bilibili.com/438904165)
-[![Weibo](https://img.shields.io/badge/Weibo-E6162D?logo=sina-weibo&logoColor=fff)](https://weibo.com/u/5838027226)
-[![lisence.md-meta_freescale](https://img.shields.io/badge/lisence.md-Markdown-violet
-)](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/LICENSE.md)
-[![Readme.md meta-imx](https://img.shields.io/badge/Readme.md-Markdown-8A2BE2
-)](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/README.md)
 
 
 <!-- Follow is usage -->
