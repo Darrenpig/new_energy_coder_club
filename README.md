@@ -110,6 +110,7 @@
 想和我们快速搭上线？看这里！  
 
 **✨ 高效联系方式**  
+- **📩 邮件直通车**：直接发邮件到 [darrenpig@foxmail.com ](mailto:darrenpig@foxmail.com ) 最快！敲黑板——记得主题写清楚需求类型（合作/建议/托管），24 小时内必回   
 
 
 - **💡 建议 & 合作**：欢迎来 [Gitee Issues 区](https://gitee.com/darrenpig/new_energy_coder_club/issues ) 提需求！无论是项目合作还是功能建议，我们都会仔细阅读并标记为 `讨论中`/`已采纳`   
