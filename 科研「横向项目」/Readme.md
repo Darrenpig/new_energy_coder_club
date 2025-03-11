@@ -20,8 +20,7 @@ git clone https://gitee.com/openeuler/yocto-embedded-tools.git
 
 <p align="center">
   <a href="https://gitee.com/AbrillantLee/yocto-embedded-tools/tree/hieuler/hi-sle">
-    <img src="images/logo4.jpg" alt="Logo" width=500>
-    <img src="images/logo.png" alt="Logo" width=500>
+  
   </a>
 
   <h3 align="center" >「星闪 · 遥控手柄」</h3>
