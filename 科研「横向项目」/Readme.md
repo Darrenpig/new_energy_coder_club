@@ -11,7 +11,7 @@ git clone https://gitee.com/openeuler/yocto-embedded-tools.git
 
 <div style="font-size:2.0em" >
   <p align="center">
-  <a href="https://gitee.com/AbrillantLee/yocto-embedded-tools/pulls"><img src="https://img.shields.io/badge/Pull%20Request-Click%20me-%23293241?style=flat-square&labelColor=%23293241&color=%233D5A80"></a>
+  <a href="https://gitee.com/AbrillantLee/yocto-embedded-tools/pulls"><img src=" ![输入图片说明](image%E6%96%B0%E9%97%AA%E6%89%8B%E6%9F%84.jpg)"></a>
   <a href="https://gitee.com/AbrillantLee/yocto-embedded-tools/issues"><img src="https://img.shields.io/badge/Issues-Click%20me-%23293241?style=flat-square&labelColor=%23293241&color=%23EE6C4D"></a> 
   <a href="https://img.shields.io/badge/梅科尔工作室-blue?style=for-the-badge&logo=&logoColor=white">
     <img src="https://img.shields.io/badge/梅科尔工作室-blue?style=for-the-badge&logo=&logoColor=white" alt="梅科尔">
