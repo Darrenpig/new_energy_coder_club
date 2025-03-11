@@ -197,7 +197,6 @@ hi-sle
 - 还有一种最为简单的方式就是将`Hispark`配置中的`Bin`文案金更换为`EulerCar_Slave_Computer_Hi3061_Source_Code/out/target.bin`文件，然后直接烧录即可。
 
 <p align="center">
-<img src="images/hi3061_upload.png" alt="Logo" width=400>
 </p>
 
 ### ws63代码文件详解
@@ -282,22 +281,18 @@ void eulercar_control_forward(void)
 ## 硬件指南
 硬件主要由底板，PCB主板和亚克力板组成
 <p align="center">
-<img src="images/fusion1.png" alt="Logo" width=500>
 </p>
 
 以下是PCB主板主要功能图示
 <p align="center">
-<img src="images/Intro1.jpg" alt="Logo" width=600>
 </p>
 <p align="center">
-<img src="images/Intro2.jpg" alt="Logo" width=600>
 </p>
 
 ### 1. 电路设计
 
 > 本硬件电路主要分为电源管理电路，震动马达驱动电路和控制模块电路构成
 <p align="center">
-<img src="images/EDA1.png" alt="Logo" width=400>
 </p>
 
 1. 电源管理电路以IP5306（<a  href="hi-sle\RelevantDetails\IP5306_datasheet_v1.01.pdf" alt="链接">产品资料🔗</a>）为核心。IP5306是一款集成升压转换器、锂电池充电管理、电池电量指示的多功能电源管理 SOC，为移动电源提供完整的电源解决方案。
@@ -307,16 +302,13 @@ void eulercar_control_forward(void)
       - 短按（持续时间长于 50ms，但小于 2s）会打开电量显示灯和升压输出。
       - 连续两次短按键（ 1s 内），会关闭电量显示和升压输出
 <p align="center">
-<img src="images/IP5306_pin.png" alt="Logo" width=200>
 </p>
 <p align="center">
-<img src="images/IP5306_design.png" alt="Logo" width=500>
 </p>
 
 2. 震动马达驱动电路以微型震动马达为核心，在这个电路中，场效应管能够通过控制门极电压来开启或关闭电流，从而控制电机的工作状态。肖特基二极管防止电机在停止时产生的反向电流对电路造成损坏，起到保护作用。
 
 <p align="center">
-  <img src="images/EDA3.png" alt="Logo" width=200>
 </p>
 
 3. 控制模块电路以WS63E为核心，用于各个引脚与传感器或执行器之间的通信。
@@ -326,7 +318,6 @@ void eulercar_control_forward(void)
 
 以下是<a href="JLCPCB_Files\Gerber_eulercar_2024-09-15.zip" alt="链接">PCB设计🔗</a>
 <p align="center">
-  <img src="images/EDA2.png" alt="Logo" width=500>
 </p>
 
 
@@ -340,8 +331,6 @@ void eulercar_control_forward(void)
     - 预留四个M3空位，用于与PCB和顶板的连接固定
 
 <p align="center">
-  <img src="images/fusion2.png" alt="Logo" width=500>
-  <img src="images/board.png" alt="Logo" width=500>
 </p>
 
 
@@ -351,7 +340,6 @@ void eulercar_control_forward(void)
     - 六角铜柱需要的最小高度为：PCB插排高度+WS63E最大高度 = 16mm
 
 <p align="center">
-  <img src="images/fusion4.png" alt="Logo" width=500>
 </p>
 
 ### 4. 物料购买
@@ -376,23 +364,19 @@ PDB电子元器件物料可直接由嘉立创EDA导出
 2. 打开BOM表或EDA，从贴片元器件开始，找到要焊接的元器件型号。
 
 <p align="center">
-  <img src="images/stuff.gif" alt="Logo" width=500>
 </p>
 
 3. 按照元器件位置进行分区，使用热风枪时对邻近贴片元器件一起焊接。
 
 <p align="center">
-  <img src="images/solder.gif" alt="Logo" width=500>
 </p>
 
 4. 每个模块焊接完成后，可以对照PCB工程图，用万用表逐个检查是否存在焊错、短路、虚焊、脱焊等情况。
 5. 按上述的步骤，完成所有元器件的焊接即可。也可使用洗板水确保焊后的美观。
 <p align="center">
-  <img src="images/checkout1.jpg" alt="Logo" width=500>
 </p>
 
 <p align="center">
-  <img src="images/checkout3.jpg" alt="Logo" width=500>
 </p>
 
 
@@ -420,7 +404,6 @@ PDB电子元器件物料可直接由嘉立创EDA导出
           - 检查是否短路，进行重新焊接；
           - 检查是否由过温导致，检查工作温度是否符合要求，增加散热片等散热措施；
     <p align="center">
-      <img src="images/checkout2.jpg" alt="Logo" width=500>
     </p>
 
     - [x] 芯片烧毁
@@ -443,7 +426,6 @@ PDB电子元器件物料可直接由嘉立创EDA导出
 4. 您的第一个星闪遥控器大功告成
 
 <p align="center">
-  <img src="images/logo3.jpg" alt="Logo" width=500>
 </p>
 
 ### 8. 软硬件调试
@@ -456,7 +438,6 @@ PDB电子元器件物料可直接由嘉立创EDA导出
 - 调试现象：ws63遥控小车前进、后退、左转、右转，每个控制指令中间间隔100ms；
 - 如需调整控制时间，可在`eulercar_control.h`中修改宏定义`PRESS_RELEASE_INTERVAL`即可
 <p align="center">
-  <img src="images/board_debugging.gif"  width=500>
 </p>
 
 
@@ -466,14 +447,10 @@ PDB电子元器件物料可直接由嘉立创EDA导出
 - 调试现象：左摇杆x轴控制小车左转、右转，右摇杆y轴控制小车前进、后退;
 - usb连接遥控器上的主控ws63, 同时启动EulerCar小车sle和ros节点即可。
 <p align="center">
-  <img src="images/handle_debugging.gif"  width=500>
-  <img src="images/10ms延时.gif"  width=500>
-  <img src="images/1ms延时.gif"  width=500>
 </p>
 
 #### 控制第二辆小车（Hihope Car）
 <p align="center">
-  <img src="images/hihope_car.gif"  width=500>
 </p>
 
 
