@@ -80,7 +80,9 @@
 
 ## 联系我们
 
-#数据网关开发： @NANA ,[WEIXIN](Hollic_sy)
+#数据网关开发： @NANA ,WEIXIN:Hollic_sy
+#项管:  @DarrenPig ,WEIXIN:Pei-Pei-Zhu-Pig
+#运营：   @xiux ，WEIXIN:x2789954149 
 
 ## 致谢
 感谢以下开源组件、资料、资源库的帮助：
