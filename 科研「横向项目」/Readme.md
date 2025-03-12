@@ -1,11 +1,11 @@
 git clone https://gitee.com/openeuler/yocto-embedded-tools.git
-| 序号 |                      |                                                                                                                                              |
+| 序号 |    参考仓库                  |       网址                                                                                                                                       |
 |----|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| 1  | tools/HiSparkStudio工具下载及安装.md| https://gitee.com/HiSpark/fbb_ws63/blob/master/tools/HiSparkStudio%E5%B7%A5%E5%85%B7%E4%B8%8B%E8%BD%BD%E5%8F%8A%E5%AE%89%E8%A3%85.md         |
-| 2  | tools/HiSparkStudio编译及烧录.md | https://gitee.com/HiSpark/fbb_ws63/blob/master/tools/HiSparkStudio%E7%BC%96%E8%AF%91%E5%8F%8A%E7%83%A7%E5%BD%95.md                           |
-| 3  | tools/README.md      | https://gitee.com/HiSpark/fbb_ws63/blob/master/tools/README.md                                                                               |
+| 1  | tools/HiSparkStudio工具下载及安装.md | https://gitee.com/HiSpark/fbb_ws63/blob/master/tools/HiSparkStudio%E5%B7%A5%E5%85%B7%E4%B8%8B%E8%BD%BD%E5%8F%8A%E5%AE%89%E8%A3%85.md         |
+| 2  | tools/HiSparkStudio编译及烧录.md    | https://gitee.com/HiSpark/fbb_ws63/blob/master/tools/HiSparkStudio%E7%BC%96%E8%AF%91%E5%8F%8A%E7%83%A7%E5%BD%95.md                           |
+| 3  | tools/README.md                     | https://gitee.com/HiSpark/fbb_ws63/blob/master/tools/README.md                                                                               |
 | 4  | tools/WSL子系统开发环境搭建.md       | https://gitee.com/HiSpark/fbb_ws63/blob/master/tools/WSL%E5%AD%90%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md |
-| 5  | tools/WSL子系统编译及烧录.md | https://gitee.com/HiSpark/fbb_ws63/blob/master/tools/WSL%E5%AD%90%E7%B3%BB%E7%BB%9F%E7%BC%96%E8%AF%91%E5%8F%8A%E7%83%A7%E5%BD%95.md          |
+| 5  | tools/WSL子系统编译及烧录.md          | https://gitee.com/HiSpark/fbb_ws63/blob/master/tools/WSL%E5%AD%90%E7%B3%BB%E7%BB%9F%E7%BC%96%E8%AF%91%E5%8F%8A%E7%83%A7%E5%BD%95.md          |
 
 
 
