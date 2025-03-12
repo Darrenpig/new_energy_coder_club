@@ -1,96 +1,89 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a id="readme-top"></a>
-<!--
-*** Thanks for checking out the new_energy_coder_club. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :dancer: 
+# 2025赛季全国机器人竞赛-ROBOCON 项目 README
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
+## 项目简介
+本项目聚焦于2025赛季全国机器人竞赛-ROBOCON，旨在通过创新的设计和先进的技术实现机器人在复杂任务中的高效表现。项目结合了机械设计、电子控制、编程等多领域知识，致力于打造一个具有竞争力的机器人平台。
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <h1 align="center"># 2025赛季全国机器人竞赛-ROBOCON </h1>
+## 功能特点
+- **机械结构设计**：采用模块化设计，方便维护和升级。
+- **电子控制系统**：基于STM32的控制板，实现精确的运动控制。
+- **编程与算法**：使用C/C++进行编程，实现复杂的任务逻辑和算法。
 
-[![2025NEC_ROBOCON](https://img.shields.io/badge/2025NEC_全国机器人大赛ROBOCON-仓库-blue)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2025%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B-ROBOCON)  
-[![全国大学生智能车竞赛](https://img.shields.io/badge/2024全国大学生智能车竞赛-智能车室外赛比赛-ddff9a)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E6%99%BA%E8%83%BD%E8%BD%A6%E5%AE%A4%E5%A4%96%E8%B5%9B%E6%AF%94%E8%B5%9B)[![2024节能减排大赛](https://img.shields.io/badge/节能减排大赛-仓库-blue)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E8%8A%82%E8%83%BD%E5%87%8F%E6%8E%92%E5%A4%A7%E8%B5%9B_Nearlink%E5%B0%8F%E8%BD%A6)         [![物联网设计竞赛-meta_freescale](https://img.shields.io/badge/物联网设计竞赛-仓库-brightgreen)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E7%89%A9%E8%81%94%E7%BD%91%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B_Huawei%E6%95%B0%E9%80%9A)[![2024全国大学生机器人竞赛ROBOCON](https://img.shields.io/badge/ROBOCON竞赛-全国大学生机器人竞赛-172a88)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B_ROBOCON)
-[![lisence.md-meta_freescale](https://img.shields.io/badge/lisence.md-Markdown-violet
-)](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/LICENSE.md)
-[![Readme.md meta-imx](https://img.shields.io/badge/Readme.md-Markdown-8A2BE2
-)](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/README.md)
+## 技术栈
+| 技术领域 | 技术细节 |
+| --- | --- |
+| 机械设计 | Fusion 360、MayCAD |
+| 电子控制 | STM32、ESP32 |
+| 编程语言 | C/C++、Python |
+| 开发环境 | VSCode、Keil |
 
-  <p align="center">
-   We are a group of active material stations, undergraduate competition scientific research organizations related to new energy, robotics, and topic discussions in China.我们是一只活跃在中国的新能源、机器人、话题相关的资料小站和本科生的比赛、科研组织，希望能给您的校园生活，以可以参考的实用价值 ！
-    <br />
-    <a href="https://gitee.com/darrenpig/new_energy_coder_club"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
+## 安装指南
+1. **环境准备**：
+   - 确保具备基本的开发环境和工具，如计算机、开发板等。
+   - 安装必要的软件和库，如C/C++编译器、Python等。
 
-## @卢王淳 2025赛期管理
+2. **代码获取**：
+   - 从Gitee仓库克隆代码：
+     ```
+     git clone https://gitee.com/darrenpig/new_energy_coder_club.git
+     ```
 
-## @7. 2025例会主持/仓库维护
+3. **硬件搭建**：
+   - 按照设计图纸搭建机器人的硬件部分，包括机械结构、电子控制模块等。
 
-# 23项管_许子涵 24队长_ @Pony17刘英淇 24项管_@卢王淳
+4. **软件配置**：
+   - 配置开发环境，安装必要的库和工具。
+   - 编写控制程序，实现机器人的基本功能。
 
-<p align="left"> 
-<div align="left">
-</p>
+## 使用方法
+1. **启动系统**：
+   - 接通机器人电源，启动相关程序。
+   - 确保所有硬件设备正常运行，通信连接稳定。
 
+2. **运行任务**：
+   - 通过上位机发送指令，控制机器人完成指定任务。
+   - 在运行过程中，实时监测机器人的状态和性能。
 
+## 项目进度
+- 241120 完成初期团队投票，创建群聊，进行了第一次线下成员会议
+- 241213 团队不断扩大，逐步进行底盘结构、战队经费、人员安排、采购环节等一系列问题的讨论
+- 250111 离校前最后一次线下组会，完成开发板寄送
+- 250113 在手一块51单片机，一块RT-THREAD的RA6M3芯片
+- 250210 拓展版基本完成STM32的开发，pi5开始进行
+- 250215 部署灵犀x1环境
+- 250221 星闪手柄进度继续
 
-## 项目进程
+## 团队成员
+| 组别 | 成员 | 职责 |
+| --- | --- | --- |
+| 机械设计组 | 卢王淳 | 负责机械结构的设计与优化 |
+| 电子控制组 | 单广志 | 负责电子控制系统的开发与调试 |
+| 编程组 | Pony17 | 负责控制程序的编写与优化 |
+| 采购与后勤 | 郑绍恺 | 负责物资采购和团队后勤保障 |
 
-#### 241120 完成初期团队投票，创建群聊，进行了第一次线下成员会议
-#### 241213 团队不断扩大，逐步进行底盘结构、战队经费、人员安排、采购环节等一系列问题的讨论 @7. 进行主持，@DarrenPig @Pony17 明确近期成果和下阶段任务，@郑绍恺 采购环节明确
-#### 250111 离校前最后一次线下组会，完成开发板寄送
-#### 250113 在手一块51单片机，一块RT-THREAD的RA6M3芯片 @Pony17 
-#### 250
+## 许可证
+本项目采用 [木兰宽松许可证，第 2 版](LICENSE.md) 开源协议，您可以自由使用、修改和分发本项目的代码，但需要遵守协议的相关规定。
 
-## 个人进度：
+## 联系我们
+- **建议 & 合作**：欢迎在 Gitee Issues 区提需求！无论是项目合作还是功能建议，我们都会仔细阅读并标记为 `讨论中`/ `已采纳`。
+- **社交阵地**：
+  - **Gitee 动态**：项目主页实时更新代码与公告
+  - **小红书达人**：关注 DarrenPig 获取技术段子与新能源黑科技
+  - **微信社群**：扫码加入开发者群（详情边栏底部名片），随时在线交流💬
 
-### @DarrenPig EG
-1.29 ✅ubuntu 的镜像[ubuntu-22.04.3-desktop-amd64] VMware 安装, shell环境学习
-1.30 ✅啃 yocto 的文档，本地部署~/.bashrc-Linux环境变量（Day 1）
-1.31 ✅bitbake、vim、poky（Day 2）
-2.1 ✅Yocto部署笔记、sig组会（Day 3）
-2.3 ✅code、❌SSH到Ubuntu环境
-2.4 ✅报名表、Yocto文档到构建
-250114 ✅机械组会，介绍MayCad ，Fusion 360 的基础学习资源，和团队已有的数字资产
+## 致谢
+感谢以下开源组件、资料、资源库的帮助：
+- React Icons
+- 远景资源FRC图纸
+- 机械智库SW标准库
+- 远景资源密码：www.yuanjingziyuan.com
+- badage教程链接
 
-###  @单广志 
-250116 ✅电控组issue上传资料链接
-250117 开始搓手柄，淘了一套烙铁头
-250118 拓展板项目进行
-250210 拓展版基本完成STM32的开发，pi5开始进行
-250215 部署灵犀x1环境
-250221 星闪手柄进度继续
-###  @Pony17 
-250117 HMI环境配置完毕
-###    @郑绍恺 
-250118 ✅esp32控制板学习
-250120 ✅环境arduino使用学习
-250212 ✅了解电路的基本原理
-250213 ✅整理关节电机信息
-###  @NANA 
-250121 cubeide编辑引脚运行报错后续软件启动发生错误，重新下载软件解压持续报错。尝试使用CUBEMX代替
-
-###  @卢王淳 
-250306 PPT基础操作学习   ESP32控制板学习
-# 设计方案讨论
-https://a360.co/4b5QcO7
-Fusion360 人形机器人结构讨论
-机械设计：手部结构；轮腿结构；
-机电设计：微控制器与关节电机；
-机械设计：[输入图片说明](%E6%9C%BA%E6%A2%B0%E7%BB%84/1739800297809.png)以上述图片为概念模板，底部采用轮足结构，去掉下肢，上肢机械臂参考灵犀图纸，并暂以3爪为设计构想 
-
-# 250306 
-人形机器人底盘确定，A板和C板下单，
+感谢以下赞助伙伴，以及全体开发者们：
+- 萝马车圈
+- 艾迈斯科技
+- 深圳米尔电子
+- openEuler社区
+- 易百纳社区
+- Rt-theard社区
+- NXP社区
+- 华为云社区
