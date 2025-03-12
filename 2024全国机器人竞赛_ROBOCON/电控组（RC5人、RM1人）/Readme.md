@@ -103,8 +103,8 @@
 ---
 
 > 项目最后更新：2025-03-12  
-> 技术咨询：contact@motor-control-lab.cn  
-> 商业合作：bd@industrial-iot.com
+> 技术咨询：  
+> 商业合作：
 
 
 ---
