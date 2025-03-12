@@ -58,7 +58,7 @@
    - Flash Mode: QIO
    - Partition Scheme: Huge APP
 
-![环境配置图示](../image/esp2.png)
+![环境配置图示]
 
 ### ROS工作空间初始化
 
