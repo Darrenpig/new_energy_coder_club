@@ -1,71 +1,43 @@
-[![全国大学生智能车竞赛](https://img.shields.io/badge/2024全国大学生智能车竞赛-智能车室外赛比赛-green)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E6%99%BA%E8%83%BD%E8%BD%A6%E5%AE%A4%E5%A4%96%E8%B5%9B%E6%AF%94%E8%B5%9B)
+# 2024 全国机器人竞赛 ROBOCON 项目简介
 
-[![节能减排大赛](https://img.shields.io/badge/节能减排大赛-仓库-blue)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E8%8A%82%E8%83%BD%E5%87%8F%E6%8E%92%E5%A4%A7%E8%B5%9B_Nearlink%E5%B0%8F%E8%BD%A6)         [![物联网设计竞赛-meta_freescale](https://img.shields.io/badge/物联网设计竞赛-仓库-brightgreen)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E7%89%A9%E8%81%94%E7%BD%91%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B_Huawei%E6%95%B0%E9%80%9A)
+## 一、项目背景
+2024 全国机器人竞赛 ROBOCON 是一项极具挑战性和创新性的机器人赛事，吸引了众多高校团队参与。常州工学院光电 Robot 团队在此次竞赛中首次闯入国赛，并成功得分，取得了显著成绩。
 
-[![全国大学生机器人竞赛ROBOCON](https://img.shields.io/badge/ROBOCON竞赛-全国大学生机器人竞赛-green)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B_ROBOCON)
+## 二、项目名称
+全国机器人竞赛 ROBOCON 项目
 
-[![lisence.md-meta_freescale](https://img.shields.io/badge/lisence.md-Markdown-violet
-)](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/LICENSE.md)
-[![Readme.md meta-imx](https://img.shields.io/badge/Readme.md-Markdown-8A2BE2
-)](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/README.md)
-## NEC_Car小组 9 月 22 日 晚正式开始
-### 2024第十九届智能车室外赛比赛相关资料查看： 大赛官方网站：www.smartcar.zone
-# 第十九届全国大学生智能汽车竞赛 https://www.czu.cn/2024/0910/c6a145099/page.htm
+## 三、技术栈
+| 技术领域 | 技术细节 |
+| --- | --- |
+| 机器人控制系统 | MicroROS |
+| 视觉识别系统 | ROS-openMV 摄像头 |
+| 无线通信技术 | Wi-Fi 控制 ROS 开发版 |
+| 机械结构设计 | 欧标铝方等材料 |
+| 3D 打印技术 | 3D 打印机制作部件 |
+| 电机驱动与控制 | 步进电机、无刷电机等 |
+| CAN 总线技术 | 用于电调采购和通信 |
 
-## 我们是一只跨学院队伍，来自光电、汽车。
-### 汽车院的天权 2 楼 C208 智能车实验室提供场地，以及基础 ROS 车，NEC提供开发板
-## 团队组成：
-### 电控 3 人 
- @Pony17  @单广志  @杨鑫海 
-### 上位机 2 人
- @DarrenPig  @许子涵涵 
-#### 指导老师：顾偲雯、王树磊
-# 请队员们完全仓库建仓和自主环境搭建的准备：
-> （请使用PC端打开，无线端无法打开下载）
-### 【1.首先通过1-4历程，到键盘控制】MicroROS Robot官网资料：https://www.yahboom.com/study/MicroROS-ESP32 提取码：ypom
-> MicroROS机器人控制板 https://www.yahboom.com/study/MicroROS-Board 提取码：dsaf
-> 树莓派5主板：https://www.yahboom.com/study/raspberry5 提取码：erwp
-> 520编码器减速电机 https://www.yahboom.com/study/MD520 提取码：sdfa
-> ROS扩展板 https://www.yahboom.com/study/ROS-Driver-Board 提取码：o8jw
-> MicroROS-Pi5官网资料：https://www.yahboom.com/study/MicroROS-Pi5 提取码：sfah
-### 【2.要求22日之前看完】ROS官方文档 http://wiki.ros.org/
-> JupyterLab 教程 https://zhuanlan.zhihu.com/p/154515490?utm_medium=social&utm_oi=39962221215744
-> SSH 教程 https://www.ruanyifeng.com/blog/2020/12/ssh-tutorial.html
-> Git 教程 https://liaoxuefeng.com/books/git/introduction/index.html
-##### 比赛规则网址：https://www.smartcar.zone/contents/1132/1109.html
-### 【3.开始开发需要看的主机资料】 i5-4200H工控机学习资料 链接：https://pan.baidu.com/s/1MWCZ9siXVzbo5FwMuML2dw?pwd=po56
-### 【原主机所需的镜像】i5-4200H工控机镜像 链接：https://pan.baidu.com/s/1sVVRGg8MxfxSahkiKd_rSw?pwd=4za5
- altas200i dk A2工控机学习资料 链接：https://pan.baidu.com/s/12WCaEZfCkk4PjTPxQnY2ug?pwd=c49d
- altas200i dk a2工控机镜像 链接：https://pan.baidu.com/s/1r_x2szKCRAl87x26pw_GPA?pwd=u2z6
-| 参考资料  | MicroROS Robot官网资料  |  https://www.yahboom.com/study/MicroROS-ESP32 提取码：ypom | 1.首先通过1-4历程，到键盘控制  |
-|---|---|---|---|
-|  1 | ROS扩展板  |  https://www.yahboom.com/study/ROS-Driver-Board 提取码：o8jw |   |
-|  2 | MicroROS-Pi5官网资料  |  https://www.yahboom.com/study/MicroROS-Pi5 提取码：sfah |   |
-|  3 | i5-4200H工控机学习资料  |  https://pan.baidu.com/s/1MWCZ9siXVzbo5FwMuML2dw?pwd=po56 |   |
-|  4 | i5-4200H工控机镜像  | https://pan.baidu.com/s/1sVVRGg8MxfxSahkiKd_rSw?pwd=4za5  |   |
-|  5 | 树莓派5主板  | https://www.yahboom.com/study/raspberry5 提取码：erwp |   |
+## 四、项目内容与成果
+1. **机器人设计与搭建**：完成 R1 和 R2 两台机器人的设计与组装，包括底盘制作、机械结构搭建、电气系统安装等。
+2. **控制系统开发**：实现 MicroROS 系统的固件烧录、串口通信、虚拟机环境搭建等功能，确保机器人按预定策略运行。
+3. **视觉系统调试**：完成 ROS 拓展板的环境搭建，实现视觉识别算法的优化，提高目标识别的准确性和稳定性。
+4. **无线通信实现**：搭建 Wi-Fi 网络环境，实现对机器人的远程控制和调试。
+5. **性能测试与优化**：对机器人进行全面的性能测试，不断优化机械结构、控制系统和视觉算法，提升整体性能。
+6. **竞赛参与与成绩**：成功参与 2024 全国机器人竞赛 ROBOCON，并在预选赛和正赛中取得优异成绩，获得宝贵的经验和荣誉。
 
+## 五、团队分工与协作
+1. **电控组**：负责机器人电气系统的设计、安装和调试，确保控制系统正常运行。
+2. **视觉组**：专注于视觉识别系统的开发与优化，提高机器人对目标的识别能力和准确性。
+3. **机械组**：承担机器人机械结构的设计与搭建工作，保证结构的稳定性和可靠性。
+4. **上位机组**：负责上位机软件的开发与维护，实现与机器人的通信和控制功能。
 
-## 个人进度
-###  @Pony17  
-#### 9.16 虚拟机连接 虚拟机环境安装完成 esp32拓展板出厂固件烧录成功 
-#### 9.16 esp32 虚拟机UDP，过程无响应，冒烟，更换一块，ROS拓展板 和 esp32拓展板 
-#### 9.17 esp32板出厂固件烧录失败，复位键无反应，后面操作无法进行
-#### 9.17 进行git工具学习
-#### 9.21 虚拟机环境搭建完成，烧录原厂固件，Unbuntu 20.04虚拟机控制udp模式，小车实现速度控制和四驱移动
+## 六、项目意义与价值
+1. **技术创新**：通过运用多种先进技术，推动机器人技术的创新与发展。
+2. **人才培养**：培养学生的创新思维、实践能力和团队协作精神，为机器人领域储备优秀人才。
+3. **产学研合作**：促进高校与企业之间的交流与合作，共同推动机器人技术的应用和产业发展。
+4. **社会影响力**：提升学校和团队在机器人领域的知名度和影响力，为相关学科建设和科研发展奠定基础。
 
-###  @单广志 
-#### 9.16 microROS代理连接成功
+## 七、合作意向
+我们真诚希望与相关企业建立合作关系，共同开展机器人技术研发、项目推广和人才培养等工作，实现互利共赢，推动机器人产业的快速发展。
 
-###  @许子涵涵 
-#### 9.18 更新百度网盘资料链接
-#### 9.23 完成Microros小车键盘控制与虚拟机启动
-#### 9.23 组装打印机    
---
-
-## 维护记录
-#### 240916  @Pony17 更新readme、个人进度
-#### 240916   @单广志 更新个人进度
-#### 240918  @许子涵涵  更新百度网盘资料链接
-#### 240923  @许子涵涵 完成Microros小车键盘控制与虚拟机启动
-#### 240923 @杨鑫海 组装打印机
+以上内容仅供参考，您可以根据实际情况进行调整和完善。
