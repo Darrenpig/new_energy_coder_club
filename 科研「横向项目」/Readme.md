@@ -1,4 +1,16 @@
 git clone https://gitee.com/openeuler/yocto-embedded-tools.git
+
+| 序号 | 参考仓库                               | 网址                                                                                               |
+|----|------------------------------------|--------------------------------------------------------------------------------------------------|
+| 1  | eulercar_controller                | https://gitee.com/HiEuler/eulercar_controller                                                    |
+| 2  | SolarA2_1.1.0.1                    | https://gitee.com/Solarec/open_solarec#application                                               |
+| 3  | Vm-Ubuntu22.04-ROSSDK.md           | https://gitee.com/HiEuler/doc/blob/master/Vm-Ubuntu22.04-ROSSDK.md                               |
+| 4  | 基于openEuler Embedded的星闪开源应用案例开发    | https://gitee.com/openeuler/yocto-embedded-tools/tree/hieuler/hi-sle                             |
+| 5  | hi-sle/Autodesk_Fusion_360_Designs | https://gitee.com/openeuler/yocto-embedded-tools/tree/hieuler/hi-sle/Autodesk_Fusion_360_Designs |
+| 6  |hi-sle/Bill_of_Materials/material_description.txt | https://gitee.com/openeuler/yocto-embedded-tools/blob/hieuler/hi-sle/Bill_of_Materials/material_description.txt |
+| 7  | ws63_ws73_ros2.c | https://gitee.com/openeuler/yocto-embedded-tools/blob/hieuler/hi-sle/EulerCar_Host_Computer_EulerPi_Source_Code/ws63_ws73_ros2.c |
+| 8  | fbb_ws63开发指南 | https://gitee.com/wu-luobin/fbb_ws63#https://gitee.com/link?target=https%3A%2F%2Fitem.taobao.com%2Fitem.htm%3Fid%3D892481769813 |
+
 ---
 @吴洛斌
 ---
