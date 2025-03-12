@@ -9,7 +9,7 @@ git clone https://gitee.com/openeuler/yocto-embedded-tools.git
 
 |      序号      | 硬件资料                                                     | 介绍          |
 | :------------: | ------------------------------------------------------------ | ------------- |
-| 1  | [购买链接](https://www.ickey.cn/detail/1003001013187550/Q353333N1100.html) | ws63解决方案  |
+| 1 | [购买链接](https://www.ickey.cn/detail/1003001013187550/Q353333N1100.html) | ws63解决方案  |
 | 2 | [购买链接](https://www.ickey.cn/detail/1003001013187551/Q353333N1100E.html) | ws63E解决方案 |
 | 3 | [模组购买链接](https://gitee.com/link?target=https%3A%2F%2Fitem.taobao.com%2Fitem.htm%3Fid%3D821194904380) | 星闪WiFi6模组，邮票孔，无天线 |
 | 4 | [模组购买链接](https://gitee.com/link?target=https%3A%2F%2Fitem.taobao.com%2Fitem.htm%3Fid%3D823544936579) | 星闪WiFi6模组，12：板载天线，12E：外置天线 |
@@ -19,9 +19,9 @@ git clone https://gitee.com/openeuler/yocto-embedded-tools.git
 
 |                          开发板名称                          | 硬件资料                                                     | 软件资料         | 购买链接                                                     | 开发板介绍                                                   |
 | :----------------------------------------------------------: | ------------------------------------------------------------ | :--------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| HiHope_NearLink_DK3863E_V03 | [扩展板硬件资料](https://gitee.com/HiSpark/fbb_ws63/tree/master/docs/hardware/HiHope_NearLink_DK_WS63E_V03) | 参考示例教程章节 | [开发板购买链接](https://main.m.taobao.com/security-h5-detail/home?id=808369265492&spm=a2141.7631565.tbshopmod-guess_your_like.808369265492&scm=1007.18373.317678.0&pvid=fdb854bd-99a3-4b65-955b-392bdf0c083e&fromNormal=true) | 是一款高度集成的2.4GHz Wi-Fi 6 星闪多模开发板，支持Liteos、OpenHarmony轻量系统 |
-| BearPi-Pico_H3863 | [扩展板硬件资料](https://gitee.com/HiSpark/fbb_ws63/tree/master/docs/hardware/BearPi-Pico_H3863) | 参考示例教程章节 | [开发板购买链接](https://item.taobao.com/item.htm?id=821386760379) | 是一款高度集成的2.4GHz Wi-Fi 6 星闪多模开发板，具有灵活的数字接口，集成高性能 32bit 微处理器（MCU），硬件安全引擎以及丰富的外设接口，外设接口包括 SPI、UART、I2C、PWM、GPIO，支持 6 路 13bit 分辨率 ADC，内置 SRAM 和合封 Flash，并支持在 Flash 上运行程序支持Liteos、OpenHarmony轻量系统 |
-|  | [扩展板硬件资料](https://gitee.com/HiSpark/fbb_ws63/blob/master/vendor/Hqyj_Ws63/doc/FS-WS63-%E5%8E%9F%E7%90%86%E5%9B%BEV2.pdf) | 参考示例教程章节 | [开发板购买链接](https://item.taobao.com/item.htm?id=892481769813) | 专为学习者设计的WS63鸿蒙星闪开发板，支持OpenHarmony，Liteos，多模通信（WiFi/星闪/蓝牙），丰富的板载资源、项目拓展模块与学习资料，可广泛应用于个人学习、高校教学、学生毕设、创新竞赛等 |
+| HiHope_NearLink_DK3863E_V03 ![输入图片说明](https://gitee.com/wu-luobin/fbb_ws63/raw/master/docs/pic/readme/image-20240809164437807.png)| [扩展板硬件资料](https://gitee.com/HiSpark/fbb_ws63/tree/master/docs/hardware/HiHope_NearLink_DK_WS63E_V03) | 参考示例教程章节 | [开发板购买链接](https://main.m.taobao.com/security-h5-detail/home?id=808369265492&spm=a2141.7631565.tbshopmod-guess_your_like.808369265492&scm=1007.18373.317678.0&pvid=fdb854bd-99a3-4b65-955b-392bdf0c083e&fromNormal=true) | 是一款高度集成的2.4GHz Wi-Fi 6 星闪多模开发板，支持Liteos、OpenHarmony轻量系统 |
+| BearPi-Pico_H3863![输入图片说明](https://gitee.com/wu-luobin/fbb_ws63/raw/master/docs/pic/BearPi-Pico_H3863/bearpi_pico_h3863.png) | [扩展板硬件资料](https://gitee.com/HiSpark/fbb_ws63/tree/master/docs/hardware/BearPi-Pico_H3863) | 参考示例教程章节 | [开发板购买链接](https://item.taobao.com/item.htm?id=821386760379) | 是一款高度集成的2.4GHz Wi-Fi 6 星闪多模开发板，具有灵活的数字接口，集成高性能 32bit 微处理器（MCU），硬件安全引擎以及丰富的外设接口，外设接口包括 SPI、UART、I2C、PWM、GPIO，支持 6 路 13bit 分辨率 ADC，内置 SRAM 和合封 Flash，并支持在 Flash 上运行程序支持Liteos、OpenHarmony轻量系统 |
+|  ![输入图片说明](https://gitee.com/wu-luobin/fbb_ws63/raw/master/vendor/Hqyj_Ws63/doc/HQYJ_WS63.png)| [扩展板硬件资料](https://gitee.com/HiSpark/fbb_ws63/blob/master/vendor/Hqyj_Ws63/doc/FS-WS63-%E5%8E%9F%E7%90%86%E5%9B%BEV2.pdf) | 参考示例教程章节 | [开发板购买链接](https://item.taobao.com/item.htm?id=892481769813) | 专为学习者设计的WS63鸿蒙星闪开发板，支持OpenHarmony，Liteos，多模通信（WiFi/星闪/蓝牙），丰富的板载资源、项目拓展模块与学习资料，可广泛应用于个人学习、高校教学、学生毕设、创新竞赛等 |
 
 ## 目录介绍
 
