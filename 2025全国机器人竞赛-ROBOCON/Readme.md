@@ -11,9 +11,9 @@
 ## 技术栈
 | 技术领域 | 技术细节 |
 | --- | --- |
-| 机械设计 | Fusion 360、MayCAD |
-| 电子控制 | STM32、ESP32 |
-| 编程语言 | C/C++、Python |
+| 机械设计 | Fusion 360、MayCAD solidworks |
+| 电子控制 | STM32、ESP32 MDK ARM|
+| 编程语言 | C/C++、Python Shell 、 Bitbake|
 | 开发环境 | VSCode、Keil |
 
 ## 安装指南
