@@ -143,9 +143,6 @@ Use this space to list resources you find helpful and would like to give credit 
 Thank you sincerely to the following partners and developers. It is your outstanding contributions that have endowed the project with a soul-like texture.
 
 ---
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ## 项目成员
 |序号 |赛季 |班级 |职位 | 名称  | 技能 |
 |---|---|---|---|---|---|
@@ -170,3 +167,8 @@ Thank you sincerely to the following partners and developers. It is your outstan
 |19 | 25  | 23光电二   | 硬件组组长    |单广志  |<img src="https://img.shields.io/badge/license-CIT-bule" alt="License">|
 |20 | 25  | 23机二     | 机械组组长      |刘锦和  |<img src="https://img.shields.io/badge/license-CIT-bule" alt="License">|
 |21 | 25  | 23机三     | 成员            |陈恺鑫  |<img src="https://img.shields.io/badge/license-CIT-bule" alt="License">|
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
