@@ -99,9 +99,9 @@
 <!-- CONTACT -->
 ## 📬 **Contact 联系我们**  
 想和我们快速搭上线？看这里！  
- - **数据网关开发： @NANA ,WEIXIN:Hollic_sy
- - **项管:  @DarrenPig ,WEIXIN:Pei-Pei-Zhu-Pig
- - **运营：   @xiux ，WEIXIN:x2789954149  
+ - **数据网关开发：**  @NANA ,WEIXIN:Hollic_sy
+ - **项管:**   @DarrenPig ,WEIXIN:Pei-Pei-Zhu-Pig
+ - **运营：**    @xiux ，WEIXIN:x2789954149  
  - **💡 建议 & 合作**：欢迎来 [Gitee Issues 区](https://gitee.com/darrenpig/new_energy_coder_club/issues ) 提需求！无论是项目合作还是功能建议，我们都会仔细阅读并标记为 `讨论中`/`已采纳`   
  - **🌐 社交阵地**：  
   - **Gitee 动态**：[项目主页](https://gitee.com/darrenpig/new_energy_coder_club ) 实时更新代码与公告  
