@@ -50,15 +50,15 @@
 <section id="embedded"></section>
 
 ## 3.1 Embedded - 嵌入式
-* 电控基础：web(https://docs.m2stud.io/ee/arduino/6-Basic-Control/)
-* Linux基础：web(https://docs.m2stud.io/cs/linux/setup/)
+* 电控基础：[web](https://docs.m2stud.io/ee/arduino/6-Basic-Control/)
+* Linux基础：[web](https://docs.m2stud.io/cs/linux/setup/)
 * 51单片机：[BiliBili](https://www.bilibili.com/video/BV1Mb411e7re/), 经典江科大自动协出品
-* STM32学习：[BiliBili1](https://www.bilibili.com/video/BV12v4y1y7uV/)更偏应用，[BiliBili2](https://www.bilibili.com/video/BV1th411z7sn/), 经典江科大自动协出品                 
+* STM32学习：[BiliBili](https://www.bilibili.com/video/BV12v4y1y7uV/)更偏应用，[BiliBili](https://www.bilibili.com/video/BV1th411z7sn/), 经典江科大自动协出品                 
 
 <section id="control"></section>
 
 ## 3.2 Control - 控制学
-* ROS学习：[BiliBili1](https://www.bilibili.com/video/BV1gr4y1Q7j5/)，[BiliBili2](https://www.bilibili.com/video/BV1zt411G7Vn/)
+* ROS学习：[BiliBili](https://www.bilibili.com/video/BV1gr4y1Q7j5/)鱼香ROS，[BiliBili](https://www.bilibili.com/video/BV1zt411G7Vn/)古月居
 * ROS基础:
   * 具身智能ROS1基础: [website](http://www.autolabor.com.cn/book/ROSTutorials/)
   * 具身智能ROS2基础: [website](https://zhangzhiwei-zzw.github.io/ROS2%E5%AD%A6%E4%B9%A0/ROS2/)
@@ -66,3 +66,7 @@
 <section id="software"></section>
 
 # 4. Software - 软件
+
+
+
+> 开发进度：
