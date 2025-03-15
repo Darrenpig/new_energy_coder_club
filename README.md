@@ -155,7 +155,7 @@ Thank you sincerely to the following partners and developers. It is your outstan
 | 2 | 24  | 22 能源一  | 电控/上位机     | 殷统创 |<img src="https://img.shields.io/badge/填写区-bule" alt="License">|   
 | 3 | 24  | 22 财一    | 财务总监        | 张若璐  |<img src="https://img.shields.io/badge/填写区-bule" alt="License">|
 | 4 | 24  | 23 光电二  | 仓库维护/上位机  |  许子涵 |<img src="https://img.shields.io/badge/填写区-bule" alt="License">|
-| 5 | 25  | 24 新能源  | 赛期管理        | 卢王淳  |<img src="https://img.shields.io/badge/填写区-bule" alt="License">|
+| 5 | 25  | 24 新能源  | 赛期管理        | 卢王淳  |<img src="https://img.shields.io/badge/项目管理-bule" alt="License"><img src="https://img.shields.io/badge/机械-bule" alt="License"><img src="https://img.shields.io/badge/上位机-bule" alt="License">|
 | 6 | 25  | 24 财一    | 财务组长        | 李晨 |<img src="https://img.shields.io/badge/填写区-bule" alt="License">|
 | 7 | 25  | 24 航4     | 例会主持组长    | 李一楠 |<img src="https://img.shields.io/badge/填写区-bule" alt="License">|
 | 8 | 25  | 24汉二     | 赛季筹备/宣传  | 殷子豪  |<img src="https://img.shields.io/badge/填写区-bule" alt="License">|
