@@ -134,8 +134,8 @@ Use this space to list resources you find helpful and would like to give credit 
 我们衷心感谢那些来自萝马车圈、艾迈斯科技、深圳米尔电子、openEuler社区、易百纳社区、Rt-theard社区、NXP社区、华为云社区的合作伙伴，他们的软硬件支持，纪念品、连接器、工业主板、开发板和服务器代金券......为项目的进行提供了坚实的支持。
 
 ---
-## 25.03.16 自动化流体监测站 
-
+## 25.03.16 自动化流体监测站 合作开发new_energy_coder_club 苏州项目
+ @GeyuanLi  @DarrenPig  @殷子豪 
 <div align="center">  </p>
 
 
