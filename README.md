@@ -91,7 +91,7 @@
 [![Project](https://img.shields.io/badge/project-new_energy_coder_club-violet)](https://github.com/users/Darrenpig/projects/3)
 
 ### Project Profile 项目简介
-![2025Roadmap](Image/Member_Roadmap.png)![输入图片说明](Image/Roadmap.png)
+![2025Roadmap](Image/Roadmap.png)
 ![2025年仓库团队组建](Image/NEC25RC_start-up_team.JPG)
                       
 ---
