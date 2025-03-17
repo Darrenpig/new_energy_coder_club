@@ -9,6 +9,27 @@ git clone https://gitee.com/openeuler/yocto-embedded-tools.git
 
 
 
+下面是我们的使用手册和下载地址：
+
+每个人都是独一无二的工程师
+
+感谢亚博智能
+
+| 内容                                                         | 压缩密码 | 内容                                                         | 压缩密码 |
+| ------------------------------------------------------------ | -------- | ------------------------------------------------------------ | -------- |
+| [ROS机器人控制板](https://www.yahboom.com/study/ROS-Driver-Board) | o8jw     | [MicroROS机器人控制板](https://www.yahboom.com/study/MicroROS-Board) | dsaf     |
+| [ROS专用USB遥控手柄](https://www.yahboom.com/study/USB-PS2)  | qscm     | [520编码器减速电机](https://www.yahboom.com/study/MD520)     | sdfa     |
+| [MicroROS-Pi5](https://www.yahboom.com/study/MicroROS-Pi5)   | sfah     | [MicroROS(ESP32)Robot](https://www.yahboom.com/study/MicroROS-ESP32) | ypom     |
+| [树莓派5](https://www.yahboom.com/study/raspberry5)          | erwp     |                                                              |          |
+
+English
+| 内容                                                         | 压缩密码 | 内容                                                         | 压缩密码 |
+| ------------------------------------------------------------ | -------- | ------------------------------------------------------------ | -------- |
+| [ROS-Driver-Board](https://www.yahboom.com/study/ROS-Driver-Board) | o8jw     | [MicroROS-Board](https://www.yahboom.com/study/MicroROS-Board) | dsaf     |
+| [USB-PS2](https://www.yahboom.com/study/USB-PS2)             | qscm     | [MD520](https://www.yahboom.com/study/MD520)                 | sdfa     |
+| [MicroROS-Pi5](https://www.yahboom.com/study/MicroROS-Pi5)   | sfah     | [MicroROS-ESP32](https://www.yahboom.com/study/MicroROS-ESP32) | ypom     |
+| [Raspberry5](https://www.yahboom.com/study/raspberry5)       | erwp     |                                                              |          |
+
 
 
 # fbb_ws63开发指南
