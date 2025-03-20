@@ -2,6 +2,8 @@
 ## 01易百纳星闪手柄
 ## 02流体工作站 20250319
 
+# 主要定位上述项目
+## 下面为仓库数字资料/开源引用源
 
 git clone https://gitee.com/openeuler/yocto-embedded-tools.git
 | 序号 |    参考仓库                  |       网址                                                                                                                                       |
