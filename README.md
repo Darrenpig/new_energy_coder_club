@@ -185,3 +185,7 @@ Thank you sincerely to the following partners and developers. It is your outstan
 | 5 | yy2112248888         | Designer  | 三维建模        | @王璐瑶      |<img src="https://img.shields.io/badge/硬件小组-green" alt="License">|
 | 6 | zgj16788             | Designer  | 三维建模        | @造梦暖屋    |<img src="https://img.shields.io/badge/MOD人形-green" alt="License">|
 | 7 | richellelee_77       | Designer  | 产品设计        | @richelle   |<img src="https://img.shields.io/badge/maintainer-fedcba" alt="License">|    
+
+## 最近案例：Duma小人形机器人Demo
+![Duma](Image/Duma_image.png)
+
