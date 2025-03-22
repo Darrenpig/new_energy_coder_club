@@ -153,7 +153,7 @@ Thank you sincerely to the following partners and developers. It is your outstan
 | 2 | 24  | 22 能源一  | 电控/上位机     | 殷统创 |<img src="https://img.shields.io/badge/上位机Qt-8A2BE2" alt="License">|   
 | 3 | 24  | 22 财一    | 财务总监        | 张若璐  |<img src="https://img.shields.io/badge/财务分析-ddff9a" alt="License">|
 | 4 | 24  | 23 光电二  | 仓库维护/上位机  |  许子涵 |<img src="https://img.shields.io/badge/通讯Pre-blue" alt="License">|
-| 5 | 25  | 24 新能源  | 赛期管理        | 卢王淳  |<img src="https://img.shields.io/badge/项管-blue" alt="License"><img src="https://img.shields.io/badge/机械-blue" alt="License"><img src="https://img.shields.io/badge/上位机-8A2BE2" alt="License">|
+| 5 | 25  | 24 新能源  | 赛期管理        | 卢王淳  |<img src="https://img.shields.io/badge/项管-blue" alt="License"><img src="https://img.shields.io/badge/机械-172a88" alt="License"><img src="https://img.shields.io/badge/上位机-8A2BE2" alt="License">|
 | 6 | 25  | 24 财一    | 财务组长        | 李晨 |<img src="https://img.shields.io/badge/财务-ddff9a" alt="License">|
 | 7 | 25  | 24 航4     | 例会主持组长    | 李一楠 |<img src="https://img.shields.io/badge/运营主持-bule" alt="License">|
 | 8 | 25  | 24汉二     | 赛季筹备/宣传  | 殷子豪  |<img src="https://img.shields.io/badge/汉语言-bule" alt="License">|
@@ -166,9 +166,9 @@ Thank you sincerely to the following partners and developers. It is your outstan
 |15 | 25  | 24大数据二  | 采购          | 郑绍恺 |<img src="https://img.shields.io/badge/上位机-8A2BE2" alt="License">|
 |16 | 25  | 24数学二   | 成员           | 王子楚 |<img src="https://img.shields.io/badge/算法-blue" alt="License">|
 |17 | 25  | 24车辆二   | 成员          | 朱迪 |<img src="https://img.shields.io/badge/电控-blue" alt="License">|
-|18 | 25  | 24视传     | 成员          | 张岩皓 |<img src="https://img.shields.io/badge/设计-blue" alt="License">|
+|18 | 25  | 24视传     | 成员          | 张岩皓 |<img src="https://img.shields.io/badge/设计_队服-blue" alt="License">|
 |19 | 25  | 23光电二   | 硬件组组长    |单广志  |<img src="https://img.shields.io/badge/电控_上位机-8A2BE2" alt="License">|
-|20 | 25  | 23机二     | 机械组组长      |刘锦和  |<img src="https://img.shields.io/badge/机械-blue" alt="License">|
+|20 | 25  | 23机二     | 机械组组长      |刘锦和  |<img src="https://img.shields.io/badge/机械_设计-172a88" alt="License">|
 |21 | 25  | 23机三     | 成员            |陈恺鑫  |<img src="https://img.shields.io/badge/机械-172a88" alt="License">|
 
 
