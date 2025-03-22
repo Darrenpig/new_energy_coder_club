@@ -75,10 +75,10 @@
 ## About The Project 关于项目
 #### **「DarrenPig新能源开发者社区」** 是一个以 **技术共享与实践成长为核心** 的开源协作平台，适合以下人群加入：  
 
-1. **竞赛科研小白**：提供 **全国大学生机器人大赛** 全周期备赛资源，包括FRC图纸、硬件设计模板、嵌入式开发案例，助力从理论到落地的完整闭环。  
-2. **新能源与机器人爱好者**：聚焦新能源技术、IoT与自动化控制，结合openEuler等开源生态，探索智能硬件与可持续能源的交叉创新。  
-3. **全栈开发者训练营**：通过实际项目（如机器人BSP开发、MayCAD设计）积累经验，社区成员协作解决真实问题，打造可复用的技术模块。  
-4. **开源贡献者孵化地**：参与社区文档维护、代码提交，与40+开发者共同成长，你的每一次都可能成为他人眼中的「救命稻草」。  
+1. **竞赛科研小白**：提供 **全国大学生机器人大赛** 全周期备赛资源ROBOCON，包括FRC图纸、硬件设计模板、嵌入式开发案例，助力从理论到落地的完整闭环。  
+2. **新能源与机器人爱好者**：聚焦新能源技术、IOT与自动化控制，结合openEuler等开源生态，探索智能硬件与可持续能源的交叉创新。  
+3. **全栈开发者训练营**：通过实际项目（如机器人BSP开发、MayCAD设计）积累经验，社区成员协作解决真实问题，打造可复用的技术案例。  
+4. **开源贡献者孵化地**：参与社区文档维护、代码提交，与40+开发者共同成长，你的每一次都可能成为他人眼中的「闪光之处」。  
 ### 一句话灵魂总结：  
 
 这里是 **「技术宅的游乐场」** + **「竞赛党的弹药库」**，用开源精神点燃新能源与机器人的未来！🚀  
@@ -91,6 +91,17 @@
 [![Project](https://img.shields.io/badge/project-new_energy_coder_club-violet)](https://github.com/users/Darrenpig/projects/3)
 
 ### Project Profile 项目简介
+目前是一个开源项目，想要做 1W 以内的人形机器人，同时兼顾高校开发者的竞赛需求，设计师们的落地项目实践，以及大家对好玩技术的追求。
+我们将在2 个月内快速开发人形机器人 2+ 场景，并且通过广泛的横向项目来维护贡献这个项目。希望贡献项目的经历可以成为大家以后美好的回忆。——DarrenPig
+分支有以下的组成：
+# 竞赛（3+ing） + 科研（IEEE 项目和专业课设） + 横向项目（委托外包和合作） + 开源运营（机器人社群和开源社区）
+- Internet_of_Things_Design_Competition 物联网项目
+- Electronic_design_competition 电子设计项目
+- Energy_conservation_and_emission_reduction_competition 新能源项目
+- main（案例 Demo 集中展示的分支）商业项目
+
+
+### Roadmap 项目探索地图
 ![2025Roadmap](Image/Roadmap.png)
 ![2025年仓库团队组建](Image/NEC25RC_start-up_team.JPG)
                       
@@ -149,11 +160,11 @@ Thank you sincerely to the following partners and developers. It is your outstan
 
 |序号 |赛季 |班级 |职位 | 名称  | 技能 |
 |---|---|---|---|---|---|
-| 1 | 24  | 22 能源二   | 项目管理         | 朱佩韦     |<img src="https://img.shields.io/badge/嵌入式BSP-blue" alt="License"><img src="https://img.shields.io/badge/maintainer-fedcba" alt="License">|
+| 1 | 24  | 22 能源二   | 项目管理         | 朱佩韦     |<img src="https://img.shields.io/badge/嵌入式BSP-blue" alt="License"> <img src="https://img.shields.io/badge/maintainer-fedcba" alt="License">|
 | 2 | 24  | 22 能源一   | 电控/上位机       | 殷统创     |<img src="https://img.shields.io/badge/上位机Qt-blue" alt="License">|   
 | 3 | 24  | 22 财一     | 财务总监         | 张若璐     |<img src="https://img.shields.io/badge/财务分析-ddff9a" alt="License">|
 | 4 | 24  | 23 光电二   | 仓库维护/上位机    | 许子涵    |<img src="https://img.shields.io/badge/通讯Pre-blue" alt="License">|
-| 5 | 25  | 24 新能源   | 赛期管理          | 卢王淳    |<img src="https://img.shields.io/badge/项管-blue" alt="License"><img src="https://img.shields.io/badge/机械-172a88" alt="License"><img src="https://img.shields.io/badge/上位机-8A2BE2" alt="License">|
+| 5 | 25  | 24 新能源   | 赛期管理          | 卢王淳    |<img src="https://img.shields.io/badge/项管-blue" alt="License"> <img src="https://img.shields.io/badge/机械-172a88" alt="License"> <img src="https://img.shields.io/badge/上位机-8A2BE2" alt="License">|
 | 6 | 25  | 24 财一     | 财务组长          | 李晨      |<img src="https://img.shields.io/badge/财务-ddff9a" alt="License">|
 | 7 | 25  | 24 航4      | 运营组长 例会主持  | 李一楠    |<img src="https://img.shields.io/badge/运营主持-fedcba" alt="License">|
 | 8 | 25  | 24汉二      | 赛季筹备/宣传      | 殷子豪    |<img src="https://img.shields.io/badge/汉语言-bule" alt="License">|
@@ -162,7 +173,7 @@ Thank you sincerely to the following partners and developers. It is your outstan
 |11 | 25  | 23光电二    | 硬件组组长         | 杨鑫海    |<img src="https://img.shields.io/badge/硬件-bule" alt="License">|
 |12 | 25  | 23光电二    | 上位机组组长       | 崔正阳    |<img src="https://img.shields.io/badge/上位机_网关-8A2BE2" alt="License">|
 |13 | 25  | 22机二      | 机械组组长        | 周鹏程    |<img src="https://img.shields.io/badge/机械-172a88" alt="License">|
-|14 | 25  | 22信二      | maintainer      | 许珑译    |<img src="https://img.shields.io/badge/全栈硬件-blue" alt="License"><img src="https://img.shields.io/badge/maintainer-fedcba" alt="License">|
+|14 | 25  | 22信二      | maintainer      | 许珑译    |<img src="https://img.shields.io/badge/全栈硬件-blue" alt="License"> <img src="https://img.shields.io/badge/maintainer-fedcba" alt="License">|
 |15 | 25  | 24大数据二   | 采购组长         | 郑绍恺    |<img src="https://img.shields.io/badge/上位机-8A2BE2" alt="License">|
 |16 | 25  | 24数学二    | 成员             | 王子楚    |<img src="https://img.shields.io/badge/算法-blue" alt="License">|
 |17 | 25  | 24车辆二    | 成员             | 朱迪      |<img src="https://img.shields.io/badge/电控-blue" alt="License">|
