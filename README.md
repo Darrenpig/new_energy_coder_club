@@ -94,7 +94,7 @@
 目前是一个开源项目，想要做 1W 以内的人形机器人，同时兼顾高校开发者的竞赛需求，设计师们的落地项目实践，以及大家对好玩技术的追求。
 我们将在2 个月内快速开发人形机器人 2+ 场景，并且通过广泛的横向项目来维护贡献这个项目。希望贡献项目的经历可以成为大家以后美好的回忆。——DarrenPig
 分支有以下的组成：
-# 竞赛（3+ing） + 科研（IEEE 项目和专业课设） + 横向项目（委托外包和合作） + 开源运营（机器人社群和开源社区）
+### 竞赛（3+ing） + 科研（IEEE 项目和专业课设） + 横向项目（委托外包和合作） + 开源运营（机器人社群和开源社区）
 - Internet_of_Things_Design_Competition 物联网项目
 - Electronic_design_competition 电子设计项目
 - Energy_conservation_and_emission_reduction_competition 新能源项目
