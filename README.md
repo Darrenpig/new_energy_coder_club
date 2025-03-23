@@ -147,6 +147,16 @@ Use this space to list resources you find helpful and would like to give credit 
 ---
 ## 25.03.16 自动化流体监测站 合作开发new_energy_coder_club 苏州项目
  @GeyuanLi  @DarrenPig  @殷子豪 
+ |序号 |ID |负责 |职位 | 名称  | 技能 |
+|---|---|---|---|---|---|
+|1 | @殷统创    |HMI界面   |负责人    | Qt绘图   |
+|2 | @DarrenPig |需求对接  |负责人    | 方案提供   |
+|3 | @杨鑫海    |硬件安装   |负责人   | 文档分析   |
+|4 | @李一楠    |开发合规   |负责人   | 运营合规   |
+|5 | @卞乐凌    |24电三     |硬件成员 | 架构文档   |
+|6 | @李硕      |24电四     |硬件成员 | 理线扎带   |
+|7 | @单广志    |仿真控制    |负责人  | 指令     |
+
 <div align="center">  </p>
 
 
