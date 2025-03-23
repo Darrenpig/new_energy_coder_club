@@ -161,7 +161,7 @@ Thank you sincerely to the following partners and developers. It is your outstan
 |序号 |赛季 |班级 |职位 | 名称  | 技能 |
 |---|---|---|---|---|---|
 | 1 | 24  | 22 能源二   | 项目管理         | 朱佩韦     |<img src="https://img.shields.io/badge/嵌入式BSP-blue" alt="License"> <img src="https://img.shields.io/badge/maintainer-fedcba" alt="License">|
-| 2 | 24  | 22 能源一   | 电控/上位机       | 殷统创     |<img src="https://img.shields.io/badge/上位机Qt-blue" alt="License">|   
+| 2 | 24  | 22 能源一   | 电控/上位机       | 殷统创     |<img src="https://img.shields.io/badge/上位机Qt-blue" alt="License"> <img src="https://img.shields.io/badge/maintainer-fedcba" alt="License">|   
 | 3 | 24  | 22 财一     | 财务总监         | 张若璐     |<img src="https://img.shields.io/badge/财务分析-ddff9a" alt="License">|
 | 4 | 24  | 23 光电二   | 仓库维护/上位机    | 许子涵    |<img src="https://img.shields.io/badge/通讯Pre-blue" alt="License">|
 | 5 | 25  | 24 新能源   | 赛期管理          | 卢王淳    |<img src="https://img.shields.io/badge/项管-blue" alt="License"> <img src="https://img.shields.io/badge/机械-172a88" alt="License"> <img src="https://img.shields.io/badge/上位机-8A2BE2" alt="License">|
