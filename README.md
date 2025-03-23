@@ -202,15 +202,15 @@ Thank you sincerely to the following partners and developers. It is your outstan
 ## 工业设计SIG
 |序号 |Wechat ID | 方向 |职位 | 名称  | 技能 |
 |---|---|---|---|---|---|
-| 1 | wwwwlR6              | Designer  | 需求对接        | @皎月        |<img src="https://img.shields.io/badge/开源运营-blue" alt="License">|
+| 1 | wwwwlR6              | Wachter  | 需求对接        | @皎月        |<img src="https://img.shields.io/badge/开源运营-blue" alt="License">|
 | 2 | wyj102194728         | Designer  | **工业设计**    | @ikkOoOo    |<img src="https://img.shields.io/badge/模型渲染-fedcba" alt="License">|   
 | 3 | wxid_h42wf4z6rjek22  | Designer  | 场景设计        | @陈思家     |<img src="https://img.shields.io/badge/家庭场景-green" alt="License">|
 | 4 | ryf456814327         | Sponsor   | 工业设计        | @洪都拉斯    |<img src="https://img.shields.io/badge/人形小组-green" alt="License">|
 | 5 | yy2112248888         | Designer  | 三维建模        | @王璐瑶      |<img src="https://img.shields.io/badge/硬件小组-green" alt="License">|
-| 6 | zgj16788             | Designer  | 三维建模        | @造梦暖屋    |<img src="https://img.shields.io/badge/MOD人形-green" alt="License">|
+| 6 | zgj16788             | Wachter  | 三维建模        | @造梦暖屋    |<img src="https://img.shields.io/badge/MOD人形-green" alt="License">|
 | 7 | richellelee_77       | Designer  | 产品设计        | @richelle   |<img src="https://img.shields.io/badge/maintainer-fedcba" alt="License">|  
-| 8 | pky123678            | Developer | 机械设计        | @彭柯尹     |<img src="https://img.shields.io/badge/机械小组-fedcba" alt="License">|    
-| 9 | WULA114514_          | Designer  | 数字设计        | @Ranjok   |<img src="https://img.shields.io/badge/maintainer-fedcba" alt="License">|  
+| 8 | pky123678            | Developer | 机械设计        | @彭柯尹      |<img src="https://img.shields.io/badge/Mechanic-fedcba" alt="License">|    
+| 9 | WULA114514_          | Wachter  | 数字设计        | @Ranjok     |<img src="https://img.shields.io/badge/maintainer-fedcba" alt="License">|  
 
 ## 最近案例：Duma小人形机器人Demo
 ![Duma](Image/Duma_image.png)
