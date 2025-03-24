@@ -159,6 +159,7 @@ Use this space to list resources you find helpful and would like to give credit 
 |7 | @单广志    |仿真控制   |负责人  | 指令仿真     |
 |8 | @郑钦文    |24 机二    |负责人  | MayCAD型材  |
 |9 | @田旺旺    |24 信四    |硬件成员  | 上位机    | 
+|10| @孙如婕    |24 机一   |负责人  | 机械设计   | 
 
 <div align="center">  </p>
 
