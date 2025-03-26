@@ -192,7 +192,7 @@ Thank you sincerely to the following partners and developers. It is your outstan
 |16 | 25  | 24数学二    | 成员             | 王子楚    |<img src="https://img.shields.io/badge/算法-blue" alt="License">|
 |17 | 25  | 24车辆二    | 成员             | 朱迪      |<img src="https://img.shields.io/badge/电控-blue" alt="License">|
 |18 | 25  | 24视传      | 成员             | 张岩皓    |<img src="https://img.shields.io/badge/设计_队服-blue" alt="License">|
-|19 | 25  | 23光电二    | 硬件组组长        | 单广志    |<img src="https://img.shields.io/badge/电控_上位机-fedcba" alt="License">|
+|19 | 25  | 23光电二    | 硬件组组长        | 单广志    |<img src="https://img.shields.io/badge/嵌入式-fedcba" alt="License"> <img src="https://img.shields.io/badge/电控-blue" alt="License"> <img src="https://img.shields.io/badge/上位机-8A2BE2" alt="License">|
 |20 | 25  | 23机二      | 机械组组长        | 刘锦和    |<img src="https://img.shields.io/badge/机械_设计-fedcba" alt="License">|
 |21 | 25  | 23机三      | 成员             | 陈恺鑫    |<img src="https://img.shields.io/badge/机械-172a88" alt="License">|
 
