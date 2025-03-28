@@ -212,7 +212,7 @@ Thank you sincerely to the following partners and developers. It is your outstan
 | 7 | richellelee_77       | Designer  | 产品设计        | @richelle   |<img src="https://img.shields.io/badge/maintainer-fedcba" alt="License">|  
 | 8 | pky123678            | Developer | 机械设计        | @彭柯尹      |<img src="https://img.shields.io/badge/Mechanic-fedcba" alt="License">|    
 | 9 | WULA114514_          | Wachter  | 数字设计        | @Ranjok     |<img src="https://img.shields.io/badge/maintainer-fedcba" alt="License">|  
-
+|10 | Lazymieie-ness            | Developer | 机械设计        | @孙如婕      |<img src="https://img.shields.io/badge/Mechanic-fedcba" alt="License">|
 ## 最近案例：Duma小人形机器人Demo
 ![Duma](Image/Duma_image.png)
 
