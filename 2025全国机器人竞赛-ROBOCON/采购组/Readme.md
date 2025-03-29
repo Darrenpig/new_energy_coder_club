@@ -24,3 +24,7 @@
 | 6cm      | 2    |
 
 ![铝材示意图](attachment://aluminum_sketch.jpg)
+
+# 资金花费汇总
+| 物品 | 价格 |
+|-----|------|
