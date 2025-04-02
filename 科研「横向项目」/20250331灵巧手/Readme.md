@@ -7,7 +7,7 @@
 
 ## 一、项目背景与目标
 人形机器人灵巧手是机器人领域的关键技术之一，其发展直接决定了机器人在复杂环境中的操作能力和应用范围。本项目旨在开发一款高性价比、高灵活性的灵巧手，满足人形机器人在工业、医疗、家庭服务等领域的应用需求。
-
+![输入图片说明](https://ww2.mathworks.cn/help/examples/robotics/win64/DesignManipulatorPathsUsingIKDesignerExample_03.png)
 ## 二、团队搭建
 ### 1. 核心团队成员
 - **项目经理**：负责项目整体规划、进度管理和资源协调。
