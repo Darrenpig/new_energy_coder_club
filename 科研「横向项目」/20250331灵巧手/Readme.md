@@ -2,7 +2,7 @@
 ![UR机器人](../image/UR5%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92.gif)
 >Fig 1. 250403 UR机器人仿真路径规划
 以下是优化后的项目基线与预算清单，总成本控制在1万元以内：
-
+https://www.universal-robots.com/products/
 # 人形机器人灵巧手项目开发基线与预算清单
 
 ## 一、项目背景与目标
