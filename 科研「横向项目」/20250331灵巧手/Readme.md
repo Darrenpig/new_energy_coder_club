@@ -158,7 +158,3 @@ Requires MATLAB release R2022a or newer
 [MATLAB Central](https://www.mathworks.com/matlabcentral)
 
 Email: roboticsarena@mathworks.com
-
-Copyright 2022 The MathWorks, Inc.
-
-
