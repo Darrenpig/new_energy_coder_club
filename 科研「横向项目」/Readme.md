@@ -21,6 +21,8 @@ git clone https://gitee.com/openeuler/yocto-embedded-tools.git
 
 每个人都是独一无二的工程师
 
+[YH-K32开源舵机控制板(STM32)](https://pan.baidu.com/s/1OXsgUKPavlQ6nry6YG9EJQ?pwd=bkmo)
+
 感谢亚博智能
 
 | 内容                                                         | 压缩密码 | 内容                                                         | 压缩密码 |
