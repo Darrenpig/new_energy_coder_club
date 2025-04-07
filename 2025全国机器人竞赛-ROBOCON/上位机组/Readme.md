@@ -1175,3 +1175,5 @@ Contributions are very welcome! Please read the [contribution guidelines](https:
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 ### @陈家辉
 250326 学习了gitee的更新操作，VM中ubantu安装成功海鸥派环境配置成功
+### @王于豪041005 
+250407 成功加入仓库，学习打印机如何操作
