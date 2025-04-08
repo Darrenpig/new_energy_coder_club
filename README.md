@@ -29,8 +29,8 @@ void setup() {
   PS2_Handler_Config(); 
 }
 
-------
 2. 纵向模块划分
+
 ’’’
 gantt
     title 项目里程碑
@@ -42,6 +42,7 @@ gantt
     Simulink建模  :crit, 2025-06-01, 30d
     多协议联调    :         after des2, 20d
 ’’’
+
 ------
 
 3. 绘图元素标注
