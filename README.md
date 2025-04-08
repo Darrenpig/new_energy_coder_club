@@ -2,55 +2,46 @@
 
 <a id="readme-top"></a>
 
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-科研绘图 Roadmap（基于2025年04月08日时间线调整）
-
 ------
 
-文字版可视化方案
+# NEC 项目中期规划（Markdown 结构化版）
 
-注：由于我无法生成图片，以下提供可直接用于绘图的分段结构与标注，您可通过PPT/Visio/Excel甘特图工具快速生成。
+## 一、硬件架构
+### 1. 核心控制器
+- **MEGA 2560** (主控单元)  
+- **ESP32-S3** ×3（底盘运动控制）  
+- **STM32** ×2（ROS扩展板，12V驱动）
+
+### 2. 外设模块
+- **气动系统**  
+  ▸ 气泵绑带固定方案  
+  ▸ 电磁阀控制逻辑（→气嘴→气瓶）  
+- **传感器阵列**  
+  ▸ 24路舵机驱动板 ×2（PS2协议）  
+  ▸ Sensor Shield 接口定义
+
+## 二、软件开发
+### 1. 通信协议栈
+```c
+// 示例代码段（2.4G双模协议）
+void setup() {
+  Nearlink_Init();  // 崔负责（4.15 DDL）
+  PS2_Handler_Config(); 
+}
 
 ------
-
-1. 横向时间轴标注
-
-  • 起始时间：2025.04.08（当前）
-
-  • 关键节点：
-
-      • 2025.04.15（NEARLINK协议开发）
-
-      • 2025.05.20（气动系统联调）
-
-      • 2025.07.15（Simulink仿真完成）
-
-      • 2025.08.10（电控PCB交付）
-
-      • 2025.09.01（完整功能验收）
-
-------
-
 2. 纵向模块划分
-
-【表格】
- 模块	子任务	时间区间	负责人/依赖	
-硬件开发	主控板（MEGA 2560）	04.08-04.25	崔（NEARLINK）	
-	气泵电磁阀安装	04.20-05.10	田（Pi5供电）	
-软件集成	ESP32-S3底盘控制代码	04.08-04.30	单（固件开发）	
-	Isaac Sim传感器模拟	06.01-07.15	MATLAB协同	
-测试验证	气缸推球精度校准	07.20-08.10	开源舵机板驱动	
-	多协议通信抗干扰测试	08.15-09.01	2.4G/星闪双模
-
+’’’
+gantt
+    title 项目里程碑
+    dateFormat  YY-MM-DD
+    section 硬件
+    BSP开发       :active,  des1, 2025-04-08, 7d
+    气泵安装      :         des2, after des1, 5d
+    section 软件
+    Simulink建模  :crit, 2025-06-01, 30d
+    多协议联调    :         after des2, 20d
+’’’
 ------
 
 3. 绘图元素标注
