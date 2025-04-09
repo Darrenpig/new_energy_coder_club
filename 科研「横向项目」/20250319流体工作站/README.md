@@ -355,3 +355,4 @@ Sources:
 [Raspberry Pi 5 Pinouts](https://community.element14.com/products/raspberry-pi/m/files/148385)
 
 RP1 is a peripheral controller, designed by Raspberry Pi for use on Raspberry Pi 5. It connects to an application processor (AP),the 16nm Broadcom BCM2712, via a PCIe 2.0 x4 bus, and aggregates many digital controllers and analog PHYs for Raspberry Pi 5’s external interfaces.
+![输入图片说明](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250409213859.jpg)
