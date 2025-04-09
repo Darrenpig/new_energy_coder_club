@@ -1,4 +1,4 @@
-# 横向项目：
+![{FE453FFA-2159-4081-8FF8-C31DC8967E67}](https://github.com/user-attachments/assets/9d7c1fd3-a791-47ab-9588-c7a71ca05bb5)# 横向项目：
 ## 01易百纳星闪手柄
 ## 02流体工作站 20250319
 ## 03焊接UR灵巧手 20250331
@@ -30,7 +30,7 @@ git clone https://gitee.com/openeuler/yocto-embedded-tools.git
 | [ROS机器人控制板](https://www.yahboom.com/study/ROS-Driver-Board) | o8jw     | [MicroROS机器人控制板](https://www.yahboom.com/study/MicroROS-Board) | dsaf     |
 | [ROS专用USB遥控手柄](https://www.yahboom.com/study/USB-PS2)  | qscm     | [520编码器减速电机](https://www.yahboom.com/study/MD520)     | sdfa     |
 | [MicroROS-Pi5](https://www.yahboom.com/study/MicroROS-Pi5)   | sfah     | [MicroROS(ESP32)Robot](https://www.yahboom.com/study/MicroROS-ESP32) | ypom     |
-| [树莓派5](https://www.yahboom.com/study/raspberry5)          | erwp     |                                                              |          |
+| [树莓派5](https://www.yahboom.com/study/raspberry5)          | erwp     |  [PS2智能车](http://www.yahboom.com/study_module/PS2)           |  886d    |
 
 English
 | 内容                                                         | 压缩密码 | 内容                                                         | 压缩密码 |
