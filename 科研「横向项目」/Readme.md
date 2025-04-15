@@ -39,7 +39,7 @@ English
 | [ROS-Driver-Board](https://www.yahboom.com/study/ROS-Driver-Board) | o8jw     | [MicroROS-Board](https://www.yahboom.com/study/MicroROS-Board) | dsaf     |
 | [USB-PS2](https://www.yahboom.com/study/USB-PS2)             | qscm     | [MD520](https://www.yahboom.com/study/MD520)                 | sdfa     |
 | [MicroROS-Pi5](https://www.yahboom.com/study/MicroROS-Pi5)   | sfah     | [MicroROS-ESP32](https://www.yahboom.com/study/MicroROS-ESP32) | ypom     |
-| [Raspberry5](https://www.yahboom.com/study/raspberry5)       | erwp     |                                                              |          |
+| [Raspberry5](https://www.yahboom.com/study/raspberry5)       | erwp     |   [24路舵机驱动板](https://www.yahboom.com/study_module/24-channel-servo-driver)   | rx6m       |
 
 
 
