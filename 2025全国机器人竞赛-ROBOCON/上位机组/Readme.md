@@ -3,6 +3,11 @@
 |---|---|---|---|
 | 1 |组长|崔正阳| @NANA |
 | 2 |顾问|殷统创| @殷统创 |
+|3  |副组长|卢永杰| @卢永杰 |
+
+
+
+
 Fork的仓库：
 https://github.com/jslee02/awesome-robotics-libraries
 https://github.com/TianxingChen/Embodied-AI-Guide
