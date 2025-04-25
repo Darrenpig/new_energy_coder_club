@@ -91,6 +91,37 @@
 R1机器人运球以及夹爪（方案与何院讨论）
 R2机器人舵轮方案（舵轮图纸）
 
+机械图纸
+百度网盘：https://pan.baidu.com/s/1fjMW7g9zQfWwaDRmbepnww?pwd=8888 
+提取码:8888
+【备用夸克网盘，下载更快】
+链接：https://pan.quark.cn/s/74e680a1783f
+提取码：D4XV
+
+
+百度网盘链接: https://pan.baidu.com/s/1Uh7PgGlxNxghdW2g_wh8oA?pwd=8888 
+提取码: 8888 
+
+【备用夸克网盘，下载更快】
+链接：https://pan.quark.cn/s/3937552cba36
+提取码：j6bj
+
+
+链接：https://pan.baidu.com/s/1fjMW7g9zQfWwaDRmbepnww?pwd=8888 
+提取码:8888
+
+
+链接：https://pan.baidu.com/s/1q5CYWZu2qm4OTV5Cb_3F8Q?pwd=8888 
+提取码：8888 
+
+链接：https://pan.baidu.com/s/1fU57t5LUnv7MZXY-dB0FKA 
+提取码：6666 
+
+
+链接：https://pan.baidu.com/s/1Br8vvkiS3YGGjmcoN2HSVA 
+提取码：2222 
+复制这段内容打开「百度网盘APP 即可获取」
+重要‼️链接易失效！！！务必保存转存到自己的百度网盘！资料转存后查看以防乱码！！
 
 
 
