@@ -1,6 +1,7 @@
-![{FE453FFA-2159-4081-8FF8-C31DC8967E67}](https://github.com/user-attachments/assets/9d7c1fd3-a791-47ab-9588-c7a71ca05bb5)
+
 # 横向项目：
 ## 01易百纳星闪手柄
+@22自三杨力滔
 ## 02流体工作站 20250319
 ## 03焊接UR灵巧手 20250331
 
@@ -20,7 +21,7 @@ git clone https://gitee.com/openeuler/yocto-embedded-tools.git
 
 下面是我们的使用手册和下载地址：
 
-每个人都是独一无二的工程师
+每个人都是独一无二的工程师![{FE453FFA-2159-4081-8FF8-C31DC8967E67}](https://github.com/user-attachments/assets/9d7c1fd3-a791-47ab-9588-c7a71ca05bb5)
 
 [YH-K32开源舵机控制板(STM32)](https://pan.baidu.com/s/1OXsgUKPavlQ6nry6YG9EJQ?pwd=bkmo)
 
