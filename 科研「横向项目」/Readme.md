@@ -21,7 +21,7 @@ git clone https://gitee.com/openeuler/yocto-embedded-tools.git
 
 下面是我们的使用手册和下载地址：
 
-每个人都是独一无二的工程师![
+每个人都是独一无二的工程师
 
 [YH-K32开源舵机控制板(STM32)](https://pan.baidu.com/s/1OXsgUKPavlQ6nry6YG9EJQ?pwd=bkmo)
 
@@ -42,4 +42,4 @@ English
 | [MicroROS-Pi5](https://www.yahboom.com/study/MicroROS-Pi5)   | sfah     | [MicroROS-ESP32](https://www.yahboom.com/study/MicroROS-ESP32) | ypom     |
 | [Raspberry5](https://www.yahboom.com/study/raspberry5)       | erwp     |   [24路舵机驱动板](https://www.yahboom.com/study_module/24-channel-servo-driver)   | rx6m       |
 
-{FE453FFA-2159-4081-8FF8-C31DC8967E67}](https://github.com/user-attachments/assets/9d7c1fd3-a791-47ab-9588-c7a71ca05bb5)
+![{FE453FFA-2159-4081-8FF8-C31DC8967E67}](https://github.com/user-attachments/assets/9d7c1fd3-a791-47ab-9588-c7a71ca05bb5)
