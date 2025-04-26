@@ -131,41 +131,17 @@
 # 重要通知  :exclamation: 
 ## 调压阀重新购买 @郑绍恺 
 ## 两块亚博智能MicroRos Esp32控制板 送回维修 电钻送回维修 无法充电 @卢王淳 
-
-
-
-
-#机械图纸参考
-百度网盘：https://pan.baidu.com/s/1fjMW7g9zQfWwaDRmbepnww?pwd=8888 
-提取码:8888
-【备用夸克网盘，下载更快】
-链接：https://pan.quark.cn/s/74e680a1783f
-提取码：D4XV
-
-
-百度网盘链接: https://pan.baidu.com/s/1Uh7PgGlxNxghdW2g_wh8oA?pwd=8888 
-提取码: 8888 
-
-链接：https://pan.quark.cn/s/3937552cba36
-提取码：j6bj
-==
-
-链接：https://pan.baidu.com/s/1fjMW7g9zQfWwaDRmbepnww?pwd=8888 
-提取码:8888
-
-
-
-链接：https://pan.baidu.com/s/1q5CYWZu2qm4OTV5Cb_3F8Q?pwd=8888 
-提取码：8888 
-
-
-链接：https://pan.baidu.com/s/1fU57t5LUnv7MZXY-dB0FKA 
-提取码：6666 
-
-链接：https://pan.baidu.com/s/1Br8vvkiS3YGGjmcoN2HSVA 
-提取码：2222 
-
-
+---
+| 资源内容             | 提取码 | 解压密码     | 资源内容                   | 提取码 | 解压密码 |
+|----------------------|--------|--------------|----------------------------|--------|----------|
+| [FRC资源](https://pan.baidu.com/s/1Lb-6-qHJWfZHe0Xt7gENZA?pwd=qqqw)             | qqqw   | www.yuanjingziyuan.com | [ROS机器人控制板](https://www.yahboom.com/study/ROS-Driver-Board)   | o8jw   | -        |
+| [麦克纳姆轮资源](https://pan.baidu.com/s/1tcdy3Pal2nWJrMsk9uTvZg?pwd=8888)       | 8888   | www.yuanjingziyuan.com | [ROS专用USB遥控手柄](https://www.yahboom.com/study/USB-PS2)   | qscm  | -        |
+| [驱动轮资源](https://pan.baidu.com/s/1ev6YT357j8gE5YqN-pSvKw?pwd=8888)           | 8888   | www.yuanjingziyuan.com | [MicroROS-Pi5](https://www.yahboom.com/study/MicroROS-Pi5)       | sfah   | -        |
+| [百度网盘资源链接1](https://pan.baidu.com/s/1fjMW7g9zQfWwaDRmbepnww?pwd=8888)    | 8888   | www.yuanjingziyuan.com | [树莓派5](https://www.yahboom.com/study/raspberry5)        | erwp   | -        |
+| [百度网盘资源链接2](https://pan.baidu.com/s/1q5CYWZu2qm4OTV5Cb_3F8Q?pwd=8888)    | 8888   | www.yuanjingziyuan.com | [MicroROS机器人控制板](https://www.yahboom.com/study/MicroROS-Board)   | dsaf  | -        |
+| [百度网盘资源链接3](https://pan.baidu.com/s/1fU57t5LUnv7MZXY-dB0FKA?pwd=6666)    | 6666   | www.yuanjingziyuan.com |[520编码器减速电机](https://www.yahboom.com/study/MD520) | sdfa  | -        |
+| [百度网盘资源链接4](https://pan.baidu.com/s/1Br8vvkiS3YGGjmcoN2HSVA?pwd=2222)    | 2222   | www.yuanjingziyuan.com |[MicroROS(ESP32)Robot](https://www.yahboom.com/study/MicroROS-ESP32) |ypom | -        |
+| [百度网盘资源链接5](https://pan.baidu.com/s/1Uh7PgGlxNxghdW2g_wh8oA?pwd=8888)    | 8888   | www.yuanjingziyuan.com | [PS2智能车](http://www.yahboom.com/study_module/PS2) | 886d    | -        |
 
 
 
