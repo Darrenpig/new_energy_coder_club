@@ -139,11 +139,10 @@
 | [驱动轮资源](https://pan.baidu.com/s/1ev6YT357j8gE5YqN-pSvKw?pwd=8888)           | 8888   | www.yuanjingziyuan.com | [MicroROS-Pi5](https://www.yahboom.com/study/MicroROS-Pi5)       | sfah   | -        |
 | [各大高校气动教程](https://pan.baidu.com/s/1fjMW7g9zQfWwaDRmbepnww?pwd=8888)    | 8888   | www.yuanjingziyuan.com | [树莓派5](https://www.yahboom.com/study/raspberry5)        | erwp   | -        |
 | [SW标准库](https://pan.baidu.com/s/1q5CYWZu2qm4OTV5Cb_3F8Q?pwd=8888)    | 8888   | www.yuanjingziyuan.com | [MicroROS机器人控制板](https://www.yahboom.com/study/MicroROS-Board)   | dsaf  | -        |
-| [百度网盘资源链接3](https://pan.baidu.com/s/1fU57t5LUnv7MZXY-dB0FKA?pwd=6666)    | 6666   | www.yuanjingziyuan.com |[520编码器减速电机](https://www.yahboom.com/study/MD520) | sdfa  | -        |
-| [百度网盘资源链接4](https://pan.baidu.com/s/1Br8vvkiS3YGGjmcoN2HSVA?pwd=2222)    | 2222   | www.yuanjingziyuan.com |[MicroROS(ESP32)Robot](https://www.yahboom.com/study/MicroROS-ESP32) |ypom | -        |
-| [百度网盘资源链接5](https://pan.baidu.com/s/1Uh7PgGlxNxghdW2g_wh8oA?pwd=8888)    | 8888   | www.yuanjingziyuan.com | [PS2智能车](http://www.yahboom.com/study_module/PS2) | 886d    | -        |
-|【气缸】百度网盘：https://pan.baidu.com/s/1GyOpvLqisBan5XhT6dwzzg?pwd=8888
-提取码：8888||
+| [SW齿轮⚙️](https://pan.baidu.com/s/1fU57t5LUnv7MZXY-dB0FKA?pwd=6666)    | 6666   | www.yuanjingziyuan.com |[520编码器减速电机](https://www.yahboom.com/study/MD520) | sdfa  | -        |
+| [设计资料](https://pan.baidu.com/s/1Br8vvkiS3YGGjmcoN2HSVA?pwd=2222)    | 2222   | www.yuanjingziyuan.com |[MicroROS(ESP32)Robot](https://www.yahboom.com/study/MicroROS-ESP32) |ypom | -        |
+| [SW螺母螺丝](https://pan.baidu.com/s/1Uh7PgGlxNxghdW2g_wh8oA?pwd=8888)    | 8888   | www.yuanjingziyuan.com | [PS2智能车](http://www.yahboom.com/study_module/PS2) | 886d    | -        |
+| [SW气缸](https://pan.baidu.com/s/1GyOpvLqisBan5XhT6dwzzg?pwd=8888|    8888 |
 
 
 
