@@ -142,7 +142,7 @@
 | [SW齿轮⚙️](https://pan.baidu.com/s/1fU57t5LUnv7MZXY-dB0FKA?pwd=6666)    | 6666   | www.yuanjingziyuan.com |[520编码器减速电机](https://www.yahboom.com/study/MD520) | sdfa  | -        |
 | [设计资料](https://pan.baidu.com/s/1Br8vvkiS3YGGjmcoN2HSVA?pwd=2222)    | 2222   | www.yuanjingziyuan.com |[MicroROS(ESP32)Robot](https://www.yahboom.com/study/MicroROS-ESP32) |ypom | -        |
 | [SW螺母螺丝](https://pan.baidu.com/s/1Uh7PgGlxNxghdW2g_wh8oA?pwd=8888)    | 8888   | www.yuanjingziyuan.com | [PS2智能车](http://www.yahboom.com/study_module/PS2) | 886d    | -        |
-| [SW气缸](https://pan.baidu.com/s/1GyOpvLqisBan5XhT6dwzzg?pwd=8888|    8888 |
+| [SW气缸](https://pan.baidu.com/s/1GyOpvLqisBan5XhT6dwzzg?pwd=8888）|    8888 |
 
 
 
