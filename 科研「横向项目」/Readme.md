@@ -1,4 +1,4 @@
-
+![{FC38064C-77F2-4B18-8A1A-2C2EBE24B8FC}](https://github.com/user-attachments/assets/3357c115-1805-4230-971b-fc545ce69484)
 # 横向项目：
 ## 01易百纳星闪手柄
 @22自三杨力滔
@@ -27,7 +27,7 @@ git clone https://gitee.com/openeuler/yocto-embedded-tools.git
 
 下面是我们的使用手册和下载地址：
 
-[YH-K32开源舵机控制板(STM32)](https://pan.baidu.com/s/1OXsgUKPavlQ6nry6YG9EJQ?pwd=bkmo)
+
 
 感谢亚博智能
 
@@ -37,7 +37,7 @@ git clone https://gitee.com/openeuler/yocto-embedded-tools.git
 | [ROS专用USB遥控手柄](https://www.yahboom.com/study/USB-PS2)  | qscm     | [520编码器减速电机](https://www.yahboom.com/study/MD520)     | sdfa     |
 | [MicroROS-Pi5](https://www.yahboom.com/study/MicroROS-Pi5)   | sfah     | [MicroROS(ESP32)Robot](https://www.yahboom.com/study/MicroROS-ESP32) | ypom     |
 | [树莓派5](https://www.yahboom.com/study/raspberry5)          | erwp     |  [PS2智能车](http://www.yahboom.com/study_module/PS2)           |  886d    |
-
+|[树莓派5 机器人驱动板](https://www.yahboom.com/study/Pi5-Board)  |RPKB| [YH-K32开源舵机控制板(STM32)](https://pan.baidu.com/s/1OXsgUKPavlQ6nry6YG9EJQ?pwd=bkmo)| bkmo |
 English
 | 内容                                                         | 压缩密码 | 内容                                                         | 压缩密码 |
 | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ | -------- |
@@ -46,6 +46,6 @@ English
 | [MicroROS-Pi5](https://www.yahboom.com/study/MicroROS-Pi5)   | sfah     | [MicroROS-ESP32](https://www.yahboom.com/study/MicroROS-ESP32) | ypom     |
 | [Raspberry5](https://www.yahboom.com/study/raspberry5)       | erwp     |   [24路舵机驱动板](https://www.yahboom.com/study_module/24-channel-servo-driver)   | rx6m       |
 
-![{FE453FFA-2159-4081-8FF8-C31DC8967E67}](https://github.com/user-attachments/assets/9d7c1fd3-a791-47ab-9588-c7a71ca05bb5)
+![{520Moter}](https://github.com/user-attachments/assets/9d7c1fd3-a791-47ab-9588-c7a71ca05bb5)
 
 520 电机线序
