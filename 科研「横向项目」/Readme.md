@@ -1,4 +1,3 @@
-![{FC38064C-77F2-4B18-8A1A-2C2EBE24B8FC}](https://github.com/user-attachments/assets/3357c115-1805-4230-971b-fc545ce69484)
 # 横向项目：
 ## 01易百纳星闪手柄
 @22自三杨力滔
