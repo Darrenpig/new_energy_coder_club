@@ -26,6 +26,7 @@
 > 开发进度：
 
  @单广志 250326NVDIAA仿真环境搭建进行
+
 ![环境搭建](../image/Snipaste_2025-03-25_21-58-01.png)
 
  @Leo TianWW 弄清了布线，开始从树莓派角度调试数控
@@ -45,7 +46,7 @@ interface timings have been specified at 3.3V.
 Each pin can be controlled directly by software, or by a number of other functional blocks.
 
 The bank supports the following functions:
-```
+ 
 • 5 × UART
 • 6 × SPI
 • 4 × I2C
@@ -59,6 +60,8 @@ The bank supports the following functions:
 • Interrupt generation from pin level or edge transitions
 
 RP1 is a peripheral controller, designed by Raspberry Pi for use on Raspberry Pi 5. It connects to an application processor (AP),the 16nm Broadcom BCM2712, via a PCIe 2.0 x4 bus, and aggregates many digital controllers and analog PHYs for Raspberry Pi 5’s external interfaces.
+---
+
 ![光电限位开关](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250409213859.jpg)
 
 # 布线原理图
