@@ -17,9 +17,12 @@ git clone https://gitee.com/openeuler/yocto-embedded-tools.git
 | 4  | tools/WSL子系统开发环境搭建.md       | https://gitee.com/HiSpark/fbb_ws63/blob/master/tools/WSL%E5%AD%90%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md |
 | 5  | tools/WSL子系统编译及烧录.md          | https://gitee.com/HiSpark/fbb_ws63/blob/master/tools/WSL%E5%AD%90%E7%B3%BB%E7%BB%9F%E7%BC%96%E8%AF%91%E5%8F%8A%E7%83%A7%E5%BD%95.md          |
 | 6  | EulerCar 小车开发ubuntu环境    | https://pan.baidu.com/s/1Xa4XZjJ6GYAIl9HZs3mJqA?pwd=nb3t      |
+
 将网盘内的 rossdk 相关的六个 rar 包，全部下载下来：只解压第一个 rossdk.part1.rar 即可，会自动将 六个 关联文件全部解压，生成文件夹：虚拟机 rossdk。然后进入该目录，解压 Ubuntu2204.rar，生成 57.9G 的 【Ubuntu2204】文件夹。
 运行安装好的 Vmware 软件，如下图所示：选择：打开虚拟机，直接打开上面解压文件夹【Ubuntu2204】中 的 vmx 文件。进入 ubuntu，账号 robot，密码为 123456。
+
 - UDP控制器 https://gitee.com/HiEuler/eulercar_controller
+
 ---
 
 下面是我们的使用手册和下载地址：
@@ -44,3 +47,5 @@ English
 | [Raspberry5](https://www.yahboom.com/study/raspberry5)       | erwp     |   [24路舵机驱动板](https://www.yahboom.com/study_module/24-channel-servo-driver)   | rx6m       |
 
 ![{FE453FFA-2159-4081-8FF8-C31DC8967E67}](https://github.com/user-attachments/assets/9d7c1fd3-a791-47ab-9588-c7a71ca05bb5)
+
+520 电机线序
