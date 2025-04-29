@@ -62,10 +62,17 @@ RP1 is a peripheral controller, designed by Raspberry Pi for use on Raspberry Pi
 ![光电限位开关](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250409213859.jpg)
 
 # 布线原理图
+
 ![PLopen](../image/PhotoelectricKG.png)
+
 ### 光电开关线序
+
 ![485COM](../image/485COM.png)
+
 ### 485接口图
+
 ![引脚](../Print.png)
+
 ### 引脚定义
+
 ![输入图片说明](../image/JIDINAQI.png)
