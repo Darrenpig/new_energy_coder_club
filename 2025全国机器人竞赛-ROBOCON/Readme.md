@@ -1,4 +1,4 @@
-“<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 <!--
 *** Thanks for checking out the new_energy_coder_club. If you have a suggestion
