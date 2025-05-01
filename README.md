@@ -64,7 +64,7 @@
 | [UI设计资料](https://pan.baidu.com/s/1Br8vvkiS3YGGjmcoN2HSVA?pwd=2222)                            | 2222   | www.yuanjingziyuan.com |[MicroROS(ESP32)Robot](https://www.yahboom.com/study/MicroROS-ESP32)             | ypom  | 
 | [SW螺母螺丝](https://pan.baidu.com/s/1Uh7PgGlxNxghdW2g_wh8oA?pwd=8888)                            | 8888   | www.yuanjingziyuan.com | [PS2智能车](http://www.yahboom.com/study_module/PS2)                             | 886d  | 
 | [SW气缸](https://pan.baidu.com/s/1GyOpvLqisBan5XhT6dwzzg?pwd=8888)                                | 8888   | www.yuanjingziyuan.com | [铝方型材设计MayCAD](https://pan.baidu.com/s/1NcGkC6xRrA6sJ226mdPGIA?pwd=6yq5)   | 6yq5  |    
-| [NEC团队企业百度网盘资料](https://pan.baidu.com/s/1W2RayBVYXKY17Z5m9e7jlA?pwd=veww)                | veww   |                        |                                                                                 |       | 
+| [NEC团队企业百度网盘资料](https://pan.baidu.com/s/1W2RayBVYXKY17Z5m9e7jlA?pwd=veww)                | veww   |                        |  [PS2智能车资料](https://pan.baidu.com/s/1kHZ5rl-a5YPYm_Dx5jA86A?pwd=j2nj)        |   j2nj   |  
 
 
 ## Repositories 📦
