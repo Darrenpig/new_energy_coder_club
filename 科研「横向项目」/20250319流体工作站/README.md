@@ -40,8 +40,6 @@
 
 # Raspberry Pi 5 Pinout
 
-![Pi 5 Pinout](https://github.com/Felipegalind0/RPI5.pinout/blob/main/RPI5_PINOUT_OVERLAY.png)
-
 The RP1 on the RPI5 has 28 multi-functional General-Purpose Input/Output pins available on the Raspberry Pi 40-pin
 GPIO connector.
 
