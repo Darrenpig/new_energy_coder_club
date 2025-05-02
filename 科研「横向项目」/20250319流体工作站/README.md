@@ -1,5 +1,7 @@
 # 流体工作站开发计划
-流程基线：
+关联issue #IBTPAG
+
+## 流程基线：
 @杨鑫海 硬件
 @DarrenPig
 @单广志
@@ -11,10 +13,13 @@
 
 ---
 # 个人进度
-## @DarrenPig
+##  @DarrenPig 
+负责元件收发和资料传递
 ## @单广志
+上位机完成一次SSH调试
 ## @杨鑫海 
 ## @殷统创 
+负责Qt，界面绘制
 ---
 #  00流体工作站 HMI 开发 Qt 基线
 
@@ -67,7 +72,7 @@ The bank supports the following functions:
 RP1 is a peripheral controller, designed by Raspberry Pi for use on Raspberry Pi 5. It connects to an application processor (AP),the 16nm Broadcom BCM2712, via a PCIe 2.0 x4 bus, and aggregates many digital controllers and analog PHYs for Raspberry Pi 5’s external interfaces.
 ---
 
-![光电限位开关](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250409213859.jpg)
+![光电限位](%E5%85%89%E7%94%B5%E9%99%90%E4%BD%8D%E5%BC%80%E5%85%B3%E6%8E%A5%E7%BA%BF.jpg)
 
 # 布线原理图
 
