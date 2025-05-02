@@ -1,2 +1,8 @@
-https://gitee.com/darrenpig/ESP8266_Arduino_Mitsubishi_Air_Conditioner
-https://nice.net.nz/
+# 气泵选型方案：
+采购 @郑绍恺 
+目前清单：
+
+---
+
+---
+![选型资料](../image/%E9%80%89%E5%9E%8B%E8%B5%84%E6%96%99.png)
