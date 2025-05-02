@@ -89,4 +89,13 @@ RP1 is a peripheral controller, designed by Raspberry Pi for use on Raspberry Pi
 
 ### 引脚定义
 
-![输入图片说明](../image/JIDINAQI.png)
+![引脚定义](../image/JIDINAQI.png)
+
+### 限位器
+![限位器](../image/%E9%99%90%E4%BD%8D%E5%99%A8.jpg)
+
+# 维护日志
+#### 250429 @DarrenPig  @单广志  @吴洛斌 485理线+热缩管
+#### 250430  @卞乐凌  @Leo TianWW 供电布线+限位开关加装
+#### 250501  @郑绍恺  @Leo TianWW  @单广志 树莓派5 SSH 开发环境部署
+#### 250502  @DarrenPig 光电限位紧固件到货
