@@ -1,3 +1,19 @@
+## 开源人形机器人：
+
+- 北京人形机器人创新中心 https://x-humanoid.com/opensource.html
+- RoboMIND http://x-humanoid-robomind.github.io/
+- openloong 社区 https://atomgit.com/openloong
+- 宇树 https://support.unitree.com/home/zh/H1_developer
+- https://github.com/unitreerobotics/unitree_rl_gym
+- https://github.com/unitreerobotics/kinect_teleoperate
+- https://github.com/unitreerobotics/unitree_guide
+- https://github.com/AgibotTech/agibot_x1_infer
+- 智元机器人 https://github.com/AgibotTech/agibot_x1_train
+- 傅里叶机器人 https://fourier-grx-n1.github.io/
+- OmniBotLab https://gitee.com/tinymal/simple-man-s
+
+
+
 ![{DarrenPig}](https://github.com/user-attachments/assets/44d22729-5b11-4c68-a03e-4091dc3f6a9f)
 # 下面是全部的资料
 | 资源内容             | 提取码 | 解压密码     | 资源内容                   | 提取码 | 
