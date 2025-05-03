@@ -1,5 +1,5 @@
 # 资料
-
+[EB25](https://lierda.feishu.cn/wiki/X360wInOjihWzukypNzc0Df5nHf?from=from_copylink)
 # fbb_ws63开发指南
 
 ## 介绍
