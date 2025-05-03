@@ -1,7 +1,3 @@
-# 一百钠星闪手柄
-HiHope_NearLink_DK3863E_V03
-![wb25](../../Image/wb25.png)
-
 # 资料
 
 # fbb_ws63开发指南
