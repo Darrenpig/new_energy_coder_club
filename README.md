@@ -209,6 +209,7 @@ Thank you sincerely to the following partners and developers. It is your outstan
 |19 | 25  | 23光电二    | 硬件电控组组长        | 单广志    |<img src="https://img.shields.io/badge/嵌入式-fedcba" alt="License"> <img src="https://img.shields.io/badge/电控-blue" alt="License"> <img src="https://img.shields.io/badge/上位机-8A2BE2" alt="License">|
 |20 | 25  | 23机二      | 机械组组长        | 刘锦和    |<img src="https://img.shields.io/badge/机械_设计-fedcba" alt="License">|
 |21 | 25  | 23机三      | 成员             | 陈恺鑫    |<img src="https://img.shields.io/badge/机械-172a88" alt="License">|
+|22 | 25  | 22计算机      | maintainer           | 闻志伟    |<img src="https://img.shields.io/badge/Nearlink-green" alt="License"> <img src="https://img.shields.io/badge/STM32-fedcba" alt="License">|
 
 
 
