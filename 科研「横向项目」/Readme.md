@@ -1,4 +1,4 @@
-# 横向项目：
+# 横向项目：[飞书选型方案文档点我](https://wwd6b1oeu5f.feishu.cn/drive/folder/J5VWftjN1lTzdQd9xEUcnOxGn4u)
 ## 01易百纳星闪手柄
 @22自三杨力滔
 ## 02流体工作站 20250319
