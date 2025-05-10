@@ -35,10 +35,10 @@
 ### @浮生若梦 
 ### @临江踏雨未返 
 ### @彭柯尹 
--250403分析仓库齿轮图纸，进行预选型号
--250504根据图纸，把气缸搓轮方案和组员理清
-2500505安装仿真软件，为下一步机械工作推进做铺垫
-250508底盘的重新制作和开始气泵与轨道的角度调节设计
+- 250403分析仓库齿轮图纸，进行预选型号
+- 250504根据图纸，把气缸搓轮方案和组员理清
+- 2500505安装仿真软件，为下一步机械工作推进做铺垫
+- 250508底盘的重新制作和开始气泵与轨道的角度调节设计
 
 ### @曹越 
 ### @王湘军 
@@ -109,38 +109,20 @@
 ---
 
 
-机械图纸** 
-百度网盘：https://pan.baidu.com/s/1fjMW7g9zQfWwaDRmbepnww?pwd=8888 
-提取码:8888
-【备用夸克网盘，下载更快】
-链接：https://pan.quark.cn/s/74e680a1783f
-提取码：D4XV
-
-
-百度网盘链接: https://pan.baidu.com/s/1Uh7PgGlxNxghdW2g_wh8oA?pwd=8888 
-提取码: 8888 
-
-【备用夸克网盘，下载更快】
-链接：https://pan.quark.cn/s/3937552cba36
-提取码：j6bj
-
-
-链接：https://pan.baidu.com/s/1fjMW7g9zQfWwaDRmbepnww?pwd=8888 
-提取码:8888
-
-
-链接：https://pan.baidu.com/s/1q5CYWZu2qm4OTV5Cb_3F8Q?pwd=8888 
-提取码：8888 
-
-链接：https://pan.baidu.com/s/1fU57t5LUnv7MZXY-dB0FKA 
-提取码：6666 
-
-
-链接：https://pan.baidu.com/s/1Br8vvkiS3YGGjmcoN2HSVA 
-提取码：2222 
-复制这段内容打开「百度网盘APP 即可获取」
-重要‼️链接易失效！！！务必保存转存到自己的百度网盘！资料转存后查看以防乱码！！
-
+### 资料
+| 资源内容             | 提取码 |
+|----------------------|--------|
+|[Z001-十大礼包赠品-百度网盘](https://pan.baidu.com/s/1fjMW7g9zQfWwaDRmbepnww?pwd=8888)|8888|
+|[Z001-十大礼包赠品-夸克网盘](http://pan.quark.cn/s/74e680a1783f)|D4XV|
+|[1288套SW螺钉螺母标准件库-百度网盘](http://pan.baidu.com/s/1Uh7PgGlxNxghdW2g_wh8oA?pwd=8888 )|8888|
+|[输入链接说明](http://https://pan.quark.cn/s/3937552cba36)|j6bj|
+|[标准库售后说明](https://pan.baidu.com/s/1q5CYWZu2qm4OTV5Cb_3F8Q?pwd=8888 )|8888|
+|[齿轮23款](http://https://pan.baidu.com/s/1fU57t5LUnv7MZXY-dB0FKA )|6666|
+|[工业PPT礼包](https://pan.baidu.com/s/1Br8vvkiS3YGGjmcoN2HSVA)|2222|
+**重要‼️链接易失效！！！务必保存转存到自己的百度网盘！资料转存后查看以防乱码！！**
+|[宇树电机使用教程](http://pan.baidu.com/s/1KQAMM8OipX1JQf4hoEwJbQ?pwd=ykql)|ykql|
+|[宇树电机资料](http://pan.baidu.com/s/10cAlw81qegzkDfup9kIP7g?pwd=xfol )|xfol|
+ 
 
 
 
