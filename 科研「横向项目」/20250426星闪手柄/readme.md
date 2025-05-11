@@ -874,8 +874,8 @@ Github: [AbrillantLee](https://github.com/Abrillant-Lee) 、[pete](https://githu
 
 # 个人进度
 ## 杨力滔
-#### 4.20正式开始安装相关环境
-#### 4.26开始科研横向文档更新
+#### 4.20正式开始安装相关环境，WSL子系统开发环境搭建，一开始没找到下载的fbb_ws63_wsl，最后将它拖到桌面上，找到了文件路径，在poweshell中要更新wsl子系统不然不能使用
+#### 4.26星闪代码下载，将星闪代码导入到VSCode
 
 
 
