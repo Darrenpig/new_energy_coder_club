@@ -44,6 +44,8 @@
 
  @Leo TianWW 弄清了布线，开始从树莓派角度调试数控
 
+ @Leo TianWW 学习了rs485工业控制例程，开始从modbus协议入手开始能驱动一体式步进电机
+
 # Raspberry Pi 5 Pinout
 
 The RP1 on the RPI5 has 28 multi-functional General-Purpose Input/Output pins available on the Raspberry Pi 40-pin
