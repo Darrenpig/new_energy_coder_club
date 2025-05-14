@@ -43,8 +43,11 @@ https://www.runoob.com/markdown/md-tutorial.html
 ### github访问：
 https://blog.csdn.net/2402_87418711/article/details/145461257?fromshare=blogdetail&sharetype=blogdetail&sharerId=145461257&sharerefer=PC&sharesource=2402_87418711&sharefrom=from_link
 ###HXC开发板A型
-##0430
+##250430
 昨晚完成整体HXC开发板A型BOM表元件校对与整理，初步统计出缺少元器件。
 前一段时间已先行将现有的微小贴片元器件进行焊接。
-##0508
+##250508
 昨天完整焊出第一块A板。
+##250514
+完成C板（小分压板）焊接。 @李硕 
+
