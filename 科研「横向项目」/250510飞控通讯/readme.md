@@ -4,6 +4,16 @@
 ## 工作内容：完成两块下位机的通讯与单手柄控制
 ## 协作形式：3开发者线上托管跟进;1 看护者进度跟踪
 
+# 项目进度
+### 5.16首次组会 @DarrenPig @
+
+
+
+
+@DarrenPig
+- 开始分发资料，线上培训
+
+
 # 资料共享：
 ## 无人机飞控系统 [PX4](https://github.com/PX4/PX4-Autopilot)PX4-Autopilot
 
