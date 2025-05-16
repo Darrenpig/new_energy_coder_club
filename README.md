@@ -174,7 +174,6 @@ Use this space to list resources you find helpful and would like to give credit 
 |8 | @郑钦文    |24 机二    |负责人  | MayCAD型材  |
 |9 | @田旺旺    |24 信四    |硬件成员  | 上位机    | 
 |10| @孙如婕    |24 机一   |负责人  | 机械设计   | 
-
 <div align="center">  </p>
 
 
@@ -183,7 +182,7 @@ Thank you sincerely to the following partners and developers. It is your outstan
 
 ---
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+# 250516飞控Sig成立
 ## CIT项目成员
 
 |序号 |赛季 |班级 |职位 | 名称  | 技能 |
