@@ -46,6 +46,8 @@
 
  @Leo TianWW 学习了rs485工业控制例程，开始从modbus协议入手开始能驱动一体式步进电机
 
+ @Leo TianWW 树莓派内虚拟环境成功下载modbus-tk库，打开了树莓派的访问串口权限，使用树莓派内的工具Thonny应用了携modbus-tk库的虚拟环境，成功调动第一台步进电机驱动
+
 # Raspberry Pi 5 Pinout
 
 The RP1 on the RPI5 has 28 multi-functional General-Purpose Input/Output pins available on the Raspberry Pi 40-pin
