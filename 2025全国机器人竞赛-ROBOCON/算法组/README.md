@@ -10,6 +10,8 @@
 | 7 |成员||  |
 | 8 |成员||  |
 
+##资料
 | 名称 | 链接 |
 |------|------|
 | hello！算法 | [Hello 算法](https://www.hello-algo.com/) |
+| leetcode | [leetcode刷题](https://leetcode.cn/) |
