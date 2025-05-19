@@ -10,6 +10,6 @@
 | 7 |成员||  |
 | 8 |成员||  |
 
-| 图片 | 链接 |
+| 名称 | 链接 |
 |------|------|
-| ![Hello 算法](https://www.hello-algo.com/assets/hero/universe_bg.png) | [Hello 算法](https://www.hello-algo.com/) |
+| hello！算法 | [Hello 算法](https://www.hello-algo.com/) |
