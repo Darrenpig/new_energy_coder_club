@@ -104,9 +104,7 @@
 
 
 ### Roadmap 项目探索地图
-![2025Roadmap](Image/Roadmap.png)
-![2025年仓库团队组建](Image/NEC25RC_start-up_team.JPG)
-                      
+![2025Roadmap](Image/Roadmap.png)                      
 ---
 
 <!-- CONTACT -->
