@@ -155,7 +155,7 @@ Use this space to list resources you find helpful and would like to give credit 
 |3 | @杨鑫海    |硬件安装   |负责人   | 文档分析     |
 |4 | @李一楠    |开发合规   |负责人   | 运营合规     |
 |5 | @卞乐凌    |24 电三    |硬件成员 | 架构文档     |
-|6 | @李硕      |24 电四    |硬件成员 | 理线扎带     |
+|6 | @李硕      |24 电四    |硬件成员 | 焊接连线     |
 |7 | @单广志    |仿真控制   |负责人  | 指令仿真     |
 |8 | @郑钦文    |24 机二    |负责人  | MayCAD型材  |
 |9 | @田旺旺    |24 信四    |硬件成员  | 上位机    | 
@@ -168,7 +168,9 @@ Thank you sincerely to the following partners and developers. It is your outstan
 
 ---
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 # 250516飞控Sig成立
+
 ## CIT项目成员
 
 |序号 |赛季 |班级 |职位 | 名称  | 技能 |
