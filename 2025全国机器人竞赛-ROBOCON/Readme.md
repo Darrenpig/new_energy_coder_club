@@ -144,7 +144,7 @@
 ---
 ###  @王子楚 
 #### 250512 海鸥派 Windows ubuntu三者网络互通，通过网线连接派到电脑无法显示该设备，如图没有第一行，还在找办法
-![输入图片说明](image/Readme.md%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-05-12%20233055.png)
+![Debug_lsusb](image/Readme.md%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-05-12%20233055.png)
 
 # 设计方案讨论😲✨
 ##### https://a360.co/4b5QcO7
@@ -175,6 +175,8 @@
 
 
 
-![AGV](image/%E8%88%B5%E8%BD%AEAGV.png)
-
+![AGV](https://gitee.com/jumuwa/new_energy_coder_club/raw/master/Image/duolun.jpg)
+>  @郑钦文 完成出图，5.31 @Hollic对接3D打印
 ![PUMP](image/Pump-TEMP.jpg)
+![Nearlink](https://gitee.com/jumuwa/new_energy_coder_club/raw/master/Nearlink_handle.jpg)
+>  @DarrenPig 完成飞控手柄调试
