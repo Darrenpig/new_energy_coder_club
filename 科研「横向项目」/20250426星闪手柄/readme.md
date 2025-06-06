@@ -884,8 +884,4 @@ PDB电子元器件物料可直接由嘉立创EDA导出
 ## 图片：
 ![输入图片说明](https://gitee.com/ylt123456789/new_energy_coder_club/raw/master/%E7%A7%91%E7%A0%94%E3%80%8C%E6%A8%AA%E5%90%91%E9%A1%B9%E7%9B%AE%E3%80%8D/20250426%E6%98%9F%E9%97%AA%E6%89%8B%E6%9F%84/image/1f93acac9135ea619e2737446bac10f.jpg)
 
-
-
-https://gitee.com/ylt123456789/new_energy_coder_club/raw/master/%E7%A7%91%E7%A0%94%E3%80%8C%E6%A8%AA%E5%90%91%E9%A1%B9%E7%9B%AE%E3%80%8D/20250426%E6%98%9F%E9%97%AA%E6%89%8B%E6%9F%84/image/26a7f4dbece3034dc0a8081bc154da9.jpg
-
-，
+![输入图片说明](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/%E7%A7%91%E7%A0%94%E3%80%8C%E6%A8%AA%E5%90%91%E9%A1%B9%E7%9B%AE%E3%80%8D/20250426%E6%98%9F%E9%97%AA%E6%89%8B%E6%9F%84/readme.md)
