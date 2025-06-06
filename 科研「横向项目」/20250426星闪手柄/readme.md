@@ -1,5 +1,9 @@
 # 资料https://www.bearpi.cn/core_board/bearpi/bm/h63/
 [EB25](https://lierda.feishu.cn/wiki/X360wInOjihWzukypNzc0Df5nHf?from=from_copylink)
+
+
+
+
 # fbb_ws63开发指南
 
 
@@ -876,6 +880,9 @@ PDB电子元器件物料可直接由嘉立创EDA导出
 #### 5.8先试着调试1.0星闪手柄。今日无事，早点回去休息。
 #### 5.9所有材料到齐，准备进行焊接，从贴片元器件开始，找到要焊接的元器件型号。
 #### 5.10用万用表检查有没有焊接错误的地方，遇到问题开机后休眠，检查后发现又虚焊的情况。
-#### 5.11将硬件总装，对软硬件进行调试，完成任务。
+#### 5.11将硬件总装，对软硬件进行调试，完成任务。以下是完成的手柄图片。
+## 图片：
+![输入图片说明](https://gitee.com/ylt123456789/new_energy_coder_club/raw/master/%E7%A7%91%E7%A0%94%E3%80%8C%E6%A8%AA%E5%90%91%E9%A1%B9%E7%9B%AE%E3%80%8D/20250426%E6%98%9F%E9%97%AA%E6%89%8B%E6%9F%84/image/1f93acac9135ea619e2737446bac10f.jpg)
+https://gitee.com/ylt123456789/new_energy_coder_club/raw/master/%E7%A7%91%E7%A0%94%E3%80%8C%E6%A8%AA%E5%90%91%E9%A1%B9%E7%9B%AE%E3%80%8D/20250426%E6%98%9F%E9%97%AA%E6%89%8B%E6%9F%84/image/26a7f4dbece3034dc0a8081bc154da9.jpg
 
 ，
