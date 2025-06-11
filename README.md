@@ -53,6 +53,18 @@
   </p>
 </div>
 
+| 资源内容             | 提取码 | 解压密码     | 资源内容                   | 提取码 | 开发板简称|
+|----------------------|--------|--------------|----------------------------|--------|--------|
+| [82套2024FRC发球机器人图纸](https://pan.baidu.com/s/1Lb-6-qHJWfZHe0Xt7gENZA?pwd=qqqw)             | qqqw    | www.yuanjingziyuan.com | [ROS机器人控制板](https://www.yahboom.com/study/ROS-Driver-Board)               | o8jw  | STM32 |
+| [麦克纳姆轮资源](https://pan.baidu.com/s/1tcdy3Pal2nWJrMsk9uTvZg?pwd=8888)                        | 8888    | www.yuanjingziyuan.com | [ROS专用USB遥控手柄](https://www.yahboom.com/study/USB-PS2)                     | qscm  | |
+| [驱动轮资源](https://pan.baidu.com/s/1ev6YT357j8gE5YqN-pSvKw?pwd=8888)                            | 8888    | www.yuanjingziyuan.com | [MicroROS-Pi5](https://www.yahboom.com/study/MicroROS-Pi5)                     | sfah  | 带树莓派的esp32小车|
+| [各大高校气动教程](https://pan.baidu.com/s/1fjMW7g9zQfWwaDRmbepnww?pwd=8888)                       | 8888   | www.yuanjingziyuan.com | [树莓派5](https://www.yahboom.com/study/raspberry5)                             | erwp  | Pi 5 |
+| [SW标准库](https://pan.baidu.com/s/1q5CYWZu2qm4OTV5Cb_3F8Q?pwd=8888)                              | 8888   | www.yuanjingziyuan.com | [MicroROS机器人控制板](https://www.yahboom.com/study/MicroROS-Board)             | dsaf  | 
+| [SW齿轮⚙️](https://pan.baidu.com/s/1fU57t5LUnv7MZXY-dB0FKA?pwd=6666)                             | 6666   | www.yuanjingziyuan.com |[520编码器减速电机](https://www.yahboom.com/study/MD520)                          | sdfa  | |
+| [UI设计资料](https://pan.baidu.com/s/1Br8vvkiS3YGGjmcoN2HSVA?pwd=2222)                            | 2222   | www.yuanjingziyuan.com |[MicroROS(ESP32)Robot](https://www.yahboom.com/study/MicroROS-ESP32)             | ypom  | 没有树莓派的esp32小车|
+| [SW螺母螺丝](https://pan.baidu.com/s/1Uh7PgGlxNxghdW2g_wh8oA?pwd=8888)                            | 8888   | www.yuanjingziyuan.com | [PS2智能车](http://www.yahboom.com/study_module/PS2)                             | 886d  |    |
+| [SW气缸](https://pan.baidu.com/s/1GyOpvLqisBan5XhT6dwzzg?pwd=8888)                                | 8888   | www.yuanjingziyuan.com | [铝方型材设计MayCAD](https://pan.baidu.com/s/1NcGkC6xRrA6sJ226mdPGIA?pwd=6yq5)   | 6yq5  |    用来画2020、4040欧标铝方的软件 |
+| [NEC团队企业百度网盘资料](https://pan.baidu.com/s/1W2RayBVYXKY17Z5m9e7jlA?pwd=veww)                | veww   |                        |  [PS2智能车资料](https://pan.baidu.com/s/1kHZ5rl-a5YPYm_Dx5jA86A?pwd=j2nj)        |   j2nj   |  |
 
 
 ## Repositories 📦
@@ -104,7 +116,9 @@
 
 
 ### Roadmap 项目探索地图
-![2025Roadmap](Image/Roadmap.png)                      
+![2025Roadmap](Image/Roadmap.png)
+![2025年仓库团队组建](Image/NEC25RC_start-up_team.JPG)
+                      
 ---
 
 <!-- CONTACT -->
@@ -155,11 +169,12 @@ Use this space to list resources you find helpful and would like to give credit 
 |3 | @杨鑫海    |硬件安装   |负责人   | 文档分析     |
 |4 | @李一楠    |开发合规   |负责人   | 运营合规     |
 |5 | @卞乐凌    |24 电三    |硬件成员 | 架构文档     |
-|6 | @李硕      |24 电四    |硬件成员 | 焊接连线     |
+|6 | @李硕      |24 电四    |硬件成员 | 理线扎带     |
 |7 | @单广志    |仿真控制   |负责人  | 指令仿真     |
 |8 | @郑钦文    |24 机二    |负责人  | MayCAD型材  |
 |9 | @田旺旺    |24 信四    |硬件成员  | 上位机    | 
 |10| @孙如婕    |24 机一   |负责人  | 机械设计   | 
+
 <div align="center">  </p>
 
 
@@ -168,8 +183,6 @@ Thank you sincerely to the following partners and developers. It is your outstan
 
 ---
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-# 250516飞控Sig成立
 
 ## CIT项目成员
 
