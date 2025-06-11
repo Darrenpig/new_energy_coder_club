@@ -190,3 +190,7 @@
 - RM论坛 https://bbs.robomaster.com/
 - ARM-CubeMax https://www.st.com.cn/content/st_com/zh/stm32cubemx.html
 - ARM GNU https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads
+
+# 感谢开源
+- 深圳北理莫斯科大学RoboMaster北极熊战队 https://gitee.com/SMBU-POLARBEAR
+- 湖南大学 跃鹿 战队
