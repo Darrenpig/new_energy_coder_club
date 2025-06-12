@@ -3,6 +3,11 @@
 @22自三杨力滔
 ## 02流体工作站 20250319
 ## 03焊接UR灵巧手 20250331
+## 04 @张奕泽 HCX-A(esp32-S3驱动板开调）
+HCX资料链接：
+- git clone https://gitee.com/darrenpig/BoardA.git
+- https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32/api-reference/peripherals/mcpwm.html
+
 
 # 主要定位上述项目
 ## 下面为仓库数字资料/开源引用源
