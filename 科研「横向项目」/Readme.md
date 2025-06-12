@@ -1,12 +1,14 @@
-# 横向项目：[飞书选型方案文档点我](https://wwd6b1oeu5f.feishu.cn/drive/folder/J5VWftjN1lTzdQd9xEUcnOxGn4u)
+# 横向项目：目前HCX主线esp32调试
+[飞书选型方案文档点我](https://wwd6b1oeu5f.feishu.cn/drive/folder/J5VWftjN1lTzdQd9xEUcnOxGn4u)
 ## 01易百纳星闪手柄
 @22自三杨力滔
 ## 02流体工作站 20250319
 ## 03焊接UR灵巧手 20250331
 ## 04 @张奕泽 HCX-A(esp32-S3驱动板开调）
 HCX资料链接：
-- git clone https://gitee.com/darrenpig/BoardA.git
-- https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32/api-reference/peripherals/mcpwm.html
+- 复用模块库 https://gitee.com/darrenpig/BoardA.git
+- esp32官方文档https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32/api-reference/peripherals/mcpwm.html
+- HCX推荐文档：http://doc.s.odn.cc/doc/109/
 
 
 # 主要定位上述项目
