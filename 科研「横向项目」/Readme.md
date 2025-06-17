@@ -5,6 +5,8 @@
 ## 02流体工作站 20250319
 ## 03焊接UR灵巧手 20250331
 ## 04 @张奕泽 HCX-A(esp32-S3驱动板开调）
+## 05 @张龚轩 MICA 关键性验证
+
 HCX资料链接：
 - 复用模块库 https://gitee.com/darrenpig/BoardA.git
 - esp32官方文档https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32/api-reference/peripherals/mcpwm.html
