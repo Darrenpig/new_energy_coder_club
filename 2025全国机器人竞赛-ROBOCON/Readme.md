@@ -200,27 +200,11 @@
 ##### 机械设计：[轮足方案](%E6%9C%BA%E6%A2%B0%E7%BB%84/1739800297809.png)以上述图片为概念模板，底部采用轮足结构，去掉下肢，上肢机械臂参考灵犀图纸，并暂以3爪为设计构想 
 
 ---
-
-# 重要通知
-
-### 手上有项目的同学加油推进
-
----
-| 资源内容             | 提取码 | 解压密码     | 资源内容                   | 提取码 | 解压密码 |
-|----------------------|--------|--------------|----------------------------|--------|----------|
-| [FRC资源](https://pan.baidu.com/s/1Lb-6-qHJWfZHe0Xt7gENZA?pwd=qqqw)             | qqqw   | www.yuanjingziyuan.com | [ROS机器人控制板](https://www.yahboom.com/study/ROS-Driver-Board)   | o8jw   | -        |
-| [麦克纳姆轮资源](https://pan.baidu.com/s/1tcdy3Pal2nWJrMsk9uTvZg?pwd=8888)       | 8888   | www.yuanjingziyuan.com | [ROS专用USB遥控手柄](https://www.yahboom.com/study/USB-PS2)   | qscm  | -        |
-| [驱动轮资源](https://pan.baidu.com/s/1ev6YT357j8gE5YqN-pSvKw?pwd=8888)           | 8888   | www.yuanjingziyuan.com | [MicroROS-Pi5](https://www.yahboom.com/study/MicroROS-Pi5)       | sfah   | -        |
-| [各大高校气动教程](https://pan.baidu.com/s/1fjMW7g9zQfWwaDRmbepnww?pwd=8888)    | 8888   | www.yuanjingziyuan.com | [树莓派5](https://www.yahboom.com/study/raspberry5)        | erwp   | -        |
-| [SW标准库](https://pan.baidu.com/s/1q5CYWZu2qm4OTV5Cb_3F8Q?pwd=8888)    | 8888   | www.yuanjingziyuan.com | [MicroROS机器人控制板](https://www.yahboom.com/study/MicroROS-Board)   | dsaf  | -        |
-| [SW齿轮⚙️](https://pan.baidu.com/s/1fU57t5LUnv7MZXY-dB0FKA?pwd=6666)    | 6666   | www.yuanjingziyuan.com |[520编码器减速电机](https://www.yahboom.com/study/MD520) | sdfa  | -        |
-| [设计资料](https://pan.baidu.com/s/1Br8vvkiS3YGGjmcoN2HSVA?pwd=2222)    | 2222   | www.yuanjingziyuan.com |[MicroROS(ESP32)Robot](https://www.yahboom.com/study/MicroROS-ESP32) |ypom | -        |
-| [SW螺母螺丝](https://pan.baidu.com/s/1Uh7PgGlxNxghdW2g_wh8oA?pwd=8888)    | 8888   | www.yuanjingziyuan.com | [PS2智能车](http://www.yahboom.com/study_module/PS2) | 886d    | -        |
-| [SW气缸](https://pan.baidu.com/s/1GyOpvLqisBan5XhT6dwzzg?pwd=8888)    |   8888 |电控BSP框架|【跃鹿战队】https://gitee.com/hnuyuelurm/basic_framework|
----
+# 财务开源进度
+#### 250626  @徐海婷 整理 2 个月来的发票，确定报销/团队经费进度，准备明天开始报销+预算统计
 
 
-
+----
 ![AGV](https://gitee.com/jumuwa/new_energy_coder_club/raw/master/Image/duolun.jpg)
 >  @郑钦文 完成出图，5.31 @Hollic对接3D打印
 ![PUMP](image/Pump-TEMP.jpg)
@@ -234,4 +218,4 @@
 
 # 感谢开源
 - 深圳北理莫斯科大学RoboMaster北极熊战队 https://gitee.com/SMBU-POLARBEAR
-- 湖南大学 跃鹿 战队
+- 湖南大学 跃鹿 战队 【跃鹿战队】https://gitee.com/hnuyuelurm/basic_framework
