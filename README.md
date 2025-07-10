@@ -217,4 +217,7 @@ Thank you sincerely to the following partners and developers. It is your outstan
 |10 | Lazymieie-ness            | Developer | 机械设计        | @孙如婕      |<img src="https://img.shields.io/badge/Mechanic-fedcba" alt="License">|
 ## 最近案例：Duma小人形机器人Demo
 ![Duma](Image/Duma_image.png)
-
+# 近期工作：
+- 宇树 GO8010-6 电机驱动控制 https://vsislab.github.io/RoboTamer/
+- 气缸控制 BinBin 开源
+- ROBOCON 带队开发
