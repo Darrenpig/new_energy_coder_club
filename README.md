@@ -1,22 +1,7 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
-<!--
-*** Thanks for checking out the new_energy_coder_club. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
-***![团队240702fame](Image/240802Coder_Club%E5%9B%A2%E9%98%9F%E5%88%9D%E6%AD%A5%E6%9E%84%E6%88%90%20%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%20DarrenPig%20%E7%9A%84%E4%BB%93%E5%BA%93%EF%BC%81.png)
--->
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
+![输入图片说明](Image/NEC_RC%E5%90%88%E7%85%A7.jpg)
 
 <!-- PROJECT LOGO -->
 <br />
