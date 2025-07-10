@@ -1,8 +1,6 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 
-![输入图片说明](Image/NEC_RC%E5%90%88%E7%85%A7.jpg)
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -36,7 +34,8 @@
   </p>
 </div>
 
-
+![NEC-2025](Image/NEC_RC%E5%90%88%E7%85%A7.jpg)
+> NEC 团队成员们的合照
 
 ## Repositories 📦
 
