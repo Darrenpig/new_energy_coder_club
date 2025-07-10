@@ -45,9 +45,7 @@
     <br />
     <a href="https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2025%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B-ROBOCON">View NEC_RC 2025 赛季</a>
     ·
-    <a href="https://pan.baidu.com/s/1zgAP8AmdhWhqjbqm_c0mog?pwd=v72M">82套2024FRC图纸链接 </a>
-    ·
-    <a href="https://pan.baidu.com/s/1W2RayBVYXKY17Z5m9e7jlA?pwd=veww">NEC团队企业百度网盘资料</a>
+    <a href="https://gitee.com/darrenpig/new_energy_coder_club/issues/IC9NDX">【图纸+开发】仓库资料 ROS拓展板/esp/ps2/小车/FRC/舵轮/标准库"</a>
     ·
     <a href="https://pan.baidu.com/s/1NcGkC6xRrA6sJ226mdPGIA?pwd=6yq5">铝方型材设计MayCAD</a>
   </p>
