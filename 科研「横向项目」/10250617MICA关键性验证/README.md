@@ -13,3 +13,5 @@ https://gitee.com/openeuler/yocto-meta-st/tree/master/meta-st-stm32mp/recipes-de
 #### 250622 安装好4T WSL2 Ubuntu22.04开发环境
 #### 250623 下载VM Ubuntu22.04环境
 #### 250630 开始部署oebuild
+#### 250716 安装需要的环境
+#### 250717 创建开发环境
