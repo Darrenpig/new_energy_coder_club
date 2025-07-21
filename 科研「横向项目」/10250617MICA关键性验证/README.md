@@ -1,5 +1,5 @@
  **DarrenPig：第一个开源项目** 
-## @张龚轩250617
+> @张龚轩250617 PM 进度跟踪
 这样第一个热身运动任务：
 把参照Zephyr的集成方式，把RT-Thread高效的集成到openEuler Embedded中，要有MICA，可以baremetal的方式（可以不用虚拟化）
 https://gitee.com/openeuler/yocto-meta-openeuler/tree/master/rtos/meta-rtthread 之前的工作基础， 对于工具链可以参照
@@ -15,3 +15,4 @@ https://gitee.com/openeuler/yocto-meta-st/tree/master/meta-st-stm32mp/recipes-de
 #### 250630 开始部署oebuild
 #### 250716 安装需要的环境
 #### 250717 创建开发环境
+#### 250722 开发环境部署完成
