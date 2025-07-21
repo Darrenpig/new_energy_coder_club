@@ -16,3 +16,9 @@ https://gitee.com/openeuler/yocto-meta-st/tree/master/meta-st-stm32mp/recipes-de
 #### 250716 安装需要的环境
 #### 250717 创建开发环境
 #### 250722 开发环境部署完成
+![zephyr_rtt](../image/zephyr_compare_rtt.png)
+对比了下工具链的差别，实际上主要集中在开发环境，以及在dev-tool-chain的缺失下
+应该是需要一个toolchain.bb文件
+类似给出的任务也比较详细
+https://gitee.com/openeuler/yocto-meta-st/tree/master/meta-st-stm32mp/recipes-devtools/gcc-arm-none-eabi
+类似我在clion中集成构建rtt的开发环境，用yocto更为方便
