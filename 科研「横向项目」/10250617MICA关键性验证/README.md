@@ -1,6 +1,10 @@
- **DarrenPig：第一个开源项目** 
-> @张龚轩250617 PM 进度跟踪
-这样第一个热身运动任务：
+ **DarrenPig：第一个开源项目**
+
+> ## **[openEuler](https://gitee.com/openeuler)/[yocto-meta-st](https://gitee.com/openeuler/yocto-meta-st)**/meta-st-stm32mp/recipes-devtools/**gcc-arm-none-eabi**
+>
+>  **[openEuler](https://gitee.com/openeuler)/[yocto-meta-openeuler](https://gitee.com/openeuler/yocto-meta-openeuler)**/rtos/meta-rtthread
+
+> 这样第一个热身运动任务：
 把参照Zephyr的集成方式，把RT-Thread高效的集成到openEuler Embedded中，要有MICA，可以baremetal的方式（可以不用虚拟化）
 https://gitee.com/openeuler/yocto-meta-openeuler/tree/master/rtos/meta-rtthread 之前的工作基础， 对于工具链可以参照
 https://gitee.com/openeuler/yocto-meta-st/tree/master/meta-st-stm32mp/recipes-devtools/gcc-arm-none-eabi
@@ -22,3 +26,7 @@ https://gitee.com/openeuler/yocto-meta-st/tree/master/meta-st-stm32mp/recipes-de
 类似给出的任务也比较详细
 https://gitee.com/openeuler/yocto-meta-st/tree/master/meta-st-stm32mp/recipes-devtools/gcc-arm-none-eabi
 类似我在clion中集成构建rtt的开发环境，用yocto更为方便
+
+**250727开发环境**
+
+rtos/meta-rtthread 开始文档修改（pull 开始修改版本1）
