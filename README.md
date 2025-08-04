@@ -203,3 +203,5 @@ Thank you sincerely to the following partners and developers. It is your outstan
 - 宇树 GO8010-6 电机驱动控制 https://vsislab.github.io/RoboTamer/
 - 气缸控制 BinBin 开源
 - ROBOCON 带队开发
+---
+目标链接：https://summerofcode.withgoogle.com/
