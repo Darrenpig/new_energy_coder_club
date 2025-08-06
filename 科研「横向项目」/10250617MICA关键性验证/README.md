@@ -30,3 +30,6 @@ https://gitee.com/openeuler/yocto-meta-st/tree/master/meta-st-stm32mp/recipes-de
 **250727开发环境**
 
 rtos/meta-rtthread 开始文档修改（pull 开始修改版本1）
+
+
+#### 250806 开始走文档寻找修改地址
