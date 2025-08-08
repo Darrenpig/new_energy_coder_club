@@ -205,3 +205,10 @@ Thank you sincerely to the following partners and developers. It is your outstan
 - ROBOCON 带队开发
 ---
 目标链接：https://summerofcode.withgoogle.com/
+---
+仓库：new_energy_coder_club 开源人形仓库 Gitee X Github 双向
+地址：江苏省常州市新北区辽河路666号 玉衡A416仓库
+Maintainer Wechat：Pei-pei-Zhu-Pig
+网址：https://gitee.com/darrenpig/new_energy_coder_club
+
+ **前沿技术机器人No.24** 
