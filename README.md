@@ -34,7 +34,7 @@
   </p>
 </div>
 
-![NEC-2025](Image/NEC_RC%E5%90%88%E7%85%A7.jpg)
+![NEC 团队成员们](https://darrenpig.github.io/files/news10.jpg)
 > NEC 团队成员们的合照
 
 ## Repositories 📦
