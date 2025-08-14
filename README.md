@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://gitee.com/darrenpig/new_energy_coder_club">
-    <img src="Image/Logo.png" alt="Logo" width="80" height="90">
+    <img src="shared/images/Image/Logo.png" alt="Logo" width="80" height="90">
   </a>
   <h3 align="center">new_energy_coder_club</h3>
 
@@ -33,6 +33,61 @@
     <a href="https://pan.baidu.com/s/1NcGkC6xRrA6sJ226mdPGIA?pwd=6yq5">铝方型材设计MayCAD</a>
   </p>
 </div>
+
+# 仓库结构
+
+本仓库采用**双驱动型**组织方式，分为竞赛驱动型和项目驱动型两大类别，便于管理和查找内容。
+
+## 目录结构
+
+### 1. 竞赛驱动型 (competitions/)
+按年份和竞赛类型组织，包含各年度参加的竞赛项目：
+
+- `2024/`: 2024年度竞赛项目
+  - `robocon/`: 全国机器人竞赛ROBOCON
+  - `huawei-cloud-ai/`: 华为云（化工行业人工智能应用）
+  - `smart-car-outdoor/`: 智能车室外赛
+  - `iot-design-huawei/`: 物联网设计竞赛
+  - `electronics-competition/`: 电赛预选
+  - `energy-saving/`: 节能减排大赛
+
+- `2025/`: 2025年度竞赛项目
+  - `robocon/`: 全国机器人竞赛ROBOCON
+  - `traffic-design/`: 交通设计大赛
+  - `energy-saving/`: 节能减排大赛
+
+### 2. 项目驱动型 (projects/)
+按技术领域和项目类型组织，促进跨竞赛项目的技术复用：
+
+- `ai/`: 人工智能相关项目
+  - `energy-monitoring/`: 能源监测
+  - `target-detection/`: 目标检测
+
+- `robotics/`: 机器人相关项目
+  - `humanoid-robot/`: 人形机器人
+  - `inspection-robot/`: 巡检机器人
+  - `swerve-drive/`: 舵轮驱动
+
+- `embedded/`: 嵌入式相关项目
+  - `nearlink/`: 星闪技术
+  - `esp32/`: ESP32开发
+
+- `industrial-design/`: 工业设计项目
+  - `duma-robot/`: Duma人形机器人
+
+### 3. 共享资源 (shared/)
+各项目共用的资源和工具：
+
+- `images/`: 图片资源
+- `models/`: 3D模型
+- `libraries/`: 代码库
+- `tools/`: 工具软件
+
+## 导航指南
+
+1. **查找竞赛项目**：前往 `competitions/[年份]/[竞赛名称]` 目录
+2. **查找技术项目**：前往 `projects/[技术领域]/[项目名称]` 目录
+3. **查找共享资源**：前往 `shared/[资源类型]` 目录
 
 ![NEC 团队成员们](https://darrenpig.github.io/files/news10.jpg)
 > NEC 团队成员们的合照
@@ -208,7 +263,6 @@ Thank you sincerely to the following partners and developers. It is your outstan
 ---
 仓库：new_energy_coder_club 开源人形仓库 Gitee X Github 双向
 地址：江苏省常州市新北区辽河路666号 玉衡A416仓库
-Maintainer Wechat：Pei-pei-Zhu-Pig
 网址：https://gitee.com/darrenpig/new_energy_coder_club
 
  **前沿技术机器人No.24** 
