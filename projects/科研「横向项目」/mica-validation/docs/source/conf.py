@@ -42,6 +42,9 @@ language = 'zh_CN'
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
+# GitHub Pages configuration
+html_extra_path = ['.nojekyll']  # 自动生成 .nojekyll 文件以禁用 Jekyll
+
 # Theme options
 html_theme_options = {
     'analytics_id': '',

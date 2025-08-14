@@ -98,6 +98,8 @@ new_energy_coder_club/
   - `pneumatic-system/`: 气缸控制系统开发
   - `3d-printing-team/`: 3D打印成型组
   - `mica-validation/`: MICA关键性验证项目 [📚 在线文档](./projects/科研「横向项目」/mica-validation/docs/build/html/index.html)
+    - 📖 [GitHub Actions 部署指南](./projects/科研「横向项目」/mica-validation/docs/GITHUB_ACTIONS_DEPLOYMENT.md) - 完整的自动化部署配置
+    - ✅ [部署检查清单](./projects/科研「横向项目」/mica-validation/docs/DEPLOYMENT_CHECKLIST.md) - 确保部署成功的逐步指南
 
 ### 3. 共享资源 (shared/)
 各项目共用的资源和工具：

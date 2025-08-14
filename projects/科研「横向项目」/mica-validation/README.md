@@ -314,6 +314,109 @@ open _build/html/index.html
 - 🔧 **API参考**: [接口文档](https://mica-validation.readthedocs.io/api/)
 - 💡 **示例代码**: [代码示例](https://mica-validation.readthedocs.io/examples/)
 
+#### 部署到 GitHub Pages
+
+**方法 1：使用 `gh-pages` 分支**
+
+1. **生成 HTML 文件**
+   ```bash
+   cd docs
+   make html
+   ```
+
+2. **创建 `gh-pages` 分支**
+   ```bash
+   git checkout -b gh-pages
+   ```
+
+3. **复制 HTML 文件到项目根目录**
+   ```bash
+   cp -r docs/build/html/* .
+   ```
+
+4. **添加并提交更改**
+   ```bash
+   git add .
+   git commit -m "Add Sphinx HTML documentation to gh-pages branch"
+   ```
+
+5. **推送到远程仓库**
+   ```bash
+   git push -u origin gh-pages
+   ```
+
+**方法 2：通过仓库设置的 "Pages" 选项**
+
+1. **生成 HTML 文件**
+   ```bash
+   cd docs
+   make html
+   ```
+
+2. **将 HTML 文件移到 `docs` 文件夹**
+   ```bash
+   cp -r build/html/* ../docs/
+   ```
+
+3. **添加并提交更改**
+   ```bash
+   git add .
+   git commit -m "Add Sphinx HTML documentation to docs folder"
+   git push origin main
+   ```
+
+4. **配置 GitHub Pages**
+   - 在 GitHub 仓库页面点击 "Settings"
+   - 选择 "Pages" → "Branch: main" → "Folder: /docs"
+   - 点击 "Save" 保存设置
+
+**禁用 Jekyll**
+
+GitHub Pages 默认使用 Jekyll，需要禁用以支持 Sphinx：
+
+1. **创建 `.nojekyll` 文件**
+   ```bash
+   touch .nojekyll
+   ```
+
+2. **或在 `conf.py` 中添加配置**
+   ```python
+   html_extra_path = ['_build/html']
+   ```
+
+部署完成后，文档将通过 `https://<username>.github.io/<repository-name>/` 访问。
+
+#### 方法 3：使用 GitHub Actions 自动部署
+
+项目已配置 GitHub Actions 工作流，可自动构建和部署文档：
+
+1. **工作流文件**：`.github/workflows/docs.yml`
+2. **触发条件**：推送到 `main` 或 `master` 分支
+3. **自动化流程**：
+   - 安装 Python 和依赖
+   - 构建 Sphinx 文档
+   - 部署到 `gh-pages` 分支
+
+**使用方法**：
+```bash
+git add .
+git commit -m "Update documentation"
+git push origin main
+```
+
+推送后，GitHub Actions 将自动构建并部署文档到 GitHub Pages。
+
+**详细配置指南**：[GitHub Actions 部署完整文档](./docs/GITHUB_ACTIONS_DEPLOYMENT.md)
+
+该指南包含：
+- 🔧 完整的配置步骤
+- 🚨 故障排除方案
+- 🎯 最佳实践建议
+- 📚 相关文档链接
+- 🔄 多种工作流模板
+
+**快速检查清单**：[部署检查清单](./docs/DEPLOYMENT_CHECKLIST.md) - 确保部署成功的逐步检查指南
+
 ### 🎯 学习路径
 
 #### 新手入门 (⏱️ 30分钟)
