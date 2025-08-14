@@ -247,23 +247,7 @@ new_energy_coder_club/
 ## Acknowledgments 致谢 📂
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!感谢以下开源组件、资料、资源库的帮助
 
-### References 参考文献
 
-1. React Icons Development Team. React Icons Search Interface. https://react-icons.github.io/react-icons/search (2024).
-2. 远景资源团队. FRC机器人竞赛技术图纸资源库. http://pan.baidu.com/s/1zgAP8AmdhWhqjbqm_c0mog?pwd=v72M (2024).
-3. 机械智库. SolidWorks标准零件库. https://shop128404759.taobao.com/ (2024).
-4. 远景资源网. 工程技术资源共享平台. https://yuanjingziyuan.com/ (2024).
-5. CSDN博主. GitHub Badge制作教程指南. https://blog.csdn.net/m0_74037814/article/details/139511804 (2024).
-6. 新能源编程俱乐部. 2025全国机器人竞赛ROBOCON项目文档. ./competitions/2025/robocon/2025全国机器人竞赛_ROBOCON/ (2025).
-7. ROBOCON组委会. 全国大学生机器人大赛ROBOCON技术论坛. https://ask.cnrobocon.net/ (2024).
-8. DJI大疆创新. RoboMaster机甲大师赛官方技术论坛. https://bbs.robomaster.com/ (2024).
-9. 立创EDA. 开源硬件平台OSHW HUB技术社区. https://oshwhub.com/explore (2024).
-10. openEuler社区. 嵌入式SIG雪球计划南向BSP支持项目. https://gitee.com/openeuler/yocto-meta-openeuler/issues/I90DOU#comment-loadder (2024).
-11. 中科院软件研究所. 开源之夏AGL智能汽车项目. https://gitee.com/openeuler/open-source-summer/issues/IC3VLM#note_43627656 (2024).
-12. 深圳北理莫斯科大学. RoboMaster北极熊战队开源项目. https://gitee.com/SMBU-POLARBEAR (2024).
-13. 湖南大学跃鹿战队. RoboMaster电控通用嵌入式框架. https://gitee.com/hnuyuelurm/basic_framework (2024).
-14. UC Berkeley. Berkeley Humanoid Lite开源人形机器人项目. https://lite.berkeley-humanoid.org/ (2025).
-15. 重庆邮电大学HXC团队. ESP32开发板套件开源硬件设计. https://oshwhub.com/qingmeijiupiao/esp32robo (2024).
 ## 感谢以下赞助伙伴，以及全体开发者们
 ![Vi2024](./shared/images/Image/Warehouse%20Member%20Advocacy%20Vi2024.png)
 
@@ -276,16 +260,16 @@ Use this space to list resources you find helpful and would like to give credit 
 
 |序号 |ID |负责 |职位 |  技能 |
 |---|---|---|---|---|
-|1 | @殷统创    |HMI界面   |负责人    | Qt绘图      |
-|2 | @DarrenPig |需求对接  |负责人    | 方案提供    |
-|3 | @杨鑫海    |硬件安装   |负责人   | 文档分析     |
-|4 | @李一楠    |开发合规   |负责人   | 运营合规     |
-|5 | @卞乐凌    |24 电三    |硬件成员 | 架构文档     |
-|6 | @李硕      |24 电四    |硬件成员 | 焊接连线     |
-|7 | @单广志    |仿真控制   |负责人  | 指令仿真     |
-|8 | @郑钦文    |24 机二    |负责人  | MayCAD型材  |
-|9 | @田旺旺    |24 信四    |  | 上位机    | 
-|10| @孙如婕    |24 机一   |负责人  | 机械设计   | 
+|1 | @殷统创     |HMI界面    |顾问       | Qt绘图       |
+|2 | @DarrenPig |需求对接    |负责人     | 方案提供      |
+|3 | @杨鑫海     |硬件安装    |商务      | 文档分析      |
+|4 | @李一楠     |开发合规    |合规运营   | 运营合规      |
+|5 | @卞乐凌     |24 电三    |硬件       | 架构文档      |
+|6 | @李硕       |24 电四    |成员       | 焊接连线      |
+|7 | @单广志     |仿真控制    |负责人     | 指令仿真       |
+|8 | @郑钦文     |24 机二    | 协助      | MayCAD型材     |
+|9 | @田旺旺     |24 信四    | 负责人    | 上位机          | 
+|10| @孙如婕     |24 机一    | 协助      | 机械设计        | 
 <div align="center">  </p>
 
 
@@ -348,10 +332,37 @@ Thank you sincerely to the following partners and developers. It is your outstan
 - 气缸控制 BinBin 开源
 - ROBOCON 带队开发
 ---
-目标链接：https://summerofcode.withgoogle.com/
+
+### References 参考文献
+
+1. React Icons Development Team. React Icons Search Interface. https://react-icons.github.io/react-icons/search (2024).
+2. 远景资源团队. FRC机器人竞赛技术图纸资源库. http://pan.baidu.com/s/1zgAP8AmdhWhqjbqm_c0mog?pwd=v72M (2024).
+3. 机械智库. SolidWorks标准零件库. https://shop128404759.taobao.com/ (2024).
+4. 远景资源网. 工程技术资源共享平台. https://yuanjingziyuan.com/ (2024).
+5. CSDN博主. GitHub Badge制作教程指南. https://blog.csdn.net/m0_74037814/article/details/139511804 (2024).
+6. 新能源编程俱乐部. 2025全国机器人竞赛ROBOCON项目文档. ./competitions/2025/robocon/2025全国机器人竞赛_ROBOCON/ (2025).
+7. ROBOCON组委会. 全国大学生机器人大赛ROBOCON技术论坛. https://ask.cnrobocon.net/ (2024).
+8. DJI大疆创新. RoboMaster机甲大师赛官方技术论坛. https://bbs.robomaster.com/ (2024).
+9. 立创EDA. 开源硬件平台OSHW HUB技术社区. https://oshwhub.com/explore (2024).
+10. openEuler社区. 嵌入式SIG雪球计划南向BSP支持项目. https://gitee.com/openeuler/yocto-meta-openeuler/issues/I90DOU#comment-loadder (2024).
+11. 中科院软件研究所. 开源之夏AGL智能汽车项目. https://gitee.com/openeuler/open-source-summer/issues/IC3VLM#note_43627656 (2024).
+12. 深圳北理莫斯科大学. RoboMaster北极熊战队开源项目. https://gitee.com/SMBU-POLARBEAR (2024).
+13. 湖南大学跃鹿战队. RoboMaster电控通用嵌入式框架. https://gitee.com/hnuyuelurm/basic_framework (2024).
+14. UC Berkeley. Berkeley Humanoid Lite开源人形机器人项目. https://lite.berkeley-humanoid.org/ (2025).
+15. 重庆邮电大学HXC团队. ESP32开发板套件开源硬件设计. https://oshwhub.com/qingmeijiupiao/esp32robo (2024).
+
 ---
+
 仓库：new_energy_coder_club 开源人形仓库 Gitee X Github 双向
 地址：江苏省常州市新北区辽河路666号 玉衡A416仓库
 网址：https://gitee.com/darrenpig/new_energy_coder_club
 
  **前沿技术机器人No.24**
+
+---
+
+© 2025 NEC All Right Reserved.
+
+---
+
+苏ICP备2025187096号-1X
