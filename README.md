@@ -247,11 +247,23 @@ new_energy_coder_club/
 ## Acknowledgments 致谢 📂
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!感谢以下开源组件、资料、资源库的帮助
 
-* [React Icons](https://react-icons.github.io/react-icons/search)
-* [远景资源FRC图纸](http://pan.baidu.com/s/1zgAP8AmdhWhqjbqm_c0mog?pwd=v72M)
-* [机械智库SW标准库](https://shop128404759.taobao.com/)
-* [远景资源密码： www.yuanjingziyuan.com  ](https://yuanjingziyuan.com/)
-* [badage教程链接](https://blog.csdn.net/m0_74037814/article/details/139511804)
+### References 参考文献
+
+1. React Icons Development Team. React Icons Search Interface. https://react-icons.github.io/react-icons/search (2024).
+2. 远景资源团队. FRC机器人竞赛技术图纸资源库. http://pan.baidu.com/s/1zgAP8AmdhWhqjbqm_c0mog?pwd=v72M (2024).
+3. 机械智库. SolidWorks标准零件库. https://shop128404759.taobao.com/ (2024).
+4. 远景资源网. 工程技术资源共享平台. https://yuanjingziyuan.com/ (2024).
+5. CSDN博主. GitHub Badge制作教程指南. https://blog.csdn.net/m0_74037814/article/details/139511804 (2024).
+6. 新能源编程俱乐部. 2025全国机器人竞赛ROBOCON项目文档. ./competitions/2025/robocon/2025全国机器人竞赛_ROBOCON/ (2025).
+7. ROBOCON组委会. 全国大学生机器人大赛ROBOCON技术论坛. https://ask.cnrobocon.net/ (2024).
+8. DJI大疆创新. RoboMaster机甲大师赛官方技术论坛. https://bbs.robomaster.com/ (2024).
+9. 立创EDA. 开源硬件平台OSHW HUB技术社区. https://oshwhub.com/explore (2024).
+10. openEuler社区. 嵌入式SIG雪球计划南向BSP支持项目. https://gitee.com/openeuler/yocto-meta-openeuler/issues/I90DOU#comment-loadder (2024).
+11. 中科院软件研究所. 开源之夏AGL智能汽车项目. https://gitee.com/openeuler/open-source-summer/issues/IC3VLM#note_43627656 (2024).
+12. 深圳北理莫斯科大学. RoboMaster北极熊战队开源项目. https://gitee.com/SMBU-POLARBEAR (2024).
+13. 湖南大学跃鹿战队. RoboMaster电控通用嵌入式框架. https://gitee.com/hnuyuelurm/basic_framework (2024).
+14. UC Berkeley. Berkeley Humanoid Lite开源人形机器人项目. https://lite.berkeley-humanoid.org/ (2025).
+15. 重庆邮电大学HXC团队. ESP32开发板套件开源硬件设计. https://oshwhub.com/qingmeijiupiao/esp32robo (2024).
 ## 感谢以下赞助伙伴，以及全体开发者们
 ![Vi2024](./shared/images/Image/Warehouse%20Member%20Advocacy%20Vi2024.png)
 
@@ -272,7 +284,7 @@ Use this space to list resources you find helpful and would like to give credit 
 |6 | @李硕      |24 电四    |硬件成员 | 焊接连线     |
 |7 | @单广志    |仿真控制   |负责人  | 指令仿真     |
 |8 | @郑钦文    |24 机二    |负责人  | MayCAD型材  |
-|9 | @田旺旺    |24 信四    |硬件成员  | 上位机    | 
+|9 | @田旺旺    |24 信四    |  | 上位机    | 
 |10| @孙如婕    |24 机一   |负责人  | 机械设计   | 
 <div align="center">  </p>
 
