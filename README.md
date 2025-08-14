@@ -45,10 +45,11 @@ new_energy_coder_club/
 ├── competitions/           # 竞赛驱动型项目
 │   ├── 2024/              # 2024年度竞赛
 │   └── 2025/              # 2025年度竞赛
-├── projects/              # 项目驱动型开发
-│   ├── ai/                # 人工智能项目
-│   ├── robotics/          # 机器人项目
-│   ├── embedded/          # 嵌入式项目
+├── projects/              # 项目驱动型开发 [详细说明](./projects/README.md)
+│   ├── ai/                # 人工智能项目 [查看详情](./projects/ai/README.md)
+│   ├── robotics/          # 机器人项目 [查看详情](./projects/robotics/README.md)
+│   ├── embedded/          # 嵌入式项目 [查看详情](./projects/embedded/README.md)
+│   ├── templates/         # 项目模板 [查看详情](./projects/templates/README.md)
 │   └── 科研「横向项目」/    # 科研合作项目
 ├── shared/                # 共享资源库
 │   ├── images/            # 图片资源
@@ -79,21 +80,24 @@ new_energy_coder_club/
 ### 2. 项目驱动型 (projects/)
 按技术领域和项目类型组织，促进跨竞赛项目的技术复用：
 
-- `ai/`: 人工智能相关项目
-  - `energy-monitoring/`: 能源监测
-  - `target-detection/`: 目标检测
+- `ai/`: 人工智能相关项目 [📖 详细说明](./projects/ai/README.md)
+  - `energy-monitoring/`: 能源监测系统
 
-- `robotics/`: 机器人相关项目
-  - `humanoid-robot/`: 人形机器人
-  - `inspection-robot/`: 巡检机器人
-  - `swerve-drive/`: 舵轮驱动
+- `robotics/`: 机器人相关项目 [📖 详细说明](./projects/robotics/README.md)
+  - `humanoid-robot/`: 人形机器人开发
+  - `250510飞控通讯/`: 飞行控制系统
 
-- `embedded/`: 嵌入式相关项目
-  - `nearlink/`: 星闪技术
-  - `esp32/`: ESP32开发
+- `embedded/`: 嵌入式相关项目 [📖 详细说明](./projects/embedded/README.md)
+  - `nearlink/`: 星闪技术开发
 
-- `industrial-design/`: 工业设计项目
-  - `duma-robot/`: Duma人形机器人
+- `templates/`: 项目开发模板 [📖 详细说明](./projects/templates/README.md)
+  - 提供AI、嵌入式、机器人等项目的标准化模板
+
+- `科研「横向项目」/`: 科研合作项目 [📖 详细说明](./projects/科研「横向项目」/README.md)
+  - `dexterous-hand/`: 人形机器人UMI低成本灵巧手项目
+  - `pneumatic-system/`: 气缸控制系统开发
+  - `3d-printing-team/`: 3D打印成型组
+  - `mica-validation/`: MICA关键性验证项目 [📚 在线文档](./projects/科研「横向项目」/mica-validation/docs/build/html/index.html)
 
 ### 3. 共享资源 (shared/)
 各项目共用的资源和工具：
@@ -116,10 +120,14 @@ new_energy_coder_club/
 - **📦 共享资源**：`shared/[资源类型]`
 
 ### 🔥 热门项目快速入口
+- [📁 项目总览](./projects/README.md) - 查看所有项目分类和导航
 - [🤖 2025 ROBOCON](./competitions/2025/robocon/2025全国机器人竞赛_ROBOCON/) - 全国大学生机器人竞赛
 - [🦾 人形机器人](./projects/robotics/humanoid-robot/人形机器人主线/) - Duma小型人形机器人项目
 - [⚡ 星闪技术](./projects/embedded/nearlink/20250426星闪手柄/) - 新一代无线通信技术
 - [🧠 AI能源监测](./projects/ai/energy-monitoring/20250319流体工作站/) - 智能能源管理系统
+- [🔬 科研横向项目](./projects/科研「横向项目」/README.md) - 产学研合作项目总览
+- [🎯 MICA验证项目](./projects/科研「横向项目」/mica-validation/README.md) - 关键性验证与文档系统
+- [🛠️ 项目模板](./projects/templates/README.md) - 标准化开发模板
 
 ### 📊 项目状态概览
 | 类别 | 活跃项目数 | 状态 | 最近更新 |
@@ -127,6 +135,7 @@ new_energy_coder_club/
 | 🏆 竞赛项目 | 9个 | 🟢 活跃 | 2025-01 |
 | 🤖 机器人项目 | 3个 | 🟢 活跃 | 2025-01 |
 | 🔬 AI项目 | 2个 | 🟡 开发中 | 2024-12 |
+| 🔬 科研横向项目 | 4个 | 🟢 活跃 | 2025-01 |
 | ⚡ 嵌入式项目 | 2个 | 🟢 活跃 | 2025-01 |
 
 ![NEC 团队成员们](https://darrenpig.github.io/files/news10.jpg)
@@ -136,13 +145,14 @@ new_energy_coder_club/
 
 | Title                                                           | Description                                                                             | License                                                                  |
 |-----------------------------------------------------------------|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| [2024全国大学生机器人竞赛_ROBOCON](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B_ROBOCON) | 2024赛季RC团队的开发项目流程开源 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
-| [2024首届数据要素AI化工赛题_华为云（AI人工智能）](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E5%8D%8E%E4%B8%BA%E4%BA%91%EF%BC%88%E5%8C%96%E5%B7%A5%E8%A1%8C%E4%B8%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%EF%BC%89)     | 提供“星闪智巡”项目的接口和开发基线 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
-| [2024全国大学生智能车竞赛_室外赛比赛](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E6%99%BA%E8%83%BD%E8%BD%A6%E5%AE%A4%E5%A4%96%E8%B5%9B%E6%AF%94%E8%B5%9B)           |汽车工程学院机器人实验室提供的开发环境    | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
-| [2024全国大学生物联网设计竞赛_Huawei数通](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E7%89%A9%E8%81%94%E7%BD%91%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B_Huawei%E6%95%B0%E9%80%9A)     | 工业级边缘计算网关AR502H-CN 开发学习文档| <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
-| [2024全国大学生电子设计竞赛_电赛预选_EB25-SIG](https://github.com/FFTAI/Wiki-GRx-Gazebo)     | 星闪通讯协议模块的Demo实验    | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
+| [🏆 2024年竞赛项目总览](./competitions/2024/README.md) | 2024年度所有竞赛项目的导航和概览 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
+| [🤖 2024 ROBOCON](./competitions/2024/robocon/README.md) | 2024赛季RC团队的开发项目流程开源 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
+| [🧠 2024华为云AI化工赛题](./competitions/2024/huawei-cloud-ai/README.md) | 提供"星闪智巡"项目的接口和开发基线 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
+| [🚗 2024智能车室外赛](./competitions/2024/smart-car-outdoor/README.md) | 汽车工程学院机器人实验室提供的开发环境 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
+| [🌐 2024物联网设计竞赛](./competitions/2024/iot-design-huawei/README.md) | 工业级边缘计算网关AR502H-CN 开发学习文档 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
+| [⚡ 2024电子设计竞赛](./competitions/2024/electronics-competition/README.md) | 星闪通讯协议模块的Demo实验 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
 | [2025全国大学生机器人竞赛-ROBOCON](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2025%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B-ROBOCON)     | 人形机器人开发 项目流程管理，项目基线  | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
-| [2024全国大学生节能减排大赛](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E8%8A%82%E8%83%BD%E5%87%8F%E6%8E%92%E5%A4%A7%E8%B5%9B_Nearlink%E5%B0%8F%E8%BD%A6)                              | 亚博智能 巡检小车Demo,研究esp32-UDP虚拟机   | <img src="https://img.shields.io/badge/license-MIT-red" alt="License">   |
+| [🌱 2024节能减排大赛](./competitions/2024/energy-saving/README.md) | 亚博智能 巡检小车Demo,研究esp32-UDP虚拟机 | <img src="https://img.shields.io/badge/license-MIT-red" alt="License"> |
 
 
 
@@ -170,7 +180,7 @@ new_energy_coder_club/
 [![Project](https://img.shields.io/badge/project-new_energy_coder_club-violet)](https://github.com/users/Darrenpig/projects/3)
 
 ### Project Profile 项目简介
-目前是一个开源项目，想要做 1W 以内的人形机器人，同时兼顾高校开发者的竞赛需求，设计师们的落地项目实践，以及大家对好玩技术的追求。
+目前是一个开源项目，想要做 1W 以内的人形机器人，同时兼顾高校开发者的竞赛需求，设计师们的落地项目实践，以及大家的好玩技术的追求。
 我们将在2 个月内快速开发人形机器人 2+ 场景，并且通过广泛的横向项目来维护贡献这个项目。希望贡献项目的经历可以成为大家以后美好的回忆。——DarrenPig
 分支有以下的组成：
 ### 竞赛（3+ing） + 科研（IEEE 项目和专业课设） + 横向项目（委托外包和合作） + 开源运营（机器人社群和开源社区）
