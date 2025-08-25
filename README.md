@@ -335,8 +335,8 @@ Thank you sincerely to the following partners and developers. It is your outstan
 
 ### References 参考文献
 
-1. React Icons Development Team. React Icons Search Interface. https://react-icons.github.io/react-icons/search (2024).
-2. 远景资源团队. FRC机器人竞赛技术图纸资源库. http://pan.baidu.com/s/1zgAP8AmdhWhqjbqm_c0mog?pwd=v72M (2024).
+1.  React Icons Development Team. React Icons Search Interface. https://react-icons.github.io/react-icons/search (2024).
+2.  远景资源团队. FRC机器人竞赛技术图纸资源库. http://pan.baidu.com/s/1zgAP8AmdhWhqjbqm_c0mog?pwd=v72M (2024).
 3. 机械智库. SolidWorks标准零件库. https://shop128404759.taobao.com/ (2024).
 4. 远景资源网. 工程技术资源共享平台. https://yuanjingziyuan.com/ (2024).
 5. CSDN博主. GitHub Badge制作教程指南. https://blog.csdn.net/m0_74037814/article/details/139511804 (2024).
@@ -350,6 +350,24 @@ Thank you sincerely to the following partners and developers. It is your outstan
 13. 湖南大学跃鹿战队. RoboMaster电控通用嵌入式框架. https://gitee.com/hnuyuelurm/basic_framework (2024).
 14. UC Berkeley. Berkeley Humanoid Lite开源人形机器人项目. https://lite.berkeley-humanoid.org/ (2025).
 15. 重庆邮电大学HXC团队. ESP32开发板套件开源硬件设计. https://oshwhub.com/qingmeijiupiao/esp32robo (2024).
+
+---
+
+## 🚀 快速上手
+
+想要快速了解项目？观看下面的演示动画：
+
+![UR机器人路径规划演示](./projects/科研「横向项目」/image/UR5路径规划.gif)
+*UR机器人路径规划演示 - 展示机器人运动控制能力*
+
+![百度网盘加速演示](./shared/images/technical/百度网盘加速.gif)  
+*百度网盘加速功能演示 - 展示文件传输优化效果*
+
+### 快速开始步骤：
+1. **克隆仓库**: `git clone https://gitee.com/darrenpig/new_energy_coder_club`
+2. **查看项目**: 浏览 `projects/` 目录选择感兴趣的项目
+3. **环境配置**: 参考各项目的 `README.md` 进行环境搭建
+4. **运行演示**: 按照项目文档运行示例代码
 
 ---
 
