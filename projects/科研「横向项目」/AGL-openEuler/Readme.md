@@ -1,4 +1,4 @@
-# 结项报告模板
+# 实现Automotive Grade Linux在openEuler Embedded上的初步适配
 
 上传时请将文件命名为：朱佩韦+25b970251+结项报告
 
