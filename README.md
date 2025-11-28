@@ -9,12 +9,10 @@
   </a>
   <h3 align="center">new_energy_coder_club</h3>
 
-[![2025NEC_ROBOCON](https://img.shields.io/badge/2025NEC_全国机器人大赛ROBOCON-仓库-blue)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2025%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B-ROBOCON)  
-[![全国大学生智能车竞赛](https://img.shields.io/badge/2024全国大学生智能车竞赛-智能车室外赛比赛-ddff9a)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E6%99%BA%E8%83%BD%E8%BD%A6%E5%AE%A4%E5%A4%96%E8%B5%9B%E6%AF%94%E8%B5%9B)[![2024节能减排大赛](https://img.shields.io/badge/节能减排大赛-仓库-blue)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E8%8A%82%E8%83%BD%E5%87%8F%E6%8E%92%E5%A4%A7%E8%B5%9B_Nearlink%E5%B0%8F%E8%BD%A6)         [![物联网设计竞赛-meta_freescale](https://img.shields.io/badge/物联网设计竞赛-仓库-brightgreen)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E7%89%A9%E8%81%94%E7%BD%91%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B_Huawei%E6%95%B0%E9%80%9A)[![2024全国大学生机器人竞赛ROBOCON](https://img.shields.io/badge/ROBOCON竞赛-全国大学生机器人竞赛-172a88)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B_ROBOCON)
-[![license.md-meta_freescale](https://img.shields.io/badge/license.md-Markdown-violet
-)](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/LICENSE.md)
-[![Readme.md meta-imx](https://img.shields.io/badge/Readme.md-Markdown-8A2BE2
-)](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/README.md)
+[![2025NEC_ROBOCON](https://img.shields.io/badge/2025NEC_全国机器人大赛ROBOCON-仓库-blue)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/competition_2025%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B-ROBOCON)  
+[![全国大学生智能车竞赛](https://img.shields.io/badge/2024全国大学生智能车竞赛-智能车室外赛比赛-ddff9a)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E6%99%BA%E8%83%BD%E8%BD%A6%E5%AE%A4%E5%A4%96%E8%B5%9B%E6%AF%94%E8%B5%9B)[![2024节能减排大赛](https://img.shields.io/badge/节能减排大赛-仓库-blue)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E8%8A%82%E8%83%BD%E5%87%8F%E6%8E%92%E5%A4%A7%E8%B5%9B_Nearlink%E5%B0%8F%E8%BD%A6)         [![物联网设计竞赛-meta_freescale](https://img.shields.io/badge/物联网设计竞赛-仓库-brightgreen)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E7%89%A9%E8%81%94%E7%BD%91%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B_Huawei%E6%95%B0%E9%80%9A)[![2024全国大学生机器人竞赛ROBOCON](https://img.shields.io/badge/ROBOCON竞赛-全国大学生机器人竞赛-172a88)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/competition_2024%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B-ROBOCON)
+[![license.md-meta_freescale](https://img.shields.io/badge/license.md-Markdown-violet)](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/LICENSE.md)
+[![Readme.md meta-imx](https://img.shields.io/badge/Readme.md-Markdown-8A2BE2)](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/README.md) [![Website](https://img.shields.io/badge/Website-newenergycoder.club-orange)](https://www.newenergycoder.club)
   <p align="center">
 欢迎来到 「NEC新能源极客俱乐部」 —— 一个充满活力和脑洞的「开源游乐园」这里不仅是新能源、机器人爱好者的秘密基地，更是大学生竞赛党的「宝藏地图」  
 
@@ -24,9 +22,11 @@
 </div>
     <br />
     <a href="https://github.com/users/Darrenpig/projects/3/views/1"><strong>最新动态 下面是上述资料 »</strong></a>
+    ·
+    <a href="https://www.newenergycoder.club"><strong>访问官网 newenergycoder.club »</strong></a>
     <br />
     <br />
-    <a href="https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2025%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B-ROBOCON">View NEC_RC 2025 赛季</a>
+    <a href="https://gitee.com/darrenpig/new_energy_coder_club/tree/master/competition_2025%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B-ROBOCON">View NEC_RC 2025 赛季</a>
     ·
     <a href="https://gitee.com/darrenpig/new_energy_coder_club/issues/IC9NDX">【图纸+开发】仓库资料 ROS拓展板/esp/ps2/小车/FRC/舵轮/标准库"</a>
     ·
@@ -123,22 +123,38 @@ new_energy_coder_club/
 
 ### 🔥 热门项目快速入口
 - [📁 项目总览](./projects/README.md) - 查看所有项目分类和导航
-- [🤖 2025 ROBOCON](./competitions/2025/robocon/2025全国机器人竞赛_ROBOCON/) - 全国大学生机器人竞赛
+- [🤖 2025 ROBOCON](./competition_2025全国机器人竞赛_ROBOCON/) - 全国大学生机器人竞赛
 - [🦾 人形机器人](./projects/robotics/humanoid-robot/人形机器人主线/) - Duma小型人形机器人项目
 - [⚡ 星闪技术](./projects/embedded/nearlink/20250426星闪手柄/) - 新一代无线通信技术
-- [🧠 AI能源监测](./projects/ai/energy-monitoring/20250319流体工作站/) - 智能能源管理系统
+- [🧠 5轴流体工作站](./Project_5-axis-fluid-workstation/20250319流体工作站/) - 智能能源管理系统 · [GitHub](https://github.com/Darrenpig/5-axis-fluid-workstation)
+ - [🐶 轮腿机器狗 K230 KFS](./Project_MechDog机器狗_K230_KFS/) - 基于K230/KFS的轮腿机器狗工程
 - [🔬 科研横向项目](./projects/科研「横向项目」/README.md) - 产学研合作项目总览
 - [🎯 MICA验证项目](./projects/科研「横向项目」/mica-validation/README.md) - 关键性验证与文档系统
 - [🛠️ 项目模板](./projects/templates/README.md) - 标准化开发模板
 
+#### 2025 ROBOCON 组别快速入口
+- [📄 上位机组](./competition_2025全国机器人竞赛_ROBOCON/上位机组.md)
+- [📄 上位机组_运球机构](./competition_2025全国机器人竞赛_ROBOCON/上位机组_运球机构.md)
+- [📄 算法组](./competition_2025全国机器人竞赛_ROBOCON/算法组.md)
+- [📄 硬件组](./competition_2025全国机器人竞赛_ROBOCON/硬件组.md)
+- [📄 运营组](./competition_2025全国机器人竞赛_ROBOCON/运营组.md)
+- [📄 采购组](./competition_2025全国机器人竞赛_ROBOCON/采购组.md)
+- [📄 队伍结构](./competition_2025全国机器人竞赛_ROBOCON/队伍结构.md)
+
+#### 科研「横向项目」快速入口
+- [📄 3d-printing-sig](./projects/科研「横向项目」/3d-printing-sig.md)
+- [📄 AGL-openEuler](./projects/科研「横向项目」/AGL-openEuler.md)
+- [📄 dexterous-hand](./projects/科研「横向项目」/dexterous-hand.md)
+- [📄 pneumatic-system](./projects/科研「横向项目」/pneumatic-system.md)
+
 ### 📊 项目状态概览
 | 类别 | 活跃项目数 | 状态 | 最近更新 |
 |------|-----------|------|----------|
-| 🏆 竞赛项目 | 9个 | 🟢 活跃 | 2025-01 |
-| 🤖 机器人项目 | 3个 | 🟢 活跃 | 2025-01 |
+| 🏆 竞赛项目 | 9个 | 🟢 活跃 | 2025-11 |
+| 🤖 机器人项目 | 3个 | 🟢 活跃 | 2025-10 |
 | 🔬 AI项目 | 2个 | 🟡 开发中 | 2024-12 |
-| 🔬 科研横向项目 | 4个 | 🟢 活跃 | 2025-01 |
-| ⚡ 嵌入式项目 | 2个 | 🟢 活跃 | 2025-01 |
+| 🔬 科研横向项目 | 4个 | 🟢 活跃 | 2025-10 |
+| ⚡ 嵌入式项目 | 2个 | 🟢 活跃 | 2025-08 |
 
 ![NEC 团队成员们](https://darrenpig.github.io/files/news10.jpg)
 > NEC 团队成员们的合照
@@ -147,13 +163,13 @@ new_energy_coder_club/
 
 | Title                                                           | Description                                                                             | License                                                                  |
 |-----------------------------------------------------------------|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| [2025全国大学生机器人竞赛-ROBOCON](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/competition_2025%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B-ROBOCON) | 轮腿机器狗与轮腿人形机器人研发与竞赛基线 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
 | [🏆 2024年竞赛项目总览](./competitions/2024/README.md) | 2024年度所有竞赛项目的导航和概览 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
 | [🤖 2024 ROBOCON](./competitions/2024/robocon/README.md) | 2024赛季RC团队的开发项目流程开源 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
 | [🧠 2024华为云AI化工赛题](./competitions/2024/huawei-cloud-ai/README.md) | 提供"星闪智巡"项目的接口和开发基线 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
 | [🚗 2024智能车室外赛](./competitions/2024/smart-car-outdoor/README.md) | 汽车工程学院机器人实验室提供的开发环境 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
 | [🌐 2024物联网设计竞赛](./competitions/2024/iot-design-huawei/README.md) | 工业级边缘计算网关AR502H-CN 开发学习文档 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
 | [⚡ 2024电子设计竞赛](./competitions/2024/electronics-competition/README.md) | 星闪通讯协议模块的Demo实验 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
-| [2025全国大学生机器人竞赛-ROBOCON](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2025%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B-ROBOCON)     | 人形机器人开发 项目流程管理，项目基线  | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
 | [🌱 2024节能减排大赛](./competitions/2024/energy-saving/README.md) | 亚博智能 巡检小车Demo,研究esp32-UDP虚拟机 | <img src="https://img.shields.io/badge/license-MIT-red" alt="License"> |
 
 
@@ -182,7 +198,7 @@ new_energy_coder_club/
 [![Project](https://img.shields.io/badge/project-new_energy_coder_club-violet)](https://github.com/users/Darrenpig/projects/3)
 
 ### Project Profile 项目简介
-目前是一个开源项目，想要做 1W 以内的人形机器人，同时兼顾高校开发者的竞赛需求，设计师们的落地项目实践，以及大家的好玩技术的追求。
+目前是一个开源项目，想要做 1W 以内的人形机器人与轮腿机器狗，同时兼顾高校开发者的ROBOCON竞赛需求，设计师们的落地项目实践，以及大家的好玩技术的追求。
 我们将在2 个月内快速开发人形机器人 2+ 场景，并且通过广泛的横向项目来维护贡献这个项目。希望贡献项目的经历可以成为大家以后美好的回忆。——DarrenPig
 分支有以下的组成：
 ### 竞赛（3+ing） + 科研（IEEE 项目和专业课设） + 横向项目（委托外包和合作） + 开源运营（机器人社群和开源社区）
@@ -203,6 +219,7 @@ new_energy_coder_club/
 - **💡 建议 & 合作**：欢迎来 [Gitee Issues 区](https://gitee.com/darrenpig/new_energy_coder_club/issues ) 提需求！无论是项目合作还是功能建议，我们都会仔细阅读并标记为 `讨论中`/`已采纳`   
 - **🌐 社交阵地**：  
   - **Gitee 动态**：[项目主页](https://gitee.com/darrenpig/new_energy_coder_club) 实时更新代码与公告  
+  - **官方网站**：[newenergycoder.club](https://www.newenergycoder.club) 获取最新活动、文档与社区介绍  
   - **小红书达人**：关注 [DarrenPig](https://www.xiaohongshu.com/user/profile/62f2899b000000001f0074f1) 获取技术段子与新能源黑科技  
   - **微信社群**：[扫码](darrenpig.blog.csdn.net)加入开发者群（详情边栏底部名片），随时在线交流💬  
 
@@ -340,7 +357,7 @@ Thank you sincerely to the following partners and developers. It is your outstan
 3. 机械智库. SolidWorks标准零件库. https://shop128404759.taobao.com/ (2024).
 4. 远景资源网. 工程技术资源共享平台. https://yuanjingziyuan.com/ (2024).
 5. CSDN博主. GitHub Badge制作教程指南. https://blog.csdn.net/m0_74037814/article/details/139511804 (2024).
-6. 新能源编程俱乐部. 2025全国机器人竞赛ROBOCON项目文档. ./competitions/2025/robocon/2025全国机器人竞赛_ROBOCON/ (2025).
+6. 新能源编程俱乐部. 2025全国机器人竞赛ROBOCON项目文档. ./competition_2025全国机器人竞赛_ROBOCON/ (2025).
 7. ROBOCON组委会. 全国大学生机器人大赛ROBOCON技术论坛. https://ask.cnrobocon.net/ (2024).
 8. DJI大疆创新. RoboMaster机甲大师赛官方技术论坛. https://bbs.robomaster.com/ (2024).
 9. 立创EDA. 开源硬件平台OSHW HUB技术社区. https://oshwhub.com/explore (2024).
