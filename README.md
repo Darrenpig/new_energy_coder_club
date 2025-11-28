@@ -126,7 +126,7 @@ new_energy_coder_club/
 - [🤖 2025 ROBOCON](./competition_2025全国机器人竞赛_ROBOCON/) - 全国大学生机器人竞赛
 - [🦾 人形机器人](./projects/robotics/humanoid-robot/人形机器人主线/) - Duma小型人形机器人项目
 - [⚡ 星闪技术](./projects/embedded/nearlink/20250426星闪手柄/) - 新一代无线通信技术
-- [🧠 5轴流体工作站](./Project_5-axis-fluid-workstation/20250319流体工作站/) - 智能能源管理系统 · [GitHub](https://github.com/Darrenpig/5-axis-fluid-workstation)
+- [🧠 5轴流体工作站](./Project_5-axis-fluid-workstation_流体工作站/) - 智能能源管理系统 · [GitHub](https://github.com/Darrenpig/5-axis-fluid-workstation)
  - [🐶 轮腿机器狗 K230 KFS](./Project_MechDog机器狗_K230_KFS/) - 基于K230/KFS的轮腿机器狗工程
 - [🔬 科研横向项目](./projects/科研「横向项目」/README.md) - 产学研合作项目总览
 - [🎯 MICA验证项目](./projects/科研「横向项目」/mica-validation/README.md) - 关键性验证与文档系统
