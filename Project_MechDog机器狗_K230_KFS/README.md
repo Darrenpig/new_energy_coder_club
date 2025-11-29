@@ -127,6 +127,8 @@
 
 ## 产品资料
 - MechDog Pro 渠道版资料：https://pan.baidu.com/s/1LahXRI-P0pEQ-tDn42GBPA  提取码：d5p2
+- MechDog产品2025版2025版本资料: https://pan.baidu.com/s/1oAETxC1i2ORVh3rV5Vza9Q 提取码: d5p2 
+- 语音识别模块资料链接：https://pan.baidu.com/s/1R8hlIpHT721zfjP72ydOKw 提取码：tb2d
 
 ## 联系方式
 - Maintainer: @DarrenPig
