@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "ai-project-template"
 version = "0.1.0"
-description = "标准AI项目模板 - NEC新能源极客俱乐部"
+description = "标准AI项目模板 - NEC新能源开发者社区"
 authors = ["NEC AI Team <ai-team@nec-club.org>"]
 readme = "README.md"
 license = "MIT"

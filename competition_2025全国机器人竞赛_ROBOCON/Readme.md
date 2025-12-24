@@ -19,7 +19,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1 align="center"> 2025赛季全国机器人竞赛-ROBOCON </h1>
+  <h1 align="center"> 2025赛季全国大学生机器人竞赛（ROBOCON） </h1>
 
 [![2025NEC_ROBOCON](https://img.shields.io/badge/2025NEC_全国机器人大赛ROBOCON-仓库-blue)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2025%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B-ROBOCON)  
 [![全国大学生智能车竞赛](https://img.shields.io/badge/2024全国大学生智能车竞赛-智能车室外赛比赛-ddff9a)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E6%99%BA%E8%83%BD%E8%BD%A6%E5%AE%A4%E5%A4%96%E8%B5%9B%E6%AF%94%E8%B5%9B)[![2024节能减排大赛](https://img.shields.io/badge/节能减排大赛-仓库-blue)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E8%8A%82%E8%83%BD%E5%87%8F%E6%8E%92%E5%A4%A7%E8%B5%9B_Nearlink%E5%B0%8F%E8%BD%A6)         [![物联网设计竞赛-meta_freescale](https://img.shields.io/badge/物联网设计竞赛-仓库-brightgreen)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E7%89%A9%E8%81%94%E7%BD%91%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B_Huawei%E6%95%B0%E9%80%9A)[![2024全国大学生机器人竞赛ROBOCON](https://img.shields.io/badge/ROBOCON竞赛-全国大学生机器人竞赛-172a88)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B_ROBOCON)
@@ -144,7 +144,7 @@
 #### 250113 在手一块51单片机，一块RT-THREAD的RA6M3芯片  @Pony17 
 #### 250306 人形机器人底盘确定，A板和C板下单
 #### 250311 接待江苏理工队长，系统展示Gitee仓库和实验室项目，江苏理工队长结合去年实战经验与今年技术进度提出创新解法，双方围绕技术互补、资源共享达成协作共识，共探赛事备战最优路径
-#### 250317 416实验室线下组会，推进星闪手柄进度，采购情况汇总，讨论接下来与江理工的交流，机械组情况讨论，Gitee使用教学。冲刺接下来的RC中期检测
+#### 250317 416实验室线下组会，推进星闪手柄进度，采购情况汇总，讨论接下来与江理工的交流，机械组情况讨论，Gitee使用教学。冲刺接下来的 ROBOCON 中期检测
 #### 250321 416实验室线下组会，讨论团队各组进程，汇报硬件采购情况，确定去江理工交流讨论的安排与人员，汇报软件代码运行进程
 #### 250323 向机械学院老师和相关企业领导介绍了我们的产品并一同分析了发展趋势和风险，随后与机械学院彭柯尹等人详细的介绍了我们团队组成，任务与发展目标，争取机械学院的资金和人力支持、与其取得合作关系
 #### 250323 赴江苏理工学院机器人团队交流，聚焦开源仓库设立，从机械、电控、上位机至运营多层面深入切磋
@@ -159,7 +159,7 @@
 #### 250410 中期检测材料提交完毕。
 #### 250412-13 朱佩韦带队前往浙江杭州，参加了于萧山万怡酒店召开的openEuler Developer Day2025，期间拜访参观了浙江理工大学的团队@杨鑫海，收获颇丰
 #### 250429 416线下组会进行项目进度的汇报， @单广志 提出实验室需要保持卫生整洁，物品使用后及时归位。同时提议大家在五一期间进行复习。
-#### 250430 RC中期检测顺利通过！ @单广志  @Pony17 根据贡献点进行RC人员优化。 @DarrenPig 对各小组进行学习任务分配。
+#### 250430 ROBOCON 中期检测顺利通过！ @单广志  @Pony17 根据贡献点进行人员优化。 @DarrenPig 对各小组进行学习任务分配。
 #### 250511 A416线下会议，人员区分优化 @Pony17 ，R1进度汇报 @彭柯尹  @郑钦文 ，R2介绍、苏州飞控项目合作介绍、项目推进思路，争取21日前完成R2机器人模型实物 @DarrenPig ，机械院会议陈述 @崔正阳
 #### 250531 江理工、南理工交流 刘英琪带队判断【气动方案】需要独立出RC队伍，卢王淳带队判断【舵轮、气动方案、电控方案】有较大的差距，需要追赶进度；当晚完成小组会，确定【选型从采购任务中分离】领队确认【只添加Sponsor和财务同学】
 #### 250608 南理工（南京）校区江苏队伍交流赛，进行设计交流，王加安院长带队和 @DarrenPig 主要就江理工和南理工方案进行调试与设计

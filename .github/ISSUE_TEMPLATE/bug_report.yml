@@ -1,0 +1,49 @@
+name: "🐛 Bug report"
+description: "报告一个可复现的问题（代码 / 文档 / Demo 都算）"
+title: "[bug] "
+labels: ["type:bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢你提交 Issue！请尽量提供完整信息，方便我们快速复现与修复。
+  - type: input
+    id: env
+    attributes:
+      label: 环境信息
+      description: 例如 Windows 11 / macOS 14 / Ubuntu 22.04 + Python 3.11 + Git 2.4x
+      placeholder: "OS / Python / Git / 其他关键工具版本"
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: 发生了什么
+      description: 描述你遇到的现象（尽量清晰）
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: 如何复现
+      description: 请贴出最小复现步骤（命令/路径/输入）
+      placeholder: |
+        1) git clone ...
+        2) python demos/...
+        3) ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 你期望看到什么
+    validations:
+      required: false
+  - type: textarea
+    id: logs
+    attributes:
+      label: 日志 / 报错信息
+      description: 粘贴完整报错（不要只截取一部分）
+      render: shell
+    validations:
+      required: false

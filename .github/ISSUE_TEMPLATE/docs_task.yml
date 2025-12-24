@@ -1,0 +1,41 @@
+name: "📝 Docs task"
+description: "文档改进/新增页面/修订路线"
+title: "[docs] "
+labels: ["type:docs"]
+body:
+  - type: textarea
+    id: goal
+    attributes:
+      label: 目标
+      description: 这篇文档要解决什么问题？给谁看？读完能做什么？
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: 范围 / 交付物
+      description: 写哪些页面？修改哪些文件？验收标准是什么？
+      placeholder: |
+        - 修改 docs/xxx.md
+        - 新增 docs/yyy.md
+        - 验收：新人能在 30 分钟跑通 demo
+    validations:
+      required: true
+  - type: dropdown
+    id: difficulty
+    attributes:
+      label: 难度建议
+      options:
+        - difficulty:1
+        - difficulty:2
+        - difficulty:3
+        - difficulty:4
+    validations:
+      required: true
+  - type: textarea
+    id: refs
+    attributes:
+      label: 参考链接 / 资料
+      description: 贴出关联的项目路径、Issue、外部链接等
+    validations:
+      required: false
