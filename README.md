@@ -61,11 +61,11 @@ new_energy_coder_club/
 │   ├── 2025energy-saving/ # 2025 节能减排竞赛
 │   └── 2025traffic-design/# 2025 交通设计大赛
 ├── projects/              # 项目驱动型开发 [详细说明](./projects/README.md)
-│   ├── ai/                # 人工智能项目 [查看详情](./projects/ai/README.md)
-│   ├── robotics/          # 机器人项目 [查看详情](./projects/robotics/README.md)
-│   ├── embedded/          # 嵌入式项目 [查看详情](./projects/embedded/README.md)
-│   ├── templates/         # 项目模板 [查看详情](./projects/templates/README.md)
-│   └── 科研「横向项目」/    # 科研合作项目
+│   ├── ai/                # 工业AI/能源监控/视觉算法等 [查看详情](./projects/ai/README.md)
+│   ├── robotics/          # 人形机器人/飞控通讯/移动机器人等 [查看详情](./projects/robotics/README.md)
+│   ├── embedded/          # NearLink/BSP/Rt-Thread/openEuler 等 [查看详情](./projects/embedded/README.md)
+│   ├── templates/         # 标准化模板（AI/嵌入式/机器人） [查看详情](./projects/templates/README.md)
+│   └── 科研「横向项目」/    # 产学研合作与文档系统
 ├── shared/                # 共享资源库
 │   ├── images/            # 图片资源
 │   └── models/            # 3D模型文件
