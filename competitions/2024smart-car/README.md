@@ -187,7 +187,7 @@ ros2 topic echo /cmd_vel
 - **指导老师**: 顾偲雯、王树磊
 
 ### 🌐 项目链接
-- **代码仓库**: [Gitee仓库](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/competitions/2024/smart-car-outdoor)
+- **代码仓库**: [Gitee仓库](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/competitions/2024smart-car)
 - **技术文档**: [项目Wiki](./2024智能车室外赛比赛/README.md)
 - **学习资源**: 上述各类官方资源链接
 

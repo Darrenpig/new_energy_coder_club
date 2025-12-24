@@ -473,7 +473,7 @@ void nearlink_power_management(void) {
 ## 📞 联系我们
 
 ### 🌐 项目资源
-- **代码仓库**: [Gitee主仓库](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/competitions/2024/energy-saving)
+- **代码仓库**: [Gitee主仓库](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/competitions/2024energy-saving)
 - **项目官网**: [新能源开发者社区](https://www.newenergy-club.com)
 - **技术博客**: [团队技术博客](https://blog.newenergy-club.com/energy-saving)
 - **在线文档**: [项目文档中心](https://docs.newenergy-club.com/energy-saving)

@@ -177,10 +177,10 @@ new_energy_coder_club/
 | [🏆 2024年竞赛项目总览](./competitions/2024/README.md) | 2024年度所有竞赛项目的导航和概览 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
 | [🤖 2024 ROBOCON](./competitions/2024robocon/README.md) | 2024赛季 ROBOCON 团队的开发项目流程开源 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
 | [🧠 2024华为云AI化工赛题](./competitions/2024/huawei-cloud-ai/README.md) | 提供"星闪智巡"项目的接口和开发基线 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
-| [🚗 2024智能车室外赛](./competitions/2024/smart-car-outdoor/README.md) | 汽车工程学院机器人实验室提供的开发环境 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
-| [🌐 2024物联网设计竞赛](./competitions/2024/iot-design-huawei/README.md) | 工业级边缘计算网关AR502H-CN 开发学习文档 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
-| [⚡ 2024电子设计竞赛](./competitions/2024/electronics-competition/README.md) | 星闪通讯协议模块的Demo实验 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
-| [🌱 2024节能减排大赛](./competitions/2024/energy-saving/README.md) | 亚博智能 巡检小车Demo,研究esp32-UDP虚拟机 | <img src="https://img.shields.io/badge/license-MIT-red" alt="License"> |
+| [🚗 2024智能车室外赛](./competitions/2024smart-car/README.md) | 汽车工程学院机器人实验室提供的开发环境 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
+| [🌐 2024物联网设计竞赛](./competitions/2024iot-design/README.md) | 工业级边缘计算网关AR502H-CN 开发学习文档 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
+| [⚡ 2024电子设计竞赛](./competitions/2024electronics/README.md) | 星闪通讯协议模块的Demo实验 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
+| [🌱 2024节能减排大赛](./competitions/2024energy-saving/README.md) | 亚博智能 巡检小车Demo,研究esp32-UDP虚拟机 | <img src="https://img.shields.io/badge/license-MIT-red" alt="License"> |
 
 
 

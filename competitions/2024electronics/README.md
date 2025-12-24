@@ -529,7 +529,7 @@ void sensor_fusion_update(SensorData *data, VehicleState *state) {
 ## 📞 联系方式
 
 ### 🌐 项目资源
-- **代码仓库**: [Gitee仓库](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/competitions/2024/electronics-competition)
+- **代码仓库**: [Gitee仓库](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/competitions/2024electronics)
 - **技术文档**: [项目Wiki](./README.md)
 - **演示视频**: [项目演示](./demo/)
 - **设计文档**: [硬件设计文档](./hardware/)

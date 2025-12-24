@@ -287,7 +287,7 @@ class EdgeProcessor:
 - **上海交通大学** - 竞赛组织方
 
 ### 🌐 项目链接
-- **代码仓库**: [Gitee仓库](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/competitions/2024/iot-design-huawei)
+- **代码仓库**: [Gitee仓库](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/competitions/2024iot-design)
 - **项目展示**: [在线PPT](https://low-power-inspection-veh-95gmidb.gamma.site/)
 - **技术文档**: [项目Wiki](./2024物联网设计竞赛_Huawei数通/Readme.md)
 - **竞赛官网**: [物联网竞赛](https://iot.sjtu.edu.cn/show.aspx?info_lb=34&info_id=3962&flag=2)
