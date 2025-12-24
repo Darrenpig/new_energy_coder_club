@@ -132,7 +132,7 @@ new_energy_coder_club/
 
 ### 🔥 热门项目快速入口
 - [📁 项目总览](./projects/README.md) - 查看所有项目分类和导航
-- [🤖 2025 ROBOCON](./competition_2025全国机器人竞赛_ROBOCON/) - 全国大学生机器人竞赛
+- [🤖 2025 ROBOCON](./competitions/2025robocon/) - 全国大学生机器人竞赛
 - [🦾 人形机器人](./projects/robotics/humanoid-robot/人形机器人主线/) - Duma小型人形机器人项目
 - [⚡ 星闪技术](./projects/embedded/nearlink/20250426星闪手柄/) - 新一代无线通信技术
 - [🧠 5轴流体工作站](./Project_5-axis-fluid-workstation_流体工作站/) - 智能能源管理系统 · [GitHub](https://github.com/Darrenpig/5-axis-fluid-workstation)
@@ -143,13 +143,13 @@ new_energy_coder_club/
 - [🛠️ 项目模板](./projects/templates/README.md) - 标准化开发模板
 
 #### 2025 ROBOCON 组别快速入口
-- [📄 上位机组](./competition_2025全国机器人竞赛_ROBOCON/上位机组.md)
-- [📄 上位机组_运球机构](./competition_2025全国机器人竞赛_ROBOCON/上位机组_运球机构.md)
-- [📄 算法组](./competition_2025全国机器人竞赛_ROBOCON/算法组.md)
-- [📄 硬件组](./competition_2025全国机器人竞赛_ROBOCON/硬件组.md)
-- [📄 运营组](./competition_2025全国机器人竞赛_ROBOCON/运营组.md)
-- [📄 采购组](./competition_2025全国机器人竞赛_ROBOCON/采购组.md)
-- [📄 队伍结构](./competition_2025全国机器人竞赛_ROBOCON/队伍结构.md)
+- [📄 上位机组](./competitions/2025robocon/上位机组.md)
+- [📄 上位机组_运球机构](./competitions/2025robocon/上位机组_运球机构.md)
+- [📄 算法组](./competitions/2025robocon/算法组.md)
+- [📄 硬件组](./competitions/2025robocon/硬件组.md)
+- [📄 运营组](./competitions/2025robocon/运营组.md)
+- [📄 采购组](./competitions/2025robocon/采购组.md)
+- [📄 队伍结构](./competitions/2025robocon/队伍结构.md)
 
 #### 科研「横向项目」快速入口
 - [📄 3d-printing-sig](./projects/科研「横向项目」/3d-printing-sig.md)
@@ -367,7 +367,7 @@ Thank you sincerely to the following partners and developers. It is your outstan
 3. 机械智库. SolidWorks标准零件库. https://shop128404759.taobao.com/ (2024).
 4. 远景资源网. 工程技术资源共享平台. https://yuanjingziyuan.com/ (2024).
 5. CSDN博主. GitHub Badge制作教程指南. https://blog.csdn.net/m0_74037814/article/details/139511804 (2024).
-6. NEC新能源开发者社区. 2025全国机器人竞赛ROBOCON项目文档. ./competition_2025全国机器人竞赛_ROBOCON/ (2025).
+6. NEC新能源开发者社区. 2025全国机器人竞赛ROBOCON项目文档. ./competitions/2025robocon/ (2025).
 7. ROBOCON组委会. 全国大学生机器人大赛ROBOCON技术论坛. https://ask.cnrobocon.net/ (2024).
 8. DJI大疆创新. RoboMaster机甲大师赛官方技术论坛. https://bbs.robomaster.com/ (2024).
 9. 立创EDA. 开源硬件平台OSHW HUB技术社区. https://oshwhub.com/explore (2024).
