@@ -124,7 +124,7 @@
 - **文档维护**: 徐欣晨
 
 ### 🌐 项目链接
-- **代码仓库**: [Gitee仓库](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/competitions/2024/robocon)
+- **代码仓库**: [Gitee仓库](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/competitions/2024robocon)
 - **项目看板**: [GitHub Projects](https://github.com/users/Darrenpig/projects/3)
 - **技术交流**: 欢迎加入我们的技术讨论群
 

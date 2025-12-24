@@ -175,7 +175,7 @@ new_energy_coder_club/
 |-----------------------------------------------------------------|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
 | [2025全国大学生机器人竞赛-ROBOCON](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/competition_2025%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B-ROBOCON) | 轮腿机器狗与轮腿人形机器人研发与竞赛基线 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
 | [🏆 2024年竞赛项目总览](./competitions/2024/README.md) | 2024年度所有竞赛项目的导航和概览 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
-| [🤖 2024 ROBOCON](./competitions/2024/robocon/README.md) | 2024赛季 ROBOCON 团队的开发项目流程开源 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
+| [🤖 2024 ROBOCON](./competitions/2024robocon/README.md) | 2024赛季 ROBOCON 团队的开发项目流程开源 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
 | [🧠 2024华为云AI化工赛题](./competitions/2024/huawei-cloud-ai/README.md) | 提供"星闪智巡"项目的接口和开发基线 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
 | [🚗 2024智能车室外赛](./competitions/2024/smart-car-outdoor/README.md) | 汽车工程学院机器人实验室提供的开发环境 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
 | [🌐 2024物联网设计竞赛](./competitions/2024/iot-design-huawei/README.md) | 工业级边缘计算网关AR502H-CN 开发学习文档 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
