@@ -5,31 +5,67 @@
 <br />
 <div align="center">
   <a href="https://gitee.com/darrenpig/new_energy_coder_club">
-    <img src="./shared/images/Image/Logo.png" alt="Logo" width="80" height="90">
+    <img src="./shared/images/Image/Logo.png" alt="Logo" width="120">
   </a>
-  <h3 align="center">new_energy_coder_club</h3>
 
-[![2025NEC_ROBOCON](https://img.shields.io/badge/2025NEC_全国大学生机器人竞赛ROBOCON-仓库-blue)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/competition_2025%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B-ROBOCON)  
-[![全国大学生智能车竞赛](https://img.shields.io/badge/2024全国大学生智能车竞赛-智能车室外赛比赛-ddff9a)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E6%99%BA%E8%83%BD%E8%BD%A6%E5%AE%A4%E5%A4%96%E8%B5%9B%E6%AF%94%E8%B5%9B)[![2024节能减排大赛](https://img.shields.io/badge/节能减排大赛-仓库-blue)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E8%8A%82%E8%83%BD%E5%87%8F%E6%8E%92%E5%A4%A7%E8%B5%9B_Nearlink%E5%B0%8F%E8%BD%A6)         [![物联网设计竞赛-meta_freescale](https://img.shields.io/badge/物联网设计竞赛-仓库-brightgreen)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/2024%E7%89%A9%E8%81%94%E7%BD%91%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B_Huawei%E6%95%B0%E9%80%9A)[![2024全国大学生机器人竞赛ROBOCON](https://img.shields.io/badge/ROBOCON竞赛-全国大学生机器人竞赛-172a88)](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/competition_2024%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B-ROBOCON)
-[![license.md-meta_freescale](https://img.shields.io/badge/license.md-Markdown-violet)](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/LICENSE.md)
-[![Readme.md meta-imx](https://img.shields.io/badge/Readme.md-Markdown-8A2BE2)](https://gitee.com/darrenpig/new_energy_coder_club/blob/master/README.md) [![Website](https://img.shields.io/badge/Website-newenergycoder.club-orange)](https://www.newenergycoder.club)
+  <h1 align="center">NEC 新能源开发者社区</h1>
+
   <p align="center">
-欢迎来到 「NEC新能源开发者社区」 —— 一个充满活力和脑洞的「开源游乐园」这里不仅是新能源、机器人爱好者的秘密基地，更是大学生竞赛党的「宝藏地图」  
-
-- **「搞事情」属性拉满**：团队正在疯狂备战 **全国大学生机器人竞赛（ROBOCON）**，囤积了82套FRC图纸、铝方型材设计库，甚至还有企业级网盘资料包，仿佛藏着一整个机器人军火库。  
-- **「极客风」代码狂欢**：20多位全栈小白在这里捣鼓嵌入式开发、BSP底软，一边玩转openEuler和Rt-thread开源社区，一边把代码写成「乐高积木」——模块化、可复用，拼出无限可能。  
-- **「野生导师」出没ing~**：从机械设计到算法调参，从竞赛攻略到科研经验，这里的文档像「哆啦A梦的口袋」，随时掏出你需要的秘籍攻略，助你从菜鸟进化成赛场扛把子。 
+    <strong>新能源、机器人爱好者的开源游乐园 & 竞赛党的一站式「宝藏地图」</strong>
+    <br />
+    一个充满活力和脑洞的极客基地，致力于打造 1W 以内的人形机器人生态
+    <br />
+    <a href="https://www.newenergycoder.club"><strong>探索官方主页 »</strong></a>
+    <br />
+    <br />
+    <img src="https://img.shields.io/badge/2025-ROBOCON_Ready-blue?style=flat-square&logo=robot" alt="ROBOCON">
+    <img src="https://img.shields.io/badge/Open_Source-Yes-brightgreen?style=flat-square" alt="Open Source">
+    <img src="https://img.shields.io/badge/PRs-Welcome-orange?style=flat-square" alt="PRs Welcome">
+    <img src="https://img.shields.io/badge/Community-40+_Devs-violet?style=flat-square" alt="Members">
+    <img src="https://img.shields.io/badge/License-CIT-red?style=flat-square" alt="License">
+  </p>
 </div>
-    <br />
-    <a href="https://github.com/users/Darrenpig/projects/3/views/1"><strong>最新动态 下面是上述资料 »</strong></a>
-    <br />
-    <br />
-    <a href="https://www.newenergycoder.club"><strong>访问官网 newenergycoder.club »</strong></a>
-    <br />
-    <br />
-    <a href="https://gitee.com/darrenpig/new_energy_coder_club/tree/master/competition_2025%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B-ROBOCON">View ROBOCON 2025 赛季</a>
-    ·
-    <a href="https://gitee.com/darrenpig/new_energy_coder_club/issues/IC9NDX">【图纸+开发】仓库资料 ROS拓展板/esp/ps2/小车/FRC/舵轮/标准库"</a>
+
+---
+
+### ⚡ 为什么选择 NEC？ (Community Features)
+
+<table align="center">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <br />
+      <img src="https://img.icons8.com/fluency/48/000000/military-backpack.png"/><br />
+      <b>🚀 搞事情：机器人军火库</b><br />
+      囤积了 82 套 FRC 图纸与铝方型材库，为竞赛党提供从 FRC 到 ROBOCON 的全流程「弹药补给」。
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br />
+      <img src="https://img.icons8.com/fluency/48/000000/source-code.png"/><br />
+      <b>🧩 极客风：模块化乐高</b><br />
+      玩转 openEuler 与 RT-Thread，将嵌入式 BSP 像乐高积木一样解耦重组，告别屎山代码。
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br />
+      <img src="https://img.icons8.com/fluency/48/000000/magic-wand.png"/><br />
+      <b>🎒 秘籍：哆啦A梦口袋</b><br />
+      从机械设计到算法调参，全链路「野生导师」文档库，助你从备赛菜鸟进化为赛场扛把子。
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎯 快速入口 (Start Here)
+
+| `https://www.newenergycoder.club`  | [🏁 60min 上手](./docs/start-here/60min.md) | [🧩 领取 Issue](./docs/start-here/first-good-issue.md) | [🗺️ 技能路线](./docs/learn/roles.md) |
+| :---: | :---: | :---: | :---: |
+
+> **近期热点**：🔥 [2025 ROBOCON 赛季资源包](./competitions/2025robocon/) | 🦾 [Duma 小型人形机器人项目](./projects/robotics/humanoid-robot/)
+
+## 关于本仓库（What / Why / Who）
+- What it is? 双驱动型开源仓库：竞赛（ROBOCON 等）+ 项目（Duma 人形、NearLink 等）
+- Why use it? 大规模资料库与基线工程，项目模板与最小 Demo，路径统一（短标签）
+- Who is it for? 机械 / 硬件 / 软件 / 运营（新人可从文档与最小 Demo 开始）
 
 ## 🚀 快速入口（Start Here）
 - ✅ 新人 60 分钟上手（跑通最小 Demo + 第一个 PR）：[`docs/start-here/60min.md`](./docs/start-here/60min.md)
@@ -284,6 +320,12 @@ new_energy_coder_club/
 <!-- ACKNOWLEDGMENTS -->
 ## 团队与致谢
 详见 [TEAM.md](./docs/community/TEAM.md)
+
+## 🙋 Help Wanted（新手任务）
+- [Docs] 完善 2025 赛季运球机构文档（labels: type:docs, difficulty:2, area:ros）
+- [Hardware] 优化 ESP32 最小系统 PCB 丝印（labels: type:feature, difficulty:2, area:hardware）
+- [Code] 为 Duma 机器人增加一个控制 Demo（labels: type:feature, difficulty:2, area:robotics）
+→ 认领方式：在 Issue 评论 “我来做，预计 X 天提交 PR”
 ---
 
 ### References 参考文献
