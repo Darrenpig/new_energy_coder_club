@@ -114,11 +114,7 @@ git commit -m "Initial project setup from template"
 4. 提交Pull Request
 5. 等待代码审查和合并
 
-### 模板质量要求
-- 结构清晰，易于理解
-- 文档完整，说明详细
-- 代码规范，注释充分
-- 测试覆盖，质量保证
+
 
 ---
 

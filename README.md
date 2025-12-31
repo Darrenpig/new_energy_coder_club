@@ -147,6 +147,12 @@ new_energy_coder_club/
 - [🎯 MICA验证项目](./projects/科研「横向项目」/mica-validation/README.md) - 关键性验证与文档系统
 - [🛠️ 项目模板](./projects/templates/README.md) - 标准化开发模板
 
+## 📊 项目快览（Project Overview）
+| 项目名称 | 分类 | 状态 | 快速通道 |
+|---|---|---|---|
+| 🤖 2025 ROBOCON | 竞赛 | 🟢 开发中 | [赛季仓](./competitions/2025robocon/) / [竞赛索引](./docs/build/competition_index.md) |
+| 🦾 Duma 人形机器人 | 项目 | 🟡 维护中 | [项目主页](./projects/robotics/humanoid-robot/) / [岗位路线图](./docs/learn/roles.md) |
+
 #### 2025 ROBOCON 组别快速入口
 - [📄 上位机组](./competitions/2025robocon/上位机组.md)
 - [📄 上位机组_运球机构](./competitions/2025robocon/上位机组_运球机构.md)
