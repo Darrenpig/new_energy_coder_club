@@ -83,76 +83,19 @@
 
 本仓库采用**双驱动型**组织方式，分为竞赛驱动型和项目驱动型两大类别，便于管理和查找内容。
 
-## 📂 目录结构概览
+## � 仓库架构（Architecture）
 
 ```
 new_energy_coder_club/
-├── competitions/           # 竞赛驱动型项目
-│   ├── 2024robocon/       # 2024 ROBOCON
-│   ├── 2024smart-car/     # 2024 智能车室外赛
-│   ├── 2024iot-design/    # 2024 物联网设计竞赛
-│   ├── 2024electronics/   # 2024 电子设计预选
-│   ├── 2024energy-saving/ # 2024 节能减排竞赛
-│   ├── 2025robocon/       # 2025 ROBOCON
-│   ├── 2025energy-saving/ # 2025 节能减排竞赛
-│   └── 2025traffic-design/# 2025 交通设计大赛
-├── projects/              # 项目驱动型开发 [详细说明](./projects/README.md)
-│   ├── ai/                # 工业AI/能源监控/视觉算法等 [查看详情](./projects/ai/README.md)
-│   ├── robotics/          # 人形机器人/飞控通讯/移动机器人等 [查看详情](./projects/robotics/README.md)
-│   ├── embedded/          # NearLink/BSP/Rt-Thread/openEuler 等 [查看详情](./projects/embedded/README.md)
-│   ├── templates/         # 标准化模板（AI/嵌入式/机器人） [查看详情](./projects/templates/README.md)
-│   └── 科研「横向项目」/    # 产学研合作与文档系统
-├── shared/                # 共享资源库
-│   ├── images/            # 图片资源
-│   └── models/            # 3D模型文件
-├── README.md              # 项目说明文档
-├── CONTRIBUTING.md        # 贡献指南
-└── LICENSE.md             # 开源协议
+├── 🏆 competitions/      # 竞赛驱动：Robocon/智能车等历年备赛资源
+├── 🚀 projects/          # 项目驱动：人形机器人/AI算法/嵌入式开发
+├── 📚 docs/              # 社区核心：新手引导/学习路线/贡献指南
+├── 🛠️ shared/            # 共享资源：3D 模型(STEP)/硬件封装库
+└── 🤝 CONTRIBUTING.md    # 参与准则：如何提交代码与认领 Issue
 ```
 
-## 📋 详细目录结构
-
-### 1. 竞赛驱动型 (competitions/)
-按“年份+赛项短标签”组织，统一路径命名：
-
-- `2024robocon/`: 全国大学生机器人竞赛（ROBOCON）
-- `2024smart-car/`: 全国大学生智能车竞赛（室外赛）
-- `2024iot-design/`: 全国大学生物联网设计竞赛（Huawei数通）
-- `2024electronics/`: 全国大学生电子设计竞赛（预选）
-- `2024energy-saving/`: 全国大学生节能减排竞赛
-
-- `2025robocon/`: 全国大学生机器人竞赛（ROBOCON）
-- `2025traffic-design/`: 交通设计大赛
-- `2025energy-saving/`: 全国大学生节能减排竞赛
-
-- 年度归档目录：`2024/`、`2025/`（用于汇总跨赛项资料）
-
-### 2. 项目驱动型 (projects/)
-按技术领域和项目类型组织，促进跨竞赛项目的技术复用：
-
-- `ai/`: 人工智能相关项目 [📖 详细说明](./projects/ai/README.md)
-  - `energy-monitoring/`: 能源监测系统
-
-- `robotics/`: 机器人相关项目 [📖 详细说明](./projects/robotics/README.md)
-  - `humanoid-robot/`: 人形机器人开发
-  - `250510飞控通讯/`: 飞行控制系统
-
-- `embedded/`: 嵌入式相关项目 [📖 详细说明](./projects/embedded/README.md)
-  - `20250426星闪手柄/`: 星闪技术开发（NearLink 手柄）
-
-- `templates/`: 项目开发模板 [📖 详细说明](./projects/templates/README.md)
-  - 提供AI、嵌入式、机器人等项目的标准化模板
-
-- `科研「横向项目」/`: 科研合作项目 [📖 详细说明](./projects/科研「横向项目」/README.md)
-  - `dexterous-hand/`: 人形机器人UMI低成本灵巧手项目
-  - `pneumatic-system/`: 气缸控制系统开发
-  - `3d-printing-team/`: 3D打印成型组
-  - `mica-validation/`: MICA关键性验证项目 [📚 在线文档](./projects/科研「横向项目」/mica-validation/README.md)
-    - 📖 [GitHub Actions 部署指南](./projects/科研「横向项目」/mica-validation/docs/GITHUB_ACTIONS_DEPLOYMENT.md) - 完整的自动化部署配置
-    - ✅ [部署检查清单](./projects/科研「横向项目」/mica-validation/docs/DEPLOYMENT_CHECKLIST.md) - 确保部署成功的逐步指南
-
-### 3. 共享资源 (shared/)
-各项目共用的资源和工具：
+- 赛项与赛季详情 → [competitions/README.md](./competitions/README.md)
+- 技术域与项目详情 → [projects/README.md](./projects/README.md)
 
 - `images/`: 图片资源
   - `Image/`: 项目Logo、路线图等核心图片
