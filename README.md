@@ -28,6 +28,22 @@
 
 ---
 
+# NEC · New Energy Coder Community
+
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![CI Build](https://img.shields.io/github/workflow/status/darrenpig/new_energy_coder_club/CI?label=CI%20Build)](https://github.com/darrenpig/new_energy_coder_club/actions)
+[![Contributors](https://img.shields.io/github/contributors/darrenpig/new_energy_coder_club)](https://github.com/darrenpig/new_energy_coder_club/graphs/contributors)
+[![Open Issues](https://img.shields.io/github/issues/darrenpig/new_energy_coder_club?label=open%20issues)](https://github.com/darrenpig/new_energy_coder_club/issues)
+[![Open PRs](https://img.shields.io/github/issues-pr/darrenpig/new_energy_coder_club?label=open%20PRs)](https://github.com/darrenpig/new_energy_coder_club/pulls)
+[![Docs](https://img.shields.io/badge/docs-%E2%9C%94%20complete-brightgreen)](docs/)
+[![Chat](https://img.shields.io/badge/Chat-Discord-blue)](https://discord.gg/your-discord-link)
+[![Version](https://img.shields.io/github/v/tag/darrenpig/new_energy_coder_club?label=Version)](https://github.com/darrenpig/new_energy_coder_club/releases)
+[![Security](https://img.shields.io/github/security/dependabot/darrenpig/new_energy_coder_club?label=security)](https://github.com/darrenpig/new_energy_coder_club/security)
+[![Project Status](https://img.shields.io/badge/Project%20Status-Active-green)](https://github.com/darrenpig/new_energy_coder_club)
+
+## About NEC
+NEC 是面向新能源与机器人竞赛的开源工程社区，提供模块化工程基线与赛季全周期资产，支持线上协作与 A416 线下实验室联动。
+
 ### ⚡ 为什么选择 NEC？（Community Features）
 
 NEC 诞生于自由的开源文化之上，立足新能源与机器人技术浪潮，连接来自不同背景、不同学科的个体。
