@@ -9,21 +9,13 @@
   </a>
 
   <h1 align="center">NEC 新能源开发者社区</h1>
-
+  <p align="center"><strong>面向新能源 × 机器人竞赛与实战项目的开源工程社区</strong></p>
   <p align="center">
-    <strong>新能源、机器人爱好者的开源游乐园 & 竞赛党的一站式「宝藏地图」</strong>
-    <br />
-    一个充满活力和脑洞的极客基地，致力于打造 1W 以内的人形机器人生态
-    <br />
-    <a href="https://www.newenergycoder.club"><strong>探索官方主页 »</strong></a>
+    <a href="https://www.newenergycoder.club"><strong>官网（Website）»</strong></a>
     &nbsp;|&nbsp;
-    <a href="https://scn0bdoc8zxg.feishu.cn/wiki/S10LwzVZdiWLwxkEnEqcTcmEn6e"><strong>查看知识库 »</strong></a>
-    <br />
-    <br />
-    <img src="https://img.shields.io/badge/2025-ROBOCON_Ready-blue?style=flat-square&logo=robot" alt="ROBOCON">
-    <img src="https://img.shields.io/badge/Open_Source-Yes-brightgreen?style=flat-square" alt="Open Source">
-    <img src="https://img.shields.io/badge/PRs-Welcome-orange?style=flat-square" alt="PRs Welcome">
-    <img src="https://img.shields.io/badge/License-CIT-red?style=flat-square" alt="License">
+    <a href="./docs/start-here/60min.md"><strong>快速上手（Get Started）»</strong></a>
+    &nbsp;|&nbsp;
+    <a href="./docs/README.md"><strong>文档（Docs）»</strong></a>
   </p>
 </div>
 
@@ -98,17 +90,11 @@ NEC 诞生于自由的开源文化之上，立足新能源与机器人技术浪�
 - Why use it? 大规模资料库与基线工程，项目模板与最小 Demo，路径统一（短标签）
 - Who is it for? 机械 / 硬件 / 软件 / 运营（新人可从文档与最小 Demo 开始）
 
-## 🚀 快速入口（Start Here）
-- ✅ 新人 60 分钟上手（跑通最小 Demo + 第一个 PR）：[`docs/start-here/60min.md`](./docs/start-here/60min.md)
-- 🧩 First Good Issue（小白任务池与领取流程）：[`docs/start-here/first-good-issue.md`](./docs/start-here/first-good-issue.md)
-- 🧭 岗位路线图（机械/硬件/软件/运营）：[`docs/learn/roles.md`](./docs/learn/roles.md)
-- 🏆 竞赛索引：[`docs/build/competition_index.md`](./docs/build/competition_index.md)
-- 🧰 项目索引：[`docs/build/project_index.md`](./docs/build/project_index.md)
-- 👥 维护者与 SIG：[`docs/community/maintainers.md`](./docs/community/maintainers.md)
-    ·
-    <a href="https://pan.baidu.com/s/1NcGkC6xRrA6sJ226mdPGIA?pwd=6yq5">铝方型材设计MayCAD</a>
-  </p>
-</div>
+## 🧭 Start Here（导航）
+- 快速上手: [60min](./docs/start-here/60min.md) · [First Good Issue](./docs/start-here/first-good-issue.md)
+- 学习路线: [岗位路线图](./docs/learn/roles.md)
+- 竞赛与项目: [竞赛](./competitions/README.md) · [项目](./projects/README.md)
+- 社区与团队: [维护者/SIG](./docs/community/maintainers.md) · [团队与致谢](./docs/community/TEAM.md)
 
 # 📁 仓库结构
 
@@ -125,8 +111,7 @@ new_energy_coder_club/
 └── 🤝 CONTRIBUTING.md    # 参与准则：如何提交代码与认领 Issue
 ```
 
-- 赛项与赛季详情 → [competitions/README.md](./competitions/README.md)
-- 技术域与项目详情 → [projects/README.md](./projects/README.md)
+- 我该去哪里找什么：竞赛资产 → [competitions](./competitions/README.md)；做项目 → [projects](./projects/README.md)；新人 → [docs/start-here](./docs/start-here/60min.md)
 - 官网（Landing）→ [newenergycoder.club](https://www.newenergycoder.club/)
 - 知识库（Feishu Wiki）→ [入口](https://scn0bdoc8zxg.feishu.cn/wiki/S10LwzVZdiWLwxkEnEqcTcmEn6e)
 
@@ -152,8 +137,8 @@ new_energy_coder_club/
 - [🤖 2025 ROBOCON](./competitions/2025robocon/) - 全国大学生机器人竞赛
 - [🦾 人形机器人](./projects/robotics/humanoid-robot/) - Duma小型人形机器人项目
 - [⚡ 星闪技术](./projects/embedded/20250426星闪手柄/) - 新一代无线通信技术
-- [🧠 5轴流体工作站](./Project_5-axis-fluid-workstation_流体工作站/) - 智能能源管理系统 · [GitHub](https://github.com/Darrenpig/5-axis-fluid-workstation)
- - [🐶 轮腿机器狗 K230 KFS](./Project_MechDog机器狗_K230_KFS/) - 基于K230/KFS的轮腿机器狗工程
+- [🧠 5轴流体工作站](./projects/ai/5axis-fluid-workstation/) - 智能能源管理系统 · [GitHub](https://github.com/Darrenpig/5-axis-fluid-workstation)
+ - [🐶 轮腿机器狗 K230 KFS](./projects/robotics/mechdog-k230-kfs/) - 基于K230/KFS的轮腿机器狗工程
 - [🚀 Quickstart（新人上手）](./docs/start-here/60min.md) · [First Good Issue](./docs/start-here/first-good-issue.md) · [Join](https://gitee.com/darrenpig/new_energy_coder_club/issues)
 - [🔬 科研横向项目](./projects/科研「横向项目」/README.md) - 产学研合作项目总览
 - [🎯 MICA验证项目](./projects/科研「横向项目」/mica-validation/README.md) - 关键性验证与文档系统
@@ -297,11 +282,28 @@ new_energy_coder_club/
 ## 团队与致谢
 详见 [TEAM.md](./docs/community/TEAM.md)
 
-## 🙋 Help Wanted（新手任务）
-- [Docs] 完善 2025 赛季运球机构文档（labels: type:docs, difficulty:2, area:ros）
-- [Hardware] 优化 ESP32 最小系统 PCB 丝印（labels: type:feature, difficulty:2, area:hardware）
-- [Code] 为 Duma 机器人增加一个控制 Demo（labels: type:feature, difficulty:2, area:robotics）
-→ 认领方式：在 Issue 评论 “我来做，预计 X 天提交 PR”
+## 许可与合规（License & Compliance）
+- 主许可证: MIT（代码与文档遵循 MIT，见 [LICENSE](./LICENSE.md)）
+- 资料与第三方声明: README/Docs 中的外部链接、赛季资料索引仅作导航，版权归原作者/主办方所有
+- 安全与联系方式: 见 [SECURITY](./docs/SECURITY.md)，建议通过 Issues 报告安全问题
+- 行为准则与治理: 见 [Code of Conduct](./docs/CODE_OF_CONDUCT.md) 与 [Governance](./docs/GOVERNANCE.md)
+## 🙋 新人任务看板（Help Wanted）
+- [Docs] 完善 2025 赛季运球机构文档  
+  - 链接: ./competitions/2025robocon/  
+  - 验收: 文档结构规范、含图片/步骤、可复现  
+  - 预计: 2–3 小时  
+  - Owner: RC-SIG
+- [Hardware] 优化 ESP32 最小系统 PCB 丝印  
+  - 链接: ./projects/embedded/  
+  - 验收: 丝印清晰、针脚标注一致、Gerber 可导出  
+  - 预计: 半天  
+  - Owner: Embedded-SIG
+- [Code] 为 Duma 机器人增加一个控制 Demo  
+  - 链接: ./projects/robotics/humanoid-robot/  
+  - 验收: README 说明、可运行脚本、演示视频/截图  
+  - 预计: 1 天  
+  - Owner: Robotics-SIG
+→ 认领方式：在 Issue 评论 “I’d like to work on this” 或 `/assign me`，按 PR 模板提交
 ---
 
 ### References 参考文献
