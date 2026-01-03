@@ -23,7 +23,6 @@
     <img src="https://img.shields.io/badge/2025-ROBOCON_Ready-blue?style=flat-square&logo=robot" alt="ROBOCON">
     <img src="https://img.shields.io/badge/Open_Source-Yes-brightgreen?style=flat-square" alt="Open Source">
     <img src="https://img.shields.io/badge/PRs-Welcome-orange?style=flat-square" alt="PRs Welcome">
-    <img src="https://img.shields.io/badge/Community-40+_Devs-violet?style=flat-square" alt="Members">
     <img src="https://img.shields.io/badge/License-CIT-red?style=flat-square" alt="License">
   </p>
 </div>
@@ -33,12 +32,10 @@
 # NEC · New Energy Coder Community
 
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![CI Build](https://img.shields.io/github/workflow/status/darrenpig/new_energy_coder_club/CI?label=CI%20Build)](https://github.com/darrenpig/new_energy_coder_club/actions)
-[![Contributors](https://img.shields.io/github/contributors/darrenpig/new_energy_coder_club)](https://github.com/darrenpig/new_energy_coder_club/graphs/contributors)
+[![Chat](https://img.shields.io/badge/Chat-QQ-blue?style=flat-square)](https://gitee.com/darrenpig/new_energy_coder_club/issues/IDATOS)
 [![Open Issues](https://img.shields.io/github/issues/darrenpig/new_energy_coder_club?label=open%20issues)](https://github.com/darrenpig/new_energy_coder_club/issues)
 [![Open PRs](https://img.shields.io/github/issues-pr/darrenpig/new_energy_coder_club?label=open%20PRs)](https://github.com/darrenpig/new_energy_coder_club/pulls)
 [![Docs](https://img.shields.io/badge/docs-%E2%9C%94%20complete-brightgreen)](docs/)
-[![Chat](https://img.shields.io/badge/Chat-Discord-blue)](https://discord.gg/your-discord-link)
 [![Version](https://img.shields.io/github/v/tag/darrenpig/new_energy_coder_club?label=Version)](https://github.com/darrenpig/new_energy_coder_club/releases)
 [![Security](https://img.shields.io/github/security/dependabot/darrenpig/new_energy_coder_club?label=security)](https://github.com/darrenpig/new_energy_coder_club/security)
 [![Project Status](https://img.shields.io/badge/Project%20Status-Active-green)](https://github.com/darrenpig/new_energy_coder_club)
