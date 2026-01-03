@@ -164,23 +164,33 @@ new_energy_coder_club/
   - 电机、轮毂、联轴器等标准件模型
 
 ## 🧭 快速导航指南
-
-### 📍 项目查找
-- **🏆 竞赛项目**：`competitions/[年份]/[竞赛名称]` 
-- **🔬 技术项目**：`projects/[技术领域]/[项目名称]`
-- **📦 共享资源**：`shared/[资源类型]`
-
-### 🔥 热门项目快速入口
-- [📁 项目总览](./projects/README.md) - 查看所有项目分类和导航
-- [🤖 2025 ROBOCON](./competitions/2025robocon/) - 全国大学生机器人竞赛
-- [🦾 人形机器人](./projects/robotics/humanoid-robot/) - Duma小型人形机器人项目
-- [⚡ 星闪技术](./projects/embedded/20250426星闪手柄/) - 新一代无线通信技术
-- [🧠 5轴流体工作站](./projects/ai/5axis-fluid-workstation/) - 智能能源管理系统 · [GitHub](https://github.com/Darrenpig/5-axis-fluid-workstation)
- - [🐶 轮腿机器狗 K230 KFS](./projects/robotics/mechdog-k230-kfs/) - 基于K230/KFS的轮腿机器狗工程
-- [🚀 Quickstart（新人上手）](./docs/start-here/60min.md) · [First Good Issue](./docs/start-here/first-good-issue.md) · [Join](https://gitee.com/darrenpig/new_energy_coder_club/issues)
-- [🔬 科研横向项目](./projects/科研「横向项目」/README.md) - 产学研合作项目总览
-- [🎯 MICA验证项目](./projects/科研「横向项目」/mica-validation/README.md) - 关键性验证与文档系统
-- [🛠️ 项目模板](./projects/templates/README.md) - 标准化开发模板
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>📍 项目查找</h4>
+      <ul>
+        <li>🏆 竞赛项目：<code>competitions/[年份]/[竞赛名称]</code></li>
+        <li>🔬 技术项目：<code>projects/[技术领域]/[项目名称]</code></li>
+        <li>📦 共享资源：<code>shared/[资源类型]</code></li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h4>🔥 热门项目快速入口</h4>
+      <ul>
+        <li><a href="./projects/README.md">📁 项目总览</a> - 查看所有项目分类和导航</li>
+        <li><a href="./competitions/2025robocon/">🤖 2025 ROBOCON</a> - 全国大学生机器人竞赛</li>
+        <li><a href="./projects/robotics/humanoid-robot/">🦾 人形机器人</a> - Duma小型人形机器人项目</li>
+        <li><a href="./projects/embedded/20250426星闪手柄/">⚡ 星闪技术</a> - 新一代无线通信技术</li>
+        <li><a href="./projects/ai/5axis-fluid-workstation/">🧠 5轴流体工作站</a> - 智能能源管理系统 · <a href="https://github.com/Darrenpig/5-axis-fluid-workstation">GitHub</a></li>
+        <li><a href="./projects/robotics/mechdog-k230-kfs/">🐶 轮腿机器狗 K230 KFS</a> - 基于K230/KFS的轮腿机器狗工程</li>
+        <li><a href="./docs/start-here/60min.md">🚀 Quickstart（新人上手）</a> · <a href="./docs/start-here/first-good-issue.md">First Good Issue</a> · <a href="https://gitee.com/darrenpig/new_energy_coder_club/issues">Join</a></li>
+        <li><a href="./projects/科研「横向项目」/README.md">🔬 科研横向项目</a> - 产学研合作项目总览</li>
+        <li><a href="./projects/科研「横向项目」/mica-validation/README.md">🎯 MICA验证项目</a> - 关键性验证与文档系统</li>
+        <li><a href="./projects/templates/README.md">🛠️ 项目模板</a> - 标准化开发模板</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 📊 项目快览（Project Overview）
 | 项目名称 | 分类 | 状态 | 快速通道 |
