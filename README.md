@@ -39,22 +39,40 @@ NEC 是面向新能源与机器人竞赛的开源工程社区，提供模块化�
 
 ### ⚡ 为什么选择 NEC？（Community Features）
 
+NEC 诞生于自由的开源文化之上，立足新能源与机器人技术浪潮，连接来自不同背景、不同学科的个体。  
+这里不仅是线上协作网络，更有 A416 仓库实验室 这样的线下据点；不仅是团队，更是持续追踪前沿技术的无数个人⚡。
+
 <table align="center">
   <tr>
     <td width="33%" align="center" valign="top">
-      <img src="https://img.icons8.com/color/48/rocket.png" alt="rocket"/><br />
+      <img src="https://img.icons8.com/color/48/rocket--v1.png" alt="rocket"/><br />
       <b>🚀 搞事情：机器人军火库</b><br />
-      竞赛全周期资产（2022–2026），FRC→ROBOCON 补给链。
+      <ul style="text-align:left">
+        <li>竞赛全周期资产（2022–2026）</li>
+        <li>82 套 FRC 机械图纸、标准化铝方型材库</li>
+        <li>完整记录 CURC-ROBOCON 从 0 到 1 的过程</li>
+        <li>FRC → ROBOCON 的补给链与起步文档</li>
+      </ul>
     </td>
     <td width="33%" align="center" valign="top">
       <img src="https://img.icons8.com/color/48/source-code.png" alt="source-code"/><br />
       <b>🧩 极客风：模块化乐高</b><br />
-      openEuler / RT-Thread · BSP 解耦重组，可维护可演进。
+      <ul style="text-align:left">
+        <li>极简 + 模块化工程哲学</li>
+        <li>openEuler / RT-Thread 技术栈</li>
+        <li>BSP 像乐高积木一样解耦重组</li>
+        <li>线上 + 线下，百人协作的实战经验</li>
+      </ul>
     </td>
     <td width="33%" align="center" valign="top">
-      <img src="https://img.icons8.com/color/48/magic-wand.png" alt="magic-wand"/><br />
+      <img src="https://img.icons8.com/ios-filled/50/magic-wand.png" alt="magic-wand"/><br />
       <b>🎒 秘籍：哆啦 A 梦口袋</b><br />
-      全链路文档与复盘，野生导师教程，新人友好。
+      <ul style="text-align:left">
+        <li>机械设计 → 控制算法 → 参数调优全链路文档</li>
+        <li>真实项目一线经验与关键决策复盘</li>
+        <li>野生导师式教程，小白极度友好</li>
+        <li>技术快感与团队记忆同样重要</li>
+      </ul>
     </td>
   </tr>
 </table>
