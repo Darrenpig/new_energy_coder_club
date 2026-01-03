@@ -280,7 +280,7 @@ new_energy_coder_club/
   - **Gitee 动态**：[项目主页](https://gitee.com/darrenpig/new_energy_coder_club) 实时更新代码与公告  
   - **官方网站**：[newenergycoder.club](https://www.newenergycoder.club) 获取最新活动、文档与社区介绍  
   - **小红书达人**：关注 [DarrenPig](https://www.xiaohongshu.com/user/profile/62f2899b000000001f0074f1) 获取技术段子与新能源黑科技  
-  - **微信社群**：[扫码](darrenpig.blog.csdn.net)加入开发者群（详情边栏底部名片），随时在线交流💬  
+  - **QQ 社区**：[加入 Issue](https://gitee.com/darrenpig/new_energy_coder_club/issues/IDATOS) 参与交流与招新  
 
 **🚀 小贴士**  
 
