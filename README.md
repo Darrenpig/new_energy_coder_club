@@ -16,6 +16,8 @@
     一个充满活力和脑洞的极客基地，致力于打造 1W 以内的人形机器人生态
     <br />
     <a href="https://www.newenergycoder.club"><strong>探索官方主页 »</strong></a>
+    &nbsp;|&nbsp;
+    <a href="https://scn0bdoc8zxg.feishu.cn/wiki/S10LwzVZdiWLwxkEnEqcTcmEn6e"><strong>查看知识库 »</strong></a>
     <br />
     <br />
     <img src="https://img.shields.io/badge/2025-ROBOCON_Ready-blue?style=flat-square&logo=robot" alt="ROBOCON">
@@ -40,6 +42,8 @@
 [![Version](https://img.shields.io/github/v/tag/darrenpig/new_energy_coder_club?label=Version)](https://github.com/darrenpig/new_energy_coder_club/releases)
 [![Security](https://img.shields.io/github/security/dependabot/darrenpig/new_energy_coder_club?label=security)](https://github.com/darrenpig/new_energy_coder_club/security)
 [![Project Status](https://img.shields.io/badge/Project%20Status-Active-green)](https://github.com/darrenpig/new_energy_coder_club)
+[![Website](https://img.shields.io/badge/Website-newenergycoder.club-orange?style=flat-square)](https://www.newenergycoder.club/)
+[![Knowledge Base](https://img.shields.io/badge/Knowledge%20Base-Feishu-blue?style=flat-square)](https://scn0bdoc8zxg.feishu.cn/wiki/S10LwzVZdiWLwxkEnEqcTcmEn6e)
 
 ## About NEC
 NEC 是面向新能源与机器人竞赛的开源工程社区，提供模块化工程基线与赛季全周期资产，支持线上协作与 A416 线下实验室联动。
@@ -89,6 +93,8 @@ NEC 诞生于自由的开源文化之上，立足新能源与机器人技术浪�
 | :---: | :---: | :---: | :---: |
 
 > **近期热点**：🔥 [2025 ROBOCON 赛季资源包](./competitions/2025robocon/) | 🦾 [Duma 小型人形机器人项目](./projects/robotics/humanoid-robot/)
+>
+> 📚 更多资源：官网 [newenergycoder.club](https://www.newenergycoder.club/) · 知识库（Feishu Wiki）[入口](https://scn0bdoc8zxg.feishu.cn/wiki/S10LwzVZdiWLwxkEnEqcTcmEn6e)
 
 ## 关于本仓库（What / Why / Who）
 - What it is? 双驱动型开源仓库：竞赛（ROBOCON 等）+ 项目（Duma 人形、NearLink 等）
@@ -111,7 +117,7 @@ NEC 诞生于自由的开源文化之上，立足新能源与机器人技术浪�
 
 本仓库采用**双驱动型**组织方式，分为竞赛驱动型和项目驱动型两大类别，便于管理和查找内容。
 
-## � 仓库架构（Architecture）
+## 📁 仓库架构（Architecture）
 
 ```
 new_energy_coder_club/
@@ -124,6 +130,8 @@ new_energy_coder_club/
 
 - 赛项与赛季详情 → [competitions/README.md](./competitions/README.md)
 - 技术域与项目详情 → [projects/README.md](./projects/README.md)
+- 官网（Landing）→ [newenergycoder.club](https://www.newenergycoder.club/)
+- 知识库（Feishu Wiki）→ [入口](https://scn0bdoc8zxg.feishu.cn/wiki/S10LwzVZdiWLwxkEnEqcTcmEn6e)
 
 - `images/`: 图片资源
   - `Image/`: 项目Logo、路线图等核心图片
