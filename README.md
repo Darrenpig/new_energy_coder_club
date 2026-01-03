@@ -114,14 +114,6 @@ NEC 诞生于自由的开源文化之上，立足新能源与机器人技术浪�
 
 ---
 
-### 🎯 快速入口 (Start Here)
-
-| `https://www.newenergycoder.club`  | [🏁 60min 上手](./docs/start-here/60min.md) | [🧩 领取 Issue](./docs/start-here/first-good-issue.md) | [🗺️ 技能路线](./docs/learn/roles.md) |
-| :---: | :---: | :---: | :---: |
-
-> **近期热点**：🔥 [2025 ROBOCON 赛季资源包](./competitions/2025robocon/) | 🦾 [Duma 小型人形机器人项目](./projects/robotics/humanoid-robot/)
->
-> 📚 更多资源：官网 [newenergycoder.club](https://www.newenergycoder.club/) · 知识库（Feishu Wiki）[入口](https://scn0bdoc8zxg.feishu.cn/wiki/S10LwzVZdiWLwxkEnEqcTcmEn6e)
 
 ## 关于本仓库（What / Why / Who）
 - What it is? 双驱动型开源仓库：竞赛（ROBOCON 等）+ 项目（Duma 人形、NearLink 等）
@@ -134,12 +126,6 @@ NEC 诞生于自由的开源文化之上，立足新能源与机器人技术浪�
 - 竞赛与项目: [竞赛](./competitions/README.md) · [项目](./projects/README.md)
 - 社区与团队: [维护者/SIG](./docs/community/maintainers.md) · [团队与致谢](./docs/community/TEAM.md)
 
-### 📋 贡献方式
-- 🐛 问题反馈：在 Issues 中报告 bug 或提出建议
-- 💡 功能建议：提出新功能想法或改进建议
-- 📝 文档完善：改进文档、添加教程或翻译内容
-- 💻 代码贡献：提交代码修复或新功能实现
-- 🎨 设计贡献：提供 UI/Logo/3D 模型等设计资源
 
 # 📁 仓库结构
 
@@ -243,18 +229,6 @@ new_energy_coder_club/
 ![NEC 团队成员们](https://darrenpig.github.io/files/news10.jpg)
 > NEC 团队成员们的合照
 
-## Repositories 📦
-
-| Title                                                           | Description                                                                             | License                                                                  |
-|-----------------------------------------------------------------|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| [2025全国大学生机器人竞赛-ROBOCON](https://gitee.com/darrenpig/new_energy_coder_club/tree/master/competition_2025%E5%85%A8%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%9E%E8%B5%9B-ROBOCON) | 轮腿机器狗与轮腿人形机器人研发与竞赛基线 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
-| [🏆 2024年竞赛项目总览](./competitions/2024/README.md) | 2024年度所有竞赛项目的导航和概览 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
-| [🤖 2024 ROBOCON](./competitions/2024robocon/README.md) | 2024赛季 ROBOCON 团队的开发项目流程开源 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
-| [🧠 2024华为云AI化工赛题](./competitions/2024/huawei-cloud-ai/README.md) | 提供"星闪智巡"项目的接口和开发基线 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
-| [🚗 2024智能车室外赛](./competitions/2024smart-car/README.md) | 汽车工程学院机器人实验室提供的开发环境 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
-| [🌐 2024物联网设计竞赛](./competitions/2024iot-design/README.md) | 工业级边缘计算网关AR502H-CN 开发学习文档 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
-| [⚡ 2024电子设计竞赛](./competitions/2024electronics/README.md) | 星闪通讯协议模块的Demo实验 | <img src="https://img.shields.io/badge/license-CIT-bule" alt="License"> |
-| [🌱 2024节能减排大赛](./competitions/2024energy-saving/README.md) | 亚博智能 巡检小车Demo,研究esp32-UDP虚拟机 | <img src="https://img.shields.io/badge/license-MIT-red" alt="License"> |
 
 
 
