@@ -220,6 +220,8 @@ new_energy_coder_club/
         <li><a href="./projects/科研「横向项目」/AGL-openEuler.md">📄 AGL-openEuler</a></li>
         <li><a href="./projects/科研「横向项目」/dexterous-hand.md">📄 dexterous-hand</a></li>
         <li><a href="./projects/科研「横向项目」/pneumatic-system.md">📄 pneumatic-system</a></li>
+        <li><a href="./projects/robotics/mechdog-k230-kfs/">📄 K230-KFS</a></li>
+        <li><a href="./projects/ai/5axis-fluid-workstation/">📄 5轴流体工作站</a></li>
       </ul>
     </td>
   </tr>
