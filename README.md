@@ -65,7 +65,7 @@ NEC 诞生于自由的开源文化之上，立足新能源与机器人技术浪�
       </ul>
     </td>
     <td width="33%" align="center" valign="top">
-      <img src="https://img.icons8.com/ios-filled/50/magic-wand.png" alt="magic-wand"/><br />
+      <img src="https://img.icons8.com/color/48/book.png" alt="knowledge-base"/><br />
       <b>🎒 秘籍：哆啦 A 梦口袋</b><br />
       <ul style="text-align:left">
         <li>机械设计 → 控制算法 → 参数调优全链路文档</li>
