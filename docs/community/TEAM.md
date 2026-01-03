@@ -2,6 +2,8 @@
 
 ## Acknowledgments 致谢 📂
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!感谢以下开源组件、资料、资源库的帮助
+  
+更多致谢名单请参见主仓库 README 的入口：[致谢名单](../../README.md#ack-list)
 
 ## 感谢以下赞助伙伴，以及全体开发者们
 ![Vi2024](../../shared/images/Image/Warehouse%20Member%20Advocacy%20Vi2024.png)

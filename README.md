@@ -285,6 +285,7 @@ new_energy_coder_club/
 **🚀 小贴士**  
 
 - **项目双平台同步**：代码仓库同时在 [GitHub](https://github.com/Darrenpig/new_energy_coder_club ) 和 [Gitee](https://gitee.com/darrenpig/new_energy_coder_club) 维护，国内推荐用 [Gitee](https://gitee.com/darrenpig/new_energy_coder_club) 加速访问   
+<a id="ack-list"></a>
 - **赞助与合作**：企业级合作请联系邮箱22230635@czu.cn，开源贡献者请直接提 PR，你的名字将闪耀在**致谢名单** 🌟  
 - **紧急问题**：邮件标题加注【紧急】，我们会优先处理！  
 
@@ -300,9 +301,6 @@ new_energy_coder_club/
 
 
 <!-- ACKNOWLEDGMENTS -->
-## 团队与致谢
-详见 [TEAM.md](./docs/community/TEAM.md)
-
 ## 许可与合规（License & Compliance）
 - 主许可证: MIT（代码与文档遵循 MIT，见 [LICENSE](./LICENSE.md)）
 - 资料与第三方声明: README/Docs 中的外部链接、赛季资料索引仅作导航，版权归原作者/主办方所有
