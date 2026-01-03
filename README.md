@@ -77,6 +77,41 @@ NEC 诞生于自由的开源文化之上，立足新能源与机器人技术浪�
   </tr>
 </table>
 
+## 🤝 贡献与规范
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>📋 贡献方式</h4>
+      <ul>
+        <li>🐛 问题反馈：在 Issues 中报告 bug 或提出建议</li>
+        <li>💡 功能建议：提出新功能想法或改进建议</li>
+        <li>📝 文档完善：改进文档、添加教程或翻译内容</li>
+        <li>💻 代码贡献：提交代码修复或新功能实现</li>
+        <li>🎨 设计贡献：提供 UI/Logo/3D 模型等设计资源</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h4>🔧 开发规范</h4>
+      <ul>
+        <li>代码风格：遵循各语言的标准编码规范</li>
+        <li>提交规范：使用清晰的 commit message（格式：<code>[类型] 简短描述</code>）</li>
+        <li>
+          类型参考：
+          <ul>
+            <li><code>[feat]</code> 新功能</li>
+            <li><code>[fix]</code> 修复 bug</li>
+            <li><code>[docs]</code> 文档更新</li>
+            <li><code>[style]</code> 代码格式调整</li>
+            <li><code>[refactor]</code> 代码重构</li>
+          </ul>
+        </li>
+        <li>分支管理：从 <code>master</code> 创建 feature 分支，完成后提交 PR</li>
+        <li>测试要求：新功能需包含相应的测试用例（或最小可运行 Demo）</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 🎯 快速入口 (Start Here)
