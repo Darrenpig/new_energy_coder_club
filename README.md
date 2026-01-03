@@ -39,40 +39,25 @@ NEC 是面向新能源与机器人竞赛的开源工程社区，提供模块化�
 
 ### ⚡ 为什么选择 NEC？（Community Features）
 
-NEC 诞生于自由的开源文化之上，立足新能源与机器人技术浪潮，连接来自不同背景、不同学科的个体。
-
-这里不仅是线上协作网络，更有 A416 仓库实验室 这样的线下据点；  
-不仅是团队，更是持续追踪前沿技术的无数个人⚡。
-
-#### 🚀 搞事情｜机器人「军火库」
-- 系统性沉淀了 NEC 2022–2026 全部竞赛周期的核心资产：
-  - 覆盖 合规开源资料 / 项目申报书 / 完整竞赛材料
-  - 完整记录 2 年 CURC-ROBOCON 从 0 到 1 的真实过程
-  - 大量「起步文档 + 关键决策记录」，对后来者极其珍贵
-- 此外，我们囤积了：
-  - 82 套 FRC 机械图纸
-  - 标准化 铝方型材与结构库
-- 为竞赛党提供从 FRC → ROBOCON 的完整「弹药补给链路」。
-
-#### 🧩 极客风｜模块化 · 像乐高一样做工程
-- 崇尚 极简 + 模块化 的工程哲学：
-  - 将真实工程项目拆解为可复用模块
-  - 深度参与开源社区 Demo 共建与技术 Workshop
-  - 拥有 线上 + 线下，百人规模协作 的实战经验
-- 技术栈：
-  - 玩转 openEuler / RT-Thread
-  - 把嵌入式 BSP 像乐高积木一样解耦重组
-  - 告别屎山代码，让系统真正可维护、可演进
-
-#### 🎒 秘籍｜哆啦 A 梦口袋
-- 我们不只追求「能赢比赛」，更在乎 过程中的技术快感与团队记忆。
-- 在一起做项目的过程中，你将获得：
-  - 覆盖 机械设计 → 控制算法 → 参数调优 的全链路文档库
-  - 来自真实项目的一线经验总结
-  - 大量「野生导师式」教程与踩坑复盘，对小白极度友好
-- 目标：
-  - 让你从备赛菜鸟，进化为赛场扛把子，
-  - 并留下终身难忘的开源团队经历。
+<table align="center">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.icons8.com/color/48/rocket.png" alt="rocket"/><br />
+      <b>🚀 搞事情：机器人军火库</b><br />
+      竞赛全周期资产（2022–2026），FRC→ROBOCON 补给链。
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.icons8.com/color/48/source-code.png" alt="source-code"/><br />
+      <b>🧩 极客风：模块化乐高</b><br />
+      openEuler / RT-Thread · BSP 解耦重组，可维护可演进。
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.icons8.com/color/48/magic-wand.png" alt="magic-wand"/><br />
+      <b>🎒 秘籍：哆啦 A 梦口袋</b><br />
+      全链路文档与复盘，野生导师教程，新人友好。
+    </td>
+  </tr>
+</table>
 
 ---
 
