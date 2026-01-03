@@ -153,20 +153,31 @@ new_energy_coder_club/
 | 🤖 2025 ROBOCON | 竞赛 | 🟢 开发中 | [赛季仓](./competitions/2025robocon/) / [竞赛索引](./docs/build/competition_index.md) |
 | 🦾 Duma 人形机器人 | 项目 | 🟡 维护中 | [项目主页](./projects/robotics/humanoid-robot/) / [岗位路线图](./docs/learn/roles.md) |
 
-#### 2025 ROBOCON 组别快速入口
-- [📄 上位机组](./competitions/2025robocon/上位机组.md)
-- [📄 上位机组_运球机构](./competitions/2025robocon/上位机组_运球机构.md)
-- [📄 算法组](./competitions/2025robocon/算法组.md)
-- [📄 硬件组](./competitions/2025robocon/硬件组.md)
-- [📄 运营组](./competitions/2025robocon/运营组.md)
-- [📄 采购组](./competitions/2025robocon/采购组.md)
-- [📄 队伍结构](./competitions/2025robocon/队伍结构.md)
-
-#### 科研「横向项目」快速入口
-- [📄 3d-printing-sig](./projects/科研「横向项目」/3d-printing-sig.md)
-- [📄 AGL-openEuler](./projects/科研「横向项目」/AGL-openEuler.md)
-- [📄 dexterous-hand](./projects/科研「横向项目」/dexterous-hand.md)
-- [📄 pneumatic-system](./projects/科研「横向项目」/pneumatic-system.md)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>2025 ROBOCON 组别快速入口</h4>
+      <ul>
+        <li><a href="./competitions/2025robocon/上位机组.md">📄 上位机组</a></li>
+        <li><a href="./competitions/2025robocon/上位机组_运球机构.md">📄 上位机组_运球机构</a></li>
+        <li><a href="./competitions/2025robocon/算法组.md">📄 算法组</a></li>
+        <li><a href="./competitions/2025robocon/硬件组.md">📄 硬件组</a></li>
+        <li><a href="./competitions/2025robocon/运营组.md">📄 运营组</a></li>
+        <li><a href="./competitions/2025robocon/采购组.md">📄 采购组</a></li>
+        <li><a href="./competitions/2025robocon/队伍结构.md">📄 队伍结构</a></li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h4>科研「横向项目」快速入口</h4>
+      <ul>
+        <li><a href="./projects/科研「横向项目」/3d-printing-sig.md">📄 3d-printing-sig</a></li>
+        <li><a href="./projects/科研「横向项目」/AGL-openEuler.md">📄 AGL-openEuler</a></li>
+        <li><a href="./projects/科研「横向项目」/dexterous-hand.md">📄 dexterous-hand</a></li>
+        <li><a href="./projects/科研「横向项目」/pneumatic-system.md">📄 pneumatic-system</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ### 📊 项目状态概览
 | 类别 | 活跃项目数 | 状态 | 最近更新 |
