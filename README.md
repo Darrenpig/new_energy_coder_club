@@ -23,16 +23,8 @@
 
 # NEC · New Energy Coder Community
 
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Chat](https://img.shields.io/badge/Chat-QQ-blue?style=flat-square)](https://gitee.com/darrenpig/new_energy_coder_club/issues/IDATOS)
-[![Open Issues](https://img.shields.io/github/issues/darrenpig/new_energy_coder_club?label=open%20issues)](https://github.com/darrenpig/new_energy_coder_club/issues)
-[![Open PRs](https://img.shields.io/github/issues-pr/darrenpig/new_energy_coder_club?label=open%20PRs)](https://github.com/darrenpig/new_energy_coder_club/pulls)
-[![Docs](https://img.shields.io/badge/docs-%E2%9C%94%20complete-brightgreen)](docs/)
-[![Version](https://img.shields.io/github/v/tag/darrenpig/new_energy_coder_club?label=Version)](https://github.com/darrenpig/new_energy_coder_club/releases)
-[![Security](https://img.shields.io/github/security/dependabot/darrenpig/new_energy_coder_club?label=security)](https://github.com/darrenpig/new_energy_coder_club/security)
-[![Project Status](https://img.shields.io/badge/Project%20Status-Active-green)](https://github.com/darrenpig/new_energy_coder_club)
-[![Website](https://img.shields.io/badge/Website-newenergycoder.club-orange?style=flat-square)](https://www.newenergycoder.club/)
-[![Knowledge Base](https://img.shields.io/badge/Knowledge%20Base-Feishu-blue?style=flat-square)](https://scn0bdoc8zxg.feishu.cn/wiki/S10LwzVZdiWLwxkEnEqcTcmEn6e)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)[![Chat](https://img.shields.io/badge/Chat-QQ-blue?style=flat-square)](https://gitee.com/darrenpig/new_energy_coder_club/issues/IDATOS)[![Open Issues](https://img.shields.io/github/issues/darrenpig/new_energy_coder_club?label=open%20issues)](https://github.com/darrenpig/new_energy_coder_club/issues)[![Open PRs](https://img.shields.io/github/issues-pr/darrenpig/new_energy_coder_club?label=open%20PRs)](https://github.com/darrenpig/new_energy_coder_club/pulls)[![Docs](https://img.shields.io/badge/docs-%E2%9C%94%20complete-brightgreen)](docs/)
+[![Version](https://img.shields.io/github/v/tag/darrenpig/new_energy_coder_club?label=Version)](https://github.com/darrenpig/new_energy_coder_club/releases)[![Project Status](https://img.shields.io/badge/Project%20Status-Active-green)](https://github.com/darrenpig/new_energy_coder_club)[![Website](https://img.shields.io/badge/Website-newenergycoder.club-orange?style=flat-square)](https://www.newenergycoder.club/)[![Knowledge Base](https://img.shields.io/badge/Knowledge%20Base-Feishu-blue?style=flat-square)](https://scn0bdoc8zxg.feishu.cn/wiki/S10LwzVZdiWLwxkEnEqcTcmEn6e)
 
 ## About NEC
 NEC 是面向新能源与机器人竞赛的开源工程社区，提供模块化工程基线与赛季全周期资产，支持线上协作与 A416 线下实验室联动。
@@ -89,8 +81,11 @@ NEC 诞生于自由的开源文化之上，立足新能源与机器人技术浪�
         <li>💻 代码贡献：提交代码修复或新功能实现</li>
         <li>🎨 设计贡献：提供 UI/Logo/3D 模型等设计资源</li>
       </ul>
-      ### 📚 更多信息
-      详细的贡献指南请参考：[CONTRIBUTING.md](./CONTRIBUTING.md)
+      <h4> 📚 更多信息</h4>
+      <ul style="text-align:left">
+        <li>详细的贡献指南请参考：[CONTRIBUTING.md](./CONTRIBUTING.md)</li>
+        <li>代码规范请参考：[CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)</li>
+      </ul>
     </td>
     <td valign="top" width="50%">
       <h4>🔧 开发规范</h4>
@@ -167,6 +162,17 @@ new_energy_coder_club/
         <li>🏆 竞赛项目：<code>competitions/[年份]/[竞赛名称]</code></li>
         <li>🔬 技术项目：<code>projects/[技术领域]/[项目名称]</code></li>
         <li>📦 共享资源：<code>shared/[资源类型]</code></li>
+      </ul>
+      <h4>Project Profile 项目简介</h4>
+      <p>目前是一个开源项目，想要做 1W 以内的人形机器人与轮腿机器狗，同时兼顾高校开发者的 ROBOCON 竞赛需求、设计师的落地实践，以及大家的有趣技术追求。</p>
+      <p>我们将在 2 个月内快速开发人形机器人 2+ 场景，并通过广泛的横向项目维护与贡献。希望这段经历成为大家难忘的开源团队记忆。——DarrenPig</p>
+      <h5>分支组成</h5>
+      <ul>
+        <li>竞赛（3+ing） + 科研（IEEE/课设） + 横向项目（委托/合作） + 开源运营（社群/社区）</li>
+        <li>Internet_of_Things_Design_Competition 物联网项目</li>
+        <li>Electronic_design_competition 电子设计项目</li>
+        <li>Energy_conservation_and_emission_reduction_competition 新能源项目</li>
+        <li>main（案例 Demo 集中展示的分支）商业项目</li>
       </ul>
     </td>
     <td valign="top" width="50%">
@@ -257,15 +263,6 @@ new_energy_coder_club/
 ![last commit](https://img.shields.io/github/last-commit/Darrenpig/new_energy_coder_club) 
 [![Project](https://img.shields.io/badge/project-new_energy_coder_club-violet)](https://github.com/users/Darrenpig/projects/3)
 
-### Project Profile 项目简介
-目前是一个开源项目，想要做 1W 以内的人形机器人与轮腿机器狗，同时兼顾高校开发者的ROBOCON竞赛需求，设计师们的落地项目实践，以及大家的好玩技术的追求。
-我们将在2 个月内快速开发人形机器人 2+ 场景，并且通过广泛的横向项目来维护贡献这个项目。希望贡献项目的经历可以成为大家以后美好的回忆。——DarrenPig
-分支有以下的组成：
-### 竞赛（3+ing） + 科研（IEEE 项目和专业课设） + 横向项目（委托外包和合作） + 开源运营（机器人社群和开源社区）
-- Internet_of_Things_Design_Competition 物联网项目
-- Electronic_design_competition 电子设计项目
-- Energy_conservation_and_emission_reduction_competition 新能源项目
-- main（案例 Demo 集中展示的分支）商业项目
 
 
 ### Roadmap 项目探索地图
