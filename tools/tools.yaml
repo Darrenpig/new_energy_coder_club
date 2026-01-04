@@ -51,3 +51,80 @@ tools:
       mode: redirect
       windows:
         url: https://pan.baidu.com/download
+
+  - id: steam-accelerator-watt-toolkit
+    name: STEAM加速器（Watt Toolkit / Steam++）
+    category: network
+    license: open-source
+    open_source: true
+    supports: [windows]
+    fetch:
+      source: github_release
+      repo: BeyondDimension/SteamTools
+      version: latest
+      asset_match:
+        windows:
+          x64:
+            include: ["Windows","x64"]
+            exclude: ["arm","sha","sig","symbols"]
+      priority_ext: ["zip","7z","exe","msi"]
+    install:
+      mode: download
+    install_steps:
+      windows:
+        - type: ensure_dir
+          path: "${APP_DIR}\\WattToolkit"
+        - type: extract
+          from: "${DOWNLOADED_FILE}"
+          to: "${APP_DIR}\\WattToolkit"
+        - type: shortcut
+          target: "${APP_DIR}\\WattToolkit\\WattToolkit.exe"
+          where: "startmenu"
+
+  - id: clash-mihomo-core
+    name: Clash 内核（mihomo）
+    category: network
+    license: open-source
+    open_source: true
+    supports: [windows, linux, macos]
+    fetch:
+      source: github_release
+      repo: MetaCubeX/mihomo
+      version: latest
+      asset_match:
+        windows:
+          x64:
+            include: ["windows","amd64"]
+            exclude: ["arm64","deb","rpm","sha","sig"]
+          arm64:
+            include: ["windows","arm64"]
+            exclude: ["sha","sig","deb","rpm"]
+      priority_ext: ["exe","zip","tar.gz"]
+    install:
+      mode: download
+    install_steps:
+      windows:
+        - type: ensure_dir
+          path: "${BIN_DIR}\\mihomo"
+        - type: move
+          from: "${DOWNLOADED_FILE}"
+          to: "${BIN_DIR}\\mihomo\\mihomo.exe"
+
+  - id: clash-verge-rev
+    name: Clash Verge Rev
+    category: network
+    license: open-source
+    open_source: true
+    supports: [windows, linux, macos]
+    fetch:
+      source: github_release
+      repo: Clash-Verge-rev/clash-verge-rev
+      version: latest
+      asset_match:
+        windows:
+          x64:
+            include: ["windows","x64"]
+            exclude: ["arm64","sha","sig",".blockmap"]
+      priority_ext: ["msi","exe","zip"]
+    install:
+      mode: download

@@ -294,6 +294,14 @@ new_energy_coder_club/
 
 ---
 
+### Lite Branch（new-here）
+- 轻量化分支，浅克隆：
+  - git clone --depth 1 --branch new-here https://gitee.com/darrenpig/new_energy_coder_club.git
+- 安装：
+  - Windows: pwsh -File .\install.ps1
+  - Linux/WSL: bash install.sh
+- 文档：docs/quickstart.md · docs/faq.md · docs/license.md
+
 ### 📚 更多信息
 详细的贡献指南请参考：[CONTRIBUTING.md](./CONTRIBUTING.md)
 
