@@ -78,3 +78,17 @@ shared/images/Image/
 projects/robotics/mechdog-k230-kfs/code/K230_KFS_detection/
 projects/robotics/mechdog-k230-kfs/code/esp32_face_detection/FaceDetection/
 projects/robotics/mechdog-k230-kfs/code/esp32_color_detection/ColorDetection/
+projects/embedded/20250426星闪手柄/相关资料/
+projects/科研「横向项目」/image/
+shared/images/competition/
+shared/images/project/
+shared/images/team/
+shared/images/technical/
+*.zip
+*.pdf
+*.mp4
+*.gif
+*.kmodel
+*.step
+*.stp
+*.stl
