@@ -376,3 +376,11 @@ new_energy_coder_club/
 ---
 
 苏ICP备2025187096号-1X
+
+---
+### Lite Branch（new-here）
+- 轻量化分支，适合快速拉取（建议浅克隆）：
+  - git clone --depth 1 --branch new-here https://gitee.com/darrenpig/new_energy_coder_club.git
+- 如需获取完整内容：
+  - Windows: powershell -ExecutionPolicy Bypass -File scripts/upgrade-to-full.ps1
+  - Linux/macOS: bash scripts/upgrade-to-full.sh

@@ -73,3 +73,8 @@ docs/nec_quickstart/out/
 .trae/
 _build/
 *.orig
+shared/models/
+shared/images/Image/
+projects/robotics/mechdog-k230-kfs/code/K230_KFS_detection/
+projects/robotics/mechdog-k230-kfs/code/esp32_face_detection/FaceDetection/
+projects/robotics/mechdog-k230-kfs/code/esp32_color_detection/ColorDetection/
