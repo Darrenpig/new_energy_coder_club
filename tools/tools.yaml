@@ -1,0 +1,53 @@
+version: 1
+schema: new-here-wegt
+
+tools:
+  - id: screentogif
+    name: ScreenToGif
+    category: writing
+    license: open-source
+    open_source: true
+    size_hint: small
+    description: GIF 录屏工具
+    install:
+      mode: download
+      windows:
+        url: https://github.com/NickeManarin/ScreenToGif/releases/latest/download/ScreenToGif.exe
+        checksum: sha256:unset
+
+  - id: bambu-studio
+    name: Bambu Studio
+    category: maker
+    license: open-source
+    open_source: true
+    size_hint: medium
+    description: 3D 打印切片软件（BambuLab）
+    install:
+      mode: download
+      windows:
+        url: https://github.com/bambulab/BambuStudio/releases/latest/download/BambuStudio_Windows.exe
+        checksum: sha256:unset
+
+  - id: clion
+    name: CLion
+    category: dev
+    license: commercial
+    open_source: false
+    size_hint: large
+    description: JetBrains C/C++ IDE（仅跳转官网）
+    install:
+      mode: redirect
+      windows:
+        url: https://www.jetbrains.com/clion/
+
+  - id: baidu-netdisk
+    name: 百度网盘
+    category: network
+    license: non-commercial
+    open_source: false
+    size_hint: large
+    description: 非开源下载工具（仅跳转官网）
+    install:
+      mode: redirect
+      windows:
+        url: https://pan.baidu.com/download

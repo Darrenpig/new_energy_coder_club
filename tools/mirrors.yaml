@@ -1,0 +1,11 @@
+version: 1
+schema: new-here-wegt-mirrors
+
+rules:
+  - match: github.com
+    replace: ghproxy.com/https://github.com
+    note: 国内加速镜像（示例）
+
+  - match: desktop.github.com
+    replace: ghproxy.com/https://desktop.github.com
+    note: 示例，仅当 -UseMirror 启用时替换

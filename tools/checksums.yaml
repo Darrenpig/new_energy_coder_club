@@ -1,0 +1,13 @@
+version: 1
+schema: new-here-wegt-checksums
+
+files:
+  - id: screentogif
+    platform: windows
+    filename: ScreenToGif.exe
+    sha256: unset
+
+  - id: bambu-studio
+    platform: windows
+    filename: BambuStudio_Windows.exe
+    sha256: unset
