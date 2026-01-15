@@ -13,9 +13,9 @@
   <p align="center">
     <a href="https://www.newenergycoder.club"><strong>官网（Website）»</strong></a>
     &nbsp;|&nbsp;
-    <a href="./docs/start-here/60min.md"><strong>快速上手（Get Started）»</strong></a>
+    <a href="https://scn0bdoc8zxg.feishu.cn/wiki/QAtNwr244ir8ZekITEZcwpOZnkg"><strong>快速上手（Get Started）»</strong></a>
     &nbsp;|&nbsp;
-    <a href="./docs/README.md"><strong>文档（Docs）»</strong></a>
+    <a href="https://scn0bdoc8zxg.feishu.cn/wiki/S10LwzVZdiWLwxkEnEqcTcmEn6e"><strong>知识库（Docs）»</strong></a>
   </p>
 </div>
 
