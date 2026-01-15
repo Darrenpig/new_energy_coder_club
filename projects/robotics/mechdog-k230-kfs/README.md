@@ -4,12 +4,12 @@
 - 范式：模块化驱动、实时控制、可复用接口，面向竞赛与教学
 
 ## 代码目录
-- `code/mechdog_iot_main.py` IOT 控制例程主程序
-- `code/mechdog_arm_main.py` 机械臂控制例程主程序
-- `code/esp32s3_face_detection/` ESP32S3 人脸识别完整工程
-- `code/esp32s3_color_detection/` ESP32S3 颜色识别完整工程
-- `code/esp32_face_detection/` ESP32 人脸识别完整工程
-- `code/esp32_color_detection/` ESP32 颜色识别完整工程
+- `code/mechdog_iot_main.py` IOT 控制例程主程序1
+- `code/mechdog_arm_main.py` 机械臂控制例程主程序1
+- `code/esp32s3_face_detection/` ESP32S3 人脸识别完整工程1
+- `code/esp32s3_color_detection/` ESP32S3 颜色识别完整工程1
+- `code/esp32_face_detection/` ESP32 人脸识别完整工程1
+- `code/esp32_color_detection/` ESP32 颜色识别完整工程1
 
 ## 学习路线
 1. 环境准备
