@@ -1,5 +1,7 @@
 # 新人 60 分钟上手：跑通 NEC 最小 Demo + 提交第一个 PR
 
+## 入门飞书文档： https://scn0bdoc8zxg.feishu.cn/wiki/QAtNwr244ir8ZekITEZcwpOZnkg
+
 > 目标：**1 小时内**完成三件事：
 > 1) 在本地跑通一个“无硬件也能跑”的 NEC 最小 Demo  
 > 2) 提交一个很小但规范的 PR（文档也算贡献）  
