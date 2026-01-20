@@ -31,6 +31,52 @@ NEC 是面向新能源与机器人竞赛的开源工程社区，提供模块化�
 
 # 下面是常州工NEC战队的CURC-ROBOCON赛季仓库 
 
-仓库由
+
+仓库由NEC托管负责 常州工学院 2026 年的赛季开源参赛记录
+
+- 团队分为：机构、视觉、运营 三大技术方向
+- 参与赛项：主赛 狗赛 排球
+
+### 机构（mechanical）机械+电控+场务
+
+- CAD：装配体 + 关键零件（标版本号）
+- BOM：采购清单（导出表 + 供应商链接）
+- 加工图：PDF/DXF（能下发加工）
+- 组装说明：步骤 + 扭矩 + 注意事项
+- 标定/机构参数：如轮距、连杆长度等
+
+### 视觉（vision）上位机+视觉
+
+- 代码：最小可运行示例 + 环境说明
+- 数据：**只放样例和索引**，大数据集放网盘/Release 链接
+- 标定：相机内参、外参、标定板规格、标定流程
+- 指标：精度、延迟、鲁棒性测试方法
+
+### 运营（operations）招商+宣传+合规
+
+- 宣传物料：海报、推文、视频脚本
+- 赞助招商：赞助方案、致谢墙、合作流程
+- 赛务：报名材料、行程、物资清单、对接记录
+- 影像归档：比赛日素材索引（统一命名）
+
+------
+
+## 命名与版本规范
+
+**文件命名**
+
+- 图片：`YYMMDD_主题_作者.jpg`
+- 会议纪要：`YYMMDD_meeting_<event>.md`
+- 机构版本：`assy_v0.3.step` / `assy_v0.3.f3d`
+- 代码 Tag：`curc2026-r1`、`curc2026-r2`、` curc2026-dog `、、` curc2026-ball `
 
 
+
+------
+
+## 已有工作
+
+- https://github.com/NEC-CuCu/coworkers_for_KFS
+- https://gitee.com/hnuyuelurm/basic_framework 
+- https://gitee.com/tarsgo-embedded/UIML 
+- https://gitee.com/x-robot/XRobot/tree/dev/
