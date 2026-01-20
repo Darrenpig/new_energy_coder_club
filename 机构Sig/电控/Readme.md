@@ -5,3 +5,6 @@ https://gitee.com/darrenpig/new_energy_coder_club/issues/ICGYAY
 与往年不同，今年我们希望所有的电控与机械成员合作起来，共同承担机器人项目中的所有任务。
 
 不需要有明确的责任边界，做一种文化，做成一个高凝聚力的组织。
+
+个人进度：魏卫
+2026-01-21@中科大RM电控合集 观看了clion环境配置教程，结合claude code辅助，完成了STM32H723项目的CLion+OpenOCD调试环境配置；
