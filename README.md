@@ -80,3 +80,8 @@ NEC 是面向新能源与机器人竞赛的开源工程社区，提供模块化�
 - https://gitee.com/hnuyuelurm/basic_framework 
 - https://gitee.com/tarsgo-embedded/UIML 
 - https://gitee.com/x-robot/XRobot/tree/dev/
+
+
+## 每日工作：
+格式
+260220 @Darrenpig 创建分支，学习UIML等代码。进行技术培训
