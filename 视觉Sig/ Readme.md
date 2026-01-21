@@ -36,3 +36,8 @@
 ### 汪奕希
 ####
 260121 @汪奕希  哈工大竞培营课程    https://www.bilibili.com/video/BV1iH4jz4EPo 第一讲
+
+
+### 杨彩妮
+####
+260121 @汪奕希  哈工大竞培营课程    https://www.bilibili.com/video/BV1iH4jz4EPo 第一讲
