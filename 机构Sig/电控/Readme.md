@@ -1,12 +1,20 @@
-https://gitee.com/darrenpig/new_energy_coder_club/issues/ICGYAY
-## NEC 电控
-今年的电控组，我们将继续保持之前的合作模式，即每个成员负责一个子模块的开发。
+# NEC 电控
 
-与往年不同，今年我们希望所有的电控与机械成员合作起来，共同承担机器人项目中的所有任务。
+## 一、定位与目标
+- 电控组负责机器人电气与控制系统的设计、开发与联调
+- 今年的电控组，我们将继续保持之前的合作模式，即每个成员负责一个子模块的开发。
+- 与往年不同，今年我们希望所有的电控与机械成员合作起来，共同承担机器人项目中的所有任务。
+- 不需要有明确的责任边界，做一种文化，做成一个高凝聚力的组织。
 
-不需要有明确的责任边界，做一种文化，做成一个高凝聚力的组织。
+## 二、协作与反馈
+- 需求与问题跟踪：https://gitee.com/darrenpig/new_energy_coder_club/issues/ICGYAY
+- 重要变更用文字记录，保证可追溯与可交接
 
-## 个人进度
+## 三、学习资料
+- 中科大 RM 电控合集
+- 入门与实战课程：https://www.bilibili.com/video/BV1XHi7BZEU1?vd_source=c7437912ce16dd349e9bcfd59699e4c4&spm_id_from=333.788.videopod.sections
+
+## 四、个人进度
 #### 魏卫
 2026-01-21@中科大RM电控合集 观看了clion环境配置教程，结合claude code辅助，完成了STM32H723项目的CLion+OpenOCD调试环境配置；
 
