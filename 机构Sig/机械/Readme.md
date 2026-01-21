@@ -10,6 +10,7 @@
 #### XXX
 
 YYMMDD @XXX 看了华中科技大学D XXX d\
+260121 @庄皓钧 看了华中科技大学机械培训第一节 【26赛季培训——机械组培训第一讲【HUSTROBOCON机器人队】】https://www.bilibili.com/video/BV1DgnHzmEXK
 
 
 
