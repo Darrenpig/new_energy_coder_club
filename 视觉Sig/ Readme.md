@@ -28,6 +28,6 @@
 ##### 3.了解比赛常用的视觉硬件：USB摄像头、工业相机、树莓派/英伟达Jetson Nano（嵌入式计算平台）。
 
 
-###郭童童
-####260120 中科大电控合集 3.7
-####260121 https://www.bilibili.com/video/BV1iH4jz4EPo/?vd_source=8e63c5e22cb6720b9d36c51c2d6fed8f 第一讲
+### 郭童童
+#### 260120 中科大电控合集 3.7
+#### 260121 https://www.bilibili.com/video/BV1iH4jz4EPo/?vd_source=8e63c5e22cb6720b9d36c51c2d6fed8f 第一讲
