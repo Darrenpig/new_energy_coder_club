@@ -10,3 +10,5 @@ https://gitee.com/darrenpig/new_energy_coder_club/issues/ICGYAY
 2026-01-21@中科大RM电控合集 观看了clion环境配置教程，结合claude code辅助，完成了STM32H723项目的CLion+OpenOCD调试环境配置；
 个人进度：王欣怡
 2026-01-21@中科大RM电控合集 观看了Git基础操作教学和1.1的电控简介对其资料的位置以及整体流程有了初步了解
+个人进度：李畅畅
+2026-01-21@中科大RM电控合集 https://b23.tv/C4tlB7A 定时器部分代码调试和大疆电机部分
