@@ -18,7 +18,7 @@
     <a href="https://scn0bdoc8zxg.feishu.cn/wiki/S10LwzVZdiWLwxkEnEqcTcmEn6e"><strong>知识库（Docs）»</strong></a>
   </p>
 </div>
-
+> 260121提交指南：https://scn0bdoc8zxg.feishu.cn/docx/QkkYdBJE0o2Q9Xx9O5ocIoWZnde
 ---
 
 # NEC · New Energy Coder Community
