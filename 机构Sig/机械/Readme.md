@@ -6,20 +6,23 @@
 ## 个人进度
 
 
+#### 庄皓钧
 
-#### XXX
-
-YYMMDD @XXX 看了华中科技大学D XXX d\
 260121 @庄皓钧 看了华中科技大学机械培训第一节 【26赛季培训——机械组培训第一讲【HUSTROBOCON机器人队】】https://www.bilibili.com/video/BV1DgnHzmEXK
-260121  @毕卫亭  看了华中科技大学机械培训第一节 【26赛季培训——机械组培训第一讲【HUSTROBOCON机器人队】】https://www.bilibili.com/video/BV1DgnHzmEXK 
+
+#### 毕卫亭
+
+260121 @毕卫亭  看了华中科技大学机械培训第一节 【26赛季培训——机械组培训第一讲【HUSTROBOCON机器人队】】https://www.bilibili.com/video/BV1DgnHzmEXK 
+
+#### 张孟驰
 260121 @张孟驰 看了华中科技大学机械培训第一节 【26赛季培训——机械组培训第一讲【HUSTROBOCON机器人队】】https://www.bilibili.com/video/BV1DgnHzmEXK
 
 
+#### XXX
 
 
 
-
-### 目标
+### 机械文件命名目标
 
 一套**专门针对「机器人 + 工业控制」**，并**深度适配 SolidWorks + Rhino** 的**机械文件夹结构与路径缩写规范**。重点考虑：**多轴机构、版本迭代快、机电协同、下游制造对接**。
 
