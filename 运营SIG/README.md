@@ -4,6 +4,7 @@
 
 260121@韩祺冉 中科大RM课程 https://www.bilibili.com/video/BV1h4421F7sp/?vd_source=542233ceb6f02ec6d5b0af4558e6907c第一节
 *260121@严文颖 https://www.bilibili.com/video/BV1h4421F7sp/?vd_source=542233ceb6f02ec6d5b0af4558e6907c第一节学习中....
+260121@张岩皓  https://www.bilibili.com/video/BV1h4421F7sp/?vd_source=542233ceb6f02ec6d5b0af4558e6907c%E7%AC%AC%E4%B8%80%E8%8A%82%E5%AD%A6%E4%B9%A0%E4%B8%AD  RM中科大学习12分钟，小红书和哔站的推文和视频，在剪辑陪文中
 
 一、背景与目标
 为明确 NEC 运营工作的职责边界、工作内容及协作方式，解决当前运营工作中存在的职责不清、任务分散、推进效率不足等问题，特制定本 SOR。本文件用于明确 长期需要持续开展的运营工作 与 阶段性/临时性运营任务，作为后续人员协作、交接与考核的基础依据。
