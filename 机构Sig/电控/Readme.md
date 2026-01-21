@@ -24,3 +24,6 @@ https://gitee.com/darrenpig/new_energy_coder_club/issues/ICGYAY
 
 #### 孟洁
 2026-01-21@中科大RM电控合集 观看了1.1的电控简介，对其有了简单的认识 复习了stm32基础知识
+
+#### 岳添俊
+2026-01-21@中科大RM电控合集 观看了1.1，并对电控简介有了了解，学习了2.2中stm32的基础知识
