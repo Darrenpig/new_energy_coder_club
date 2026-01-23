@@ -28,5 +28,6 @@
 *(请保持格式统一：`YYMMDD @姓名 内容 [链接]` 或表格形式)*
 <<<<<<< HEAD
 =======
+| **岳添俊** | 260123 |中科大RM电控合集 观看了2.2进一步学习STM32CubeMX-GPIO输出电压的相关知识 | [B站视频](https://www.bilibili.com/video/BV1hQ4y167ri?vd_source=5fd636356f1b9e917e7df1c877f5b503) |
 
 
