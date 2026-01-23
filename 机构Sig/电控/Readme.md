@@ -19,6 +19,7 @@
 | :--- | :--- | :--- | :--- |
 | **魏卫** | 260121 |中科大RM电控合集 观看了clion环境配置教程，结合claude code辅助，完成了STM32H723项目的CLion+OpenOCD调试环境配置 | [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
 | **王欣怡** | 260121 | 中科大RM电控合集 观看了Git基础操作教学和1.1的电控简介对其资料的位置以及整体流程有了初步了解 | [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
+| **王欣怡** | 260123 | 中科大RM电控合集 观看了2.1的环境配置并且已经完成环境调试，正在学习2.2的基础知识| [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
 | **孙诗睿** | 260121 | 中科大RM电控合集 观看了1.1的电控简介，对其有了初步的认识，并学习了2.1中一部分的STM32单片机环境配置 | [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
 | **梁新雷** | 260121 | 中科大RM电控合集 观看了1.1和2.1对电控理论和stm32单片机环境配置和基础知识有了一定了解 | [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
 | **文钰婷** | 260122 | 中科大RM电控合集 观看了1.1电控简介有了简单的认识 复习了stm32基础知识 | [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
