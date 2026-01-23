@@ -7,6 +7,7 @@
 
 #### 严文颖
 260121@严文颖 https://www.bilibili.com/video/BV1h4421F7sp/?vd_source=542233ceb6f02ec6d5b0af4558e6907c第一节学习中....
+260123@严文颖https://www.bilibili.com/video/BV1h4421F7sp/?vd_source=542233ceb6f02ec6d5b0af4558e6907c课程1.2和2.1没看完....
 
 #### 张岩皓
 260121@张岩皓  https://www.bilibili.com/video/BV1h4421F7sp/?vd_source=542233ceb6f02ec6d5b0af4558e6907c%E7%AC%AC%E4%B8%80%E8%8A%82%E5%AD%A6%E4%B9%A0%E4%B8%AD  RM中科大学习12分钟，小红书和哔站的推文和视频，在剪辑陪文中
