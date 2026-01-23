@@ -15,6 +15,7 @@
 | **毕卫亭** | 260121 | 学习华科机械培训第一讲 | [B站视频](https://www.bilibili.com/video/BV1DgnHzmEXK) |
 | **张孟驰** | 260121 | 学习华科机械培训第一讲 | [B站视频](https://www.bilibili.com/video/BV1DgnHzmEXK) |
 | **白逸鸣** | 260121 | 学习华科机械培训第一讲 | [B站视频](https://www.bilibili.com/video/BV1DgnHzmEXK) |
+| **卢王淳** | 260122 | 学习25、26华科机械气动培训 | [B站视频](https://www.bilibili.com/video/BV1JC4kzME3c?vd_source=d13ddcdcf6579b45b8c46d1b239e268a) |
 
 *(请保持格式统一：`YYMMDD @姓名 内容 [链接]` 或表格形式)*
 
