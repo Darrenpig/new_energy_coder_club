@@ -25,9 +25,10 @@
 | **文钰婷** | 260122 | 中科大RM电控合集 观看了1.1电控简介有了简单的认识 复习了stm32基础知识 | [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
 | **孟洁** | 260121 |中科大RM电控合集 观看了1.1的电控简介，对其有了简单的认识 复习了stm32基础知识 | [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
 | **岳添俊** | 260121 |中科大RM电控合集 观看了1.1，并对电控简介有了了解，学习了2.2中stm32的基础知识 | [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
+| **岳添俊** | 260123 |中科大RM电控合集 观看了2.2进一步学习STM32CubeMX-GPIO输出电压的相关知识 | [B站视频](https://www.bilibili.com/video/BV1hQ4y167ri?vd_source=5fd636356f1b9e917e7df1c877f5b503) |
 *(请保持格式统一：`YYMMDD @姓名 内容 [链接]` 或表格形式)*
 <<<<<<< HEAD
 =======
-| **岳添俊** | 260123 |中科大RM电控合集 观看了2.2进一步学习STM32CubeMX-GPIO输出电压的相关知识 | [B站视频](https://www.bilibili.com/video/BV1hQ4y167ri?vd_source=5fd636356f1b9e917e7df1c877f5b503) |
+
 
 
