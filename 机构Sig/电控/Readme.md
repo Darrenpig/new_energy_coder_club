@@ -24,6 +24,7 @@
 | **王欣怡** | 260123 | 中科大RM电控合集 CubeMX今天使用的时候报错了，部分信息没办法及时更新全删掉重新进行了安装并在网上购买了与视频教程一样型号的STM32板子还没到继续学习2.2的基础知识| [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
 | **孙诗睿** | 260121 | 中科大RM电控合集 观看了1.1的电控简介，对其有了初步的认识，并学习了2.1中一部分的STM32单片机环境配置 | [B站视频](https://www.bilibili.com/video/BV1z14y1G77V)| 
 | **孙诗睿** | 260123 | 中科大RM电控合集 完成2.1内容，学习了2.2GPIO输出电压。 | [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
+| **孙诗睿** | 260124 | 中科大RM电控合集 学习了2.3EXTI外部中断。 | [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
 | **梁新雷** | 260121 | 中科大RM电控合集 观看了1.1和2.1对电控理论和stm32单片机环境配置和基础知识有了一定了解 | [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
 | **文钰婷** | 260122 | 中科大RM电控合集 观看了1.1电控简介有了简单的认识 复习了stm32基础知识 | [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
 | **孟洁** | 260121 |中科大RM电控合集 观看了1.1的电控简介，对其有了简单的认识 复习了stm32基础知识 | [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
