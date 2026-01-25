@@ -32,7 +32,8 @@
 
 ### 郭童童
 #### 260125 中科大电控合集 1、2、3、4.2、4.3、5.1
-#### 260121 https://www.bilibili.com/video/BV1iH4jz4EPo/?vd_source=8e63c5e22cb6720b9d36c51c2d6fed8f 第一讲
+#### 260121 哈工大竞培营课程    https://www.bilibili.com/video/BV1iH4jz4EPo 1
+#### 260126 树莓派5  https://www.yahboom.com/study/raspberry5   erwp 
 
 
 ### 汪奕希
