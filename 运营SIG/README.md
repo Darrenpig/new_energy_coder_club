@@ -3,8 +3,9 @@
 ## 个人进度
 
 #### 韩祺冉
-260121@韩祺冉 中科大RM课程 https://www.bilibili.com/video/BV1h4421F7sp/?vd_source=542233ceb6f02ec6d5b0af4558e6907c第一节
-
+260121@韩祺冉 中科大RM课程 https://www.bilibili.com/video/BV1h4421F7sp/?vd_source=542233ceb6f02ec6d5b0af4558e6907c 第一节
+260122@韩祺冉 中科大RM课程 https://www.bilibili.com/video/BV1h4421F7sp/?vd_source=542233ceb6f02ec6d5b0af4558e6907c 第二节
+260123@韩祺冉 中科大RM课程 https://www.bilibili.com/video/BV1h4421F7sp/?vd_source=542233ceb6f02ec6d5b0af4558e6907c 第三节
 #### 严文颖
 260121@严文颖 https://www.bilibili.com/video/BV1h4421F7sp/?vd_source=542233ceb6f02ec6d5b0af4558e6907c第一节学习中....
 260123@严文颖https://www.bilibili.com/video/BV1h4421F7sp/?vd_source=542233ceb6f02ec6d5b0af4558e6907c课程1.2和2.1没看完....
