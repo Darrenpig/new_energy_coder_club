@@ -21,6 +21,8 @@
 260120 @卢永杰  工业相机SDK实操应用课程    https://www.bilibili.com/video/BV1VnBTBiE7R?vd_source=db6946c10b9923c584dff5c96e4faaa0
 ####
 260121 @卢永杰  OpenCV+YOLO 实时目标检测课程    https://www.bilibili.com/video/BV1M7oMYXE5h?vd_source=db6946c10b9923c584dff5c96e4faaa0
+####
+260125 @卢永杰  树莓派5视觉小车，部署YOLOV8及YOLOV11课程    https://www.bilibili.com/video/BV1zCWYzvEA7?vd_source=db6946c10b9923c584dff5c96e4faaa0
 
 #### 视觉建议学习内容：
 ##### 1.掌握一门编程语言：优先选择Python生态（上手快、库丰富）。
