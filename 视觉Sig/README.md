@@ -52,5 +52,7 @@
 
 ### 白逸鸣
 ####
-260121  @白逸鸣   哈工大竞培营课程    https://www.bilibili.com/video/BV1iH4jz4EPo 第一讲
+260121  @白逸鸣 哈工大竞培营课程    https://www.bilibili.com/video/BV1iH4jz4EPo 第一讲
+####
+260126  @白逸鸣 哈工大竞培营课程 https://www.bilibili.com/video/BV1iH4jz4EPo 第二讲
 
