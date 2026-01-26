@@ -16,7 +16,7 @@
 | **张孟驰** | 260121 | 学习华科机械培训第一讲 | [B站视频](https://www.bilibili.com/video/BV1DgnHzmEXK) |
 | **白逸鸣** | 260121 | 学习华科机械培训第一讲 | [B站视频](https://www.bilibili.com/video/BV1DgnHzmEXK) |
 | **卢王淳** | 260122 | 学习25、26华科机械气动培训 | [B站视频](https://www.bilibili.com/video/BV1JC4kzME3c?vd_source=d13ddcdcf6579b45b8c46d1b239e268a) |
-
+| **陈琦** | 260126 | 参与入会面试，表达想法，自己踏实钻研，积极协助，认真完成各项任务，不断提升专业能力，以坚定的决心和务实的行动为团队贡献力量，让自己能有更多的收获。
 *(请保持格式统一：`YYMMDD @姓名 内容 [链接]` 或表格形式)*
 
 ---
