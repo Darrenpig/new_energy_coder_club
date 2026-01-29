@@ -23,6 +23,7 @@
 | **王欣怡** | 260121 | 中科大RM电控合集 观看了Git基础操作教学和1.1的电控简介对其资料的位置以及整体流程有了初步了解 | [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
 | **王欣怡** | 260123 | 中科大RM电控合集 观看了2.1的环境配置并且已经完成环境调试，正在学习2.2的基础知识| [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
 | **王欣怡** | 260123 | 中科大RM电控合集 CubeMX今天使用的时候报错了，部分信息没办法及时更新全删掉重新进行了安装并在网上购买了与视频教程一样型号的STM32板子还没到继续学习2.2的基础知识| [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
+| **王欣怡** | 260123 | 中科大RM电控合集的 今天把2.2的GPIO学完了，并且代码准备明天把板子拿到手就直接烧代码点灯，并且通过查找资料对自己的负责部分有了初步理解| [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
 | **孙诗睿** | 260121 | 中科大RM电控合集 观看了1.1的电控简介，对其有了初步的认识，并学习了2.1中一部分的STM32单片机环境配置 | [B站视频](https://www.bilibili.com/video/BV1z14y1G77V)| 
 | **孙诗睿** | 260123 | 中科大RM电控合集 完成2.1内容，学习了2.2GPIO输出电压。 | [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
 | **孙诗睿** | 260124 | 中科大RM电控合集 学习了2.3EXTI外部中断。 | [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
