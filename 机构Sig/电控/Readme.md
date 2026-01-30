@@ -20,6 +20,7 @@
 | **魏卫** | 260121 |中科大RM电控合集 观看了clion环境配置教程，结合claude code辅助，完成了STM32H723项目的CLion+OpenOCD调试环境配置 | [B站视频](https://www.bilibili.com/video/BV1Rx4y1C7d4) |
 | **魏卫** | 260124 |中科大RM电控合集 观看了达妙板篇，配置了点灯程序并成功编译烧录，但是没有5v供电，没有看到效果；后烧录官方IMU例程，通过keil的debug初步观察pitch俯仰角和roll横滚角；| [B站视频](https://www.bilibili.com/video/BV1XHi7BZEU1) |
 | **魏卫** | 260127 |中科大RM电控合集 学习了CAN总线的理论知识；收到了24V电源转换器，烧录运行了点灯与彩灯等例程；购入XT30母对母转接线用于后续的DM3519调试；| [B站视频](https://www.bilibili.com/video/BV1HY411D7Ar) |
+| **魏卫** | 260130 |中科大RM电控合集 一开始在https://gitee.com/kit-miao/motor-control-routine/tree/master/stm32%E4%BE%8B%E7%A8%8B/dm_ctrl(DM3519%20%E4%B8%80%E6%8B%96%E5%9B%9B)例程的基础上编译烧录，调试失败，后来多次寻找官方文档，找到后用AI辅助修改底层协议，最终用MIT模式成功实现电机控制|[DM-S3519-1EC 使用说明书 V1.1 (PDF)](https://gitee.com/kit-miao/DM-S3519-1EC/blob/master/DM-S3519-1EC%E5%87%8F%E9%80%9F%E7%94%B5%E6%9C%BA%EF%BC%88%E5%90%ABDM3520-1EC%E9%A9%B1%E5%8A%A8%E5%99%A8%EF%BC%89%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6V1.1.pdf)|
 | **王欣怡** | 260121 | 中科大RM电控合集 观看了Git基础操作教学和1.1的电控简介对其资料的位置以及整体流程有了初步了解 | [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
 | **王欣怡** | 260123 | 中科大RM电控合集 观看了2.1的环境配置并且已经完成环境调试，正在学习2.2的基础知识| [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
 | **王欣怡** | 260123 | 中科大RM电控合集 CubeMX今天使用的时候报错了，部分信息没办法及时更新全删掉重新进行了安装并在网上购买了与视频教程一样型号的STM32板子还没到继续学习2.2的基础知识| [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
