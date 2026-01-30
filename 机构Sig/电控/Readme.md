@@ -29,6 +29,7 @@
 | **孙诗睿** | 260123 | 中科大RM电控合集 完成2.1内容，学习了2.2GPIO输出电压。 | [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
 | **孙诗睿** | 260124 | 中科大RM电控合集 学习了2.3EXTI外部中断。 | [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
 | **孙诗睿** | 260126 | 中科大RM电控合集 学习了2.4TIM定时器中断。 | [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
+| **孙诗睿** | 260130 | 中科大RM电控合集 学习了2.5UART通信。 | [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
 | **梁新雷** | 260121 | 中科大RM电控合集 观看了1.1和2.1对电控理论和stm32单片机环境配置和基础知识有了一定了解 | [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
 | **文钰婷** | 260122 | 中科大RM电控合集 观看了1.1电控简介有了简单的认识 复习了stm32基础知识 | [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
 | **文钰婷** | 260125 | 中科大RM电控合集 观看了2.1STM32单片机环境配置|[B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
