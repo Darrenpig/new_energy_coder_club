@@ -44,6 +44,7 @@
 | **李畅畅** | 260130 |中科大RM电控合集 观看了2.6PWM呼吸灯实操测试，CAN通信开头部分| [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
 | **孟洁** | 260124 |中科大RM电控合集 观看了2.1STM32单片机环境配置，2.3EXTI外部中断| [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
 | **吴梦婷** | 260127 | 中科大RM电控合集 观看了2.3STM32CubeMX-EXTI外部中断 | [B站视频](https://www.bilibili.com/video/BV14T4y1Z7XF?vd_source=b4605d95465c67d41069f2d4bd865c02)|
+| **田旺旺** | 260131 | B站最新Trae全套实战保姆级教程，一周从入门到精通全集 | [B站视频](https://www.bilibili.com/video/BV1hdsjzjEhZ)|
 *(请保持格式统一：`YYMMDD @姓名 内容 [链接]` 或表格形式)*
 <<<<<<< HEAD
 =======
