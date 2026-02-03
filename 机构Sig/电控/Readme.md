@@ -27,6 +27,7 @@
 | **王欣怡** | 260129 | 中科大RM电控合集的 今天把2.2的GPIO学完了，并且代码准备明天把板子拿到手就直接烧代码点灯，并且通过查找资料对自己的负责部分有了初步理解| [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
 | **王欣怡** | 260130 | 中科大RM电控合集 学完了2.3和2.4的定时器中断和外部中断，代码实际应用时发现课程所教使用的cpp11对我而言不适用会出现报错要用c99| [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
 | **王欣怡** | 260201 | 中科大RM电控合集 学习2.5内容| [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
+| **王欣怡** | 260203 | 中科大RM电控合集 学习2.6和2.7内容买了一个usb赚ttl准备明天开始看电机部分了| [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
 | **孙诗睿** | 260121 | 中科大RM电控合集 观看了1.1的电控简介，对其有了初步的认识，并学习了2.1中一部分的STM32单片机环境配置 | [B站视频](https://www.bilibili.com/video/BV1z14y1G77V)| 
 | **孙诗睿** | 260123 | 中科大RM电控合集 完成2.1内容，学习了2.2GPIO输出电压。 | [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
 | **孙诗睿** | 260124 | 中科大RM电控合集 学习了2.3EXTI外部中断。 | [B站视频](https://www.bilibili.com/video/BV1z14y1G77V) |
