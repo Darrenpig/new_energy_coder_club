@@ -100,6 +100,7 @@ NEC 是面向新能源与机器人竞赛的开源工程社区，提供模块化�
 | **OpenCV+YOLO 目标检测** | - | 视觉 | [B站视频](https://www.bilibili.com/video/BV1M7oMYXE5h) |
 | **树莓派5 视觉部署** | 亚博智能 | 视觉 | [B站视频](https://www.bilibili.com/video/BV1zCWYzvEA7) |
 | **中科大 RM 运营课程** | USTC | 运营 | [B站视频](https://www.bilibili.com/video/BV1h4421F7sp) |
+| **福建理工MTI机器人队** | FJUT | 通用 | [github](https://github.com/FJUTMTI/MTI-Knowledge-Base/blob/main/open_source.md) |
 
 ## 贡献者 (Contributors)
 
