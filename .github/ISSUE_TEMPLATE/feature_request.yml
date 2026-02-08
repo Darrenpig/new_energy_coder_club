@@ -1,8 +1,12 @@
-name: "📝 Docs task"
-description: "文档改进/新增页面/修订路线"
-title: "[docs] "
-labels: ["type:doc", "status:backlog"]
+name: "🚀 Feature / Requirement"
+description: "提出新功能需求或任务目标"
+title: "[feat] "
+labels: ["type:requirement", "status:backlog"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        请清晰描述需求背景和目标，帮助我们更好地理解价值。
   - type: dropdown
     id: priority
     attributes:
@@ -33,38 +37,33 @@ body:
     validations:
       required: true
   - type: textarea
+    id: background
+    attributes:
+      label: 背景与现状
+      description: 为什么需要这个功能？现在有什么痛点？
+    validations:
+      required: true
+  - type: textarea
     id: goal
     attributes:
-      label: 目标
-      description: 这篇文档要解决什么问题？给谁看？读完能做什么？
-    validations:
-      required: true
-  - type: textarea
-    id: scope
-    attributes:
-      label: 范围 / 交付物
-      description: 写哪些页面？修改哪些文件？验收标准是什么？
+      label: 目标与预期
+      description: 希望达成什么效果？有什么具体的验收标准？
       placeholder: |
-        - 修改 docs/xxx.md
-        - 新增 docs/yyy.md
-        - 验收：新人能在 30 分钟跑通 demo
-    validations:
-      required: true
-  - type: dropdown
-    id: difficulty
-    attributes:
-      label: 难度建议
-      options:
-        - difficulty:1
-        - difficulty:2
-        - difficulty:3
-        - difficulty:4
+        - 实现 VCU 上电自检逻辑
+        - 验收：上电后 CAN 报文发出 0x123，无故障码
     validations:
       required: true
   - type: textarea
-    id: refs
+    id: proposal
     attributes:
-      label: 参考链接 / 资料
-      description: 贴出关联的项目路径、Issue、外部链接等
+      label: 方案建议 (可选)
+      description: 如果有技术方案或实现思路，请简要描述
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: 补充上下文
+      description: 相关的 Issue、文档链接、参考资料等
     validations:
       required: false

@@ -1,12 +1,58 @@
 name: "🐛 Bug report"
 description: "报告一个可复现的问题（代码 / 文档 / Demo 都算）"
 title: "[bug] "
-labels: ["type:bug"]
+labels: ["type:bug", "status:backlog"]
 body:
   - type: markdown
     attributes:
       value: |
         感谢你提交 Issue！请尽量提供完整信息，方便我们快速复现与修复。
+  - type: dropdown
+    id: priority
+    attributes:
+      label: 优先级 (Priority)
+      description: 请评估该问题的紧急程度
+      options:
+        - "prio:P0 (严重阻塞/安全/交付风险)"
+        - "prio:P1 (本迭代必须完成)"
+        - "prio:P2 (重要但可延期)"
+        - "prio:P3 (低优先级/优化项)"
+    validations:
+      required: true
+  - type: dropdown
+    id: module
+    attributes:
+      label: 模块归属 (Module)
+      description: 问题发生在哪个模块？
+      options:
+        - "module:VCU"
+        - "module:MCU"
+        - "module:BMS"
+        - "module:OBC"
+        - "module:DCDC"
+        - "module:EMS"
+        - "module:CAN"
+        - "module:Diag"
+        - "module:Bootloader"
+        - "module:Calibration"
+        - "Other"
+    validations:
+      required: true
+  - type: dropdown
+    id: offline
+    attributes:
+      label: 线下环境 (Offline) - 可选
+      description: 如果涉及线下设备或环境，请选择
+      options:
+        - "None"
+        - "offline:vehicle (实车)"
+        - "offline:bench (台架)"
+        - "offline:hil (HIL)"
+        - "offline:sil (SIL)"
+        - "offline:lab (实验室)"
+        - "offline:flash (刷写)"
+    validations:
+      required: false
   - type: input
     id: env
     attributes:
