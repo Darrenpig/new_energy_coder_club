@@ -23,7 +23,7 @@
 
 # NEC · New Energy Coder Community
 
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)[![Chat](https://img.shields.io/badge/Chat-QQ-blue?style=flat-square)](https://gitee.com/darrenpig/new_energy_coder_club/issues/IDATOS)[![Open Issues](https://img.shields.io/github/issues/darrenpig/new_energy_coder_club?label=open%20issues)](https://github.com/darrenpig/new_energy_coder_club/issues)[![Open PRs](https://img.shields.io/github/issues-pr/darrenpig/new_energy_coder_club?label=open%20PRs)](https://github.com/darrenpig/new_energy_coder_club/pulls)[![Docs](https://img.shields.io/badge/docs-%E2%9C%94%20complete-brightgreen)](docs/)
+[![License](https://img.shields.io/badge/License-Mulan%20PSL%20v2-blue)](LICENSE.md)[![Chat](https://img.shields.io/badge/Chat-QQ-blue?style=flat-square)](https://gitee.com/darrenpig/new_energy_coder_club/issues/IDATOS)[![Open Issues](https://img.shields.io/github/issues/darrenpig/new_energy_coder_club?label=open%20issues)](https://github.com/darrenpig/new_energy_coder_club/issues)[![Open PRs](https://img.shields.io/github/issues-pr/darrenpig/new_energy_coder_club?label=open%20PRs)](https://github.com/darrenpig/new_energy_coder_club/pulls)[![Docs](https://img.shields.io/badge/docs-%E2%9C%94%20complete-brightgreen)](docs/)
 [![Version](https://img.shields.io/github/v/tag/darrenpig/new_energy_coder_club?label=Version)](https://github.com/darrenpig/new_energy_coder_club/releases)[![Project Status](https://img.shields.io/badge/Project%20Status-Active-green)](https://github.com/darrenpig/new_energy_coder_club)[![Website](https://img.shields.io/badge/Website-newenergycoder.club-orange?style=flat-square)](https://www.newenergycoder.club/)[![Knowledge Base](https://img.shields.io/badge/Knowledge%20Base-Feishu-blue?style=flat-square)](https://scn0bdoc8zxg.feishu.cn/wiki/S10LwzVZdiWLwxkEnEqcTcmEn6e)
 
 ## About NEC
@@ -302,7 +302,7 @@ new_energy_coder_club/
 
 <!-- ACKNOWLEDGMENTS -->
 ## 许可与合规（License & Compliance）
-- 主许可证: MIT（代码与文档遵循 MIT，见 [LICENSE](./LICENSE.md)）
+- 主许可证: 木兰宽松许可证第 2 版（Mulan PSL v2，见 [LICENSE.md](./LICENSE.md)）
 - 资料与第三方声明: README/Docs 中的外部链接、赛季资料索引仅作导航，版权归原作者/主办方所有
 - 安全与联系方式: 见 [SECURITY](./docs/SECURITY.md)，建议通过 Issues 报告安全问题
 - 行为准则与治理: 见 [Code of Conduct](./docs/CODE_OF_CONDUCT.md) 与 [Governance](./docs/GOVERNANCE.md)
