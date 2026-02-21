@@ -42,6 +42,7 @@ NEC 新能源开发者社区文档
    :maxdepth: 2
    :caption: 🏆 竞赛项目
 
+   curc26/index
    competitions/index
 
 项目文档
