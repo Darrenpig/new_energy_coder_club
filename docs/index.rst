@@ -80,6 +80,15 @@ NEC 新能源开发者社区文档
    templates/README_COMPETITION_TEMPLATE
    templates/README_PROJECT_TEMPLATE
 
+知识库
+------
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 📖 Wiki 知识库
+
+   wiki/index
+
 其他
 ----
 
